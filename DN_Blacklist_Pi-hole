@@ -5,9 +5,91 @@
 
 
 # advertisement
+0.0.0.0 adultfriendfinder.com
+
 # Malware
 0.0.0.0 de.softonic.com
 0.0.0.0 en.softonic.com
+0.0.0.0 likeportal.com
+0.0.0.0 likespike.com
+0.0.0.0 likethislist.biz
+0.0.0.0 likethis.mbosoft.com
+0.0.0.0 mylike.co.uk
+0.0.0.0 proflashdata.com
+0.0.0.0 secure-logins01.com
+0.0.0.0 tattooshaha.info
+0.0.0.0 thedatesafe.com
+0.0.0.0 tomorrownewstoday.com
+0.0.0.0 twitter.secure-logins01.com
 0.0.0.0 us.softonic.com
-# Spam
-# Spyware
+0.0.0.0 videos.twitter.secure-logins01.com
+0.0.0.0 www.clickspring.net
+0.0.0.0 www.mylike.co.uk
+0.0.0.0 www.proflashdata.com
+
+# Spam/Phishing
+0.0.0.0 -mmfirmenkontakt.de
+0.0.0.0 brunga.at
+0.0.0.0 eaglefight.top
+0.0.0.0 1729-abfirmenkontakts.de
+0.0.0.0 1945-dbsonlinemarketing-de.de
+0.0.0.0 1bestone.pw
+0.0.0.0 1lineslots.ru
+0.0.0.0 3757-mailkontaktms.de
+0.0.0.0 cardsexpert.ru
+0.0.0.0 ftec.com
+0.0.0.0 hoffmann-sprezyny.pl
+0.0.0.0 host.ftec.com
+0.0.0.0 scottishstuff-online.com
+
+
+# Tracking
+0.0.0.0 1und1.ivwbox.de
+0.0.0.0 bild.ivwbox.de
+0.0.0.0 faz.ivwbox.de
+0.0.0.0 faz.ivwbox.de
+0.0.0.0 kicker.ivwbox.de
+0.0.0.0 netzmarkt.ivwbox.de
+0.0.0.0 ntv.ivwbox.de
+0.0.0.0 onvis.ivwbox.de
+0.0.0.0 quantserve.com
+0.0.0.0 signauxdeux.com
+0.0.0.0 spiegel.ivwbox.de
+0.0.0.0 t.signauxdeux.com
+0.0.0.0 www.ivwbox.de
+0.0.0.0 www.quantserve.com
+
+# Windows/Microsoft reporting 
+0.0.0.0 a.ads2.msads.net
+0.0.0.0 adnexus.net
+0.0.0.0 aidps.atdmt.com
+0.0.0.0 az361816.vo.msecnd.net
+0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 b.ads1.msn.com
+0.0.0.0 b.ads2.msads.net
+0.0.0.0 c.atdmt.com
+0.0.0.0 cdn.atdmt.com
+0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 c.msn.com
+0.0.0.0 db3aqu.atdmt.com
+0.0.0.0 ec.atdmt.com
+0.0.0.0 feedback.microsoft-hohm.com
+0.0.0.0 flex.msn.com
+0.0.0.0 g.msn.com
+0.0.0.0 h1.msn.com
+0.0.0.0 lb1.www.ms.akadns.net
+0.0.0.0 live.rads.msn.com
+0.0.0.0 m.adnxs.com
+0.0.0.0 msnbot-65-55-108-23.search.msn.com
+0.0.0.0 msntest.serving-sys.com
+0.0.0.0 preview.msn.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 schemas.microsoft.akadns.net
+0.0.0.0 secure.flashtalking.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 sO.2mdn.net
+0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 wes.df.telemetry.microsoft.com
