@@ -1,0 +1,11 @@
+# Beispiel für einen Eintrag
+# 0.0.0.0 domain.tld
+
+
+
+# Malware
+0.0.0.0 de.softonic.com
+0.0.0.0 en.softonic.com
+0.0.0.0 us.softonic.com
+# Spam
+# Spionage
