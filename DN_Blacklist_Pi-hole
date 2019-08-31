@@ -8,13 +8,21 @@
 0.0.0.0 adultfriendfinder.com
 
 # Malware
+0.0.0.0 1drv.ms
+0.0.0.0 38zu.cn
+0.0.0.0 d99q.cn
 0.0.0.0 de.softonic.com
 0.0.0.0 en.softonic.com
+0.0.0.0 forum.d99q.cn
+0.0.0.0 googleanalytlcs.net
 0.0.0.0 likeportal.com
 0.0.0.0 likespike.com
 0.0.0.0 likethislist.biz
 0.0.0.0 likethis.mbosoft.com
+0.0.0.0 lousecn.cn
+0.0.0.0 martuz.cn
 0.0.0.0 mylike.co.uk
+0.0.0.0 orgsite.cn
 0.0.0.0 proflashdata.com
 0.0.0.0 secure-logins01.com
 0.0.0.0 tattooshaha.info
@@ -29,6 +37,7 @@
 
 # Spam/Phishing
 0.0.0.0 -mmfirmenkontakt.de
+0.0.0.0 att500.com
 0.0.0.0 brunga.at
 0.0.0.0 eaglefight.top
 0.0.0.0 1729-abfirmenkontakts.de
@@ -41,7 +50,6 @@
 0.0.0.0 hoffmann-sprezyny.pl
 0.0.0.0 host.ftec.com
 0.0.0.0 scottishstuff-online.com
-
 
 # Tracking
 0.0.0.0 1und1.ivwbox.de
