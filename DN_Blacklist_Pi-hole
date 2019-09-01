@@ -5,6 +5,7 @@
 
 
 # advertisement
+0.0.0.0 3632.tm.zedo.com
 0.0.0.0 ad.lkqd.net
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 api.b2c.com
@@ -31,10 +32,13 @@
 0.0.0.0 bos-tapreq18.jumptap.com
 0.0.0.0 bos-tapreq19.jumptap.com
 0.0.0.0 bos-tapreq20.jumptap.com
+0.0.0.0 cdn.connatix.com
+0.0.0.0 connatix.com
 0.0.0.0 content.ad
 0.0.0.0 glc-ad.net
 0.0.0.0 i.jumptap.com
 0.0.0.0 lkqd.net
+0.0.0.0 proper.io
 0.0.0.0 ps7894.com
 0.0.0.0 ssp.lkqd.net
 0.0.0.0 tracking.applift.com
@@ -44,6 +48,7 @@
 0.0.0.0 web65.jumptap.com
 0.0.0.0 www.lkqd.net
 0.0.0.0 www.ps7894.com
+0.0.0.0 zedo.com
 
 # Malware
 0.0.0.0 1drv.ms
