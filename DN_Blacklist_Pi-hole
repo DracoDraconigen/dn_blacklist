@@ -5,7 +5,11 @@
 
 
 # advertisement
+0.0.0.0 ad.lkqd.net
 0.0.0.0 adultfriendfinder.com
+0.0.0.0 api.b2c.com
+0.0.0.0 api.content.ad
+0.0.0.0 b2c.com
 0.0.0.0 bo.jumptap.com
 0.0.0.0 bos-tapreq01.jumptap.com
 0.0.0.0 bos-tapreq02.jumptap.com
@@ -27,15 +31,22 @@
 0.0.0.0 bos-tapreq18.jumptap.com
 0.0.0.0 bos-tapreq19.jumptap.com
 0.0.0.0 bos-tapreq20.jumptap.com
+0.0.0.0 content.ad
+0.0.0.0 glc-ad.net
 0.0.0.0 i.jumptap.com
+0.0.0.0 lkqd.net
+0.0.0.0 ssp.lkqd.net
 0.0.0.0 tracking.applift.com
+0.0.0.0 v.lkqd.net
 0.0.0.0 web64.jumptap.com
 0.0.0.0 web63.jumptap.com
 0.0.0.0 web65.jumptap.com
+0.0.0.0 www.lkqd.net
 
 # Malware
 0.0.0.0 1drv.ms
 0.0.0.0 38zu.cn
+0.0.0.0 cdn.uelllwrite.com
 0.0.0.0 d99q.cn
 0.0.0.0 de.softonic.com
 0.0.0.0 en.softonic.com
@@ -55,6 +66,7 @@
 0.0.0.0 thedatesafe.com
 0.0.0.0 tomorrownewstoday.com
 0.0.0.0 twitter.secure-logins01.com
+0.0.0.0 uelllwrite.com
 0.0.0.0 us.softonic.com
 0.0.0.0 videos.twitter.secure-logins01.com
 0.0.0.0 www.clickspring.net
@@ -76,6 +88,7 @@
 0.0.0.0 hoffmann-sprezyny.pl
 0.0.0.0 host.ftec.com
 0.0.0.0 scottishstuff-online.com
+0.0.0.0 xelllwrite.com
 
 # Tracking
 0.0.0.0 1und1.ivwbox.de
@@ -127,3 +140,6 @@
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
+
+
+# Other
