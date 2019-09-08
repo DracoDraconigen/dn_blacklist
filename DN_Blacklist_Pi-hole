@@ -54,6 +54,14 @@
 0.0.0.0 www.ps7894.com
 0.0.0.0 zedo.com
 
+# Fake Software
+0.0.0.0 adwarestriker.com
+0.0.0.0 expertantivirus.com
+0.0.0.0 mynetprotector.com
+0.0.0.0 spystriker.com
+0.0.0.0 virus-scanonline.com
+0.0.0.0 winantivirus.com
+
 # Malware
 0.0.0.0 1drv.ms
 0.0.0.0 38zu.cn
