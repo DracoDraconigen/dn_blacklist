@@ -57,30 +57,45 @@
 # Malware
 0.0.0.0 1drv.ms
 0.0.0.0 38zu.cn
+0.0.0.0 adultan.com
+0.0.0.0 astalavista.box.sk
+0.0.0.0 biohazard.xz.cz
 0.0.0.0 cdn.uelllwrite.com
+0.0.0.0 cracks.thebugs.ws
 0.0.0.0 d99q.cn
 0.0.0.0 de.softonic.com
+0.0.0.0 easycracks.net
 0.0.0.0 en.softonic.com
+0.0.0.0 fevertube.com
 0.0.0.0 forum.d99q.cn
+0.0.0.0 girls-Forever.com
 0.0.0.0 googleanalytlcs.net
+0.0.0.0 icracks.net
+0.0.0.0 kassperskylabs.cn #fake site with malicious software!
 0.0.0.0 likeportal.com
 0.0.0.0 likespike.com
 0.0.0.0 likethislist.biz
 0.0.0.0 likethis.mbosoft.com
 0.0.0.0 lousecn.cn
+0.0.0.0 magicpornotube.net
 0.0.0.0 martuz.cn
 0.0.0.0 mylike.co.uk
+0.0.0.0 nudeteens.in
 0.0.0.0 orgsite.cn
 0.0.0.0 proflashdata.com
 0.0.0.0 secure-logins01.com
+0.0.0.0 stepbystepbg.org
 0.0.0.0 tattooshaha.info
 0.0.0.0 thedatesafe.com
+0.0.0.0 thetextdesk.com
 0.0.0.0 tomorrownewstoday.com
 0.0.0.0 twitter.secure-logins01.com
 0.0.0.0 uelllwrite.com
 0.0.0.0 us.softonic.com
 0.0.0.0 videos.twitter.secure-logins01.com
+0.0.0.0 web-money.cn
 0.0.0.0 www.clickspring.net
+0.0.0.0 www.icracks.net
 0.0.0.0 www.mylike.co.uk
 0.0.0.0 www.proflashdata.com
 
@@ -145,6 +160,7 @@
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 secure.flashtalking.com
+0.0.0.0 serialz.to
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 sO.2mdn.net
 0.0.0.0 statsfe2.ws.microsoft.com
@@ -155,3 +171,4 @@
 
 
 # Other
+0.0.0.0 keygen.name
