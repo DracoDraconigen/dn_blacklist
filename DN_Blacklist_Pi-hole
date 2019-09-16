@@ -2,7 +2,7 @@
 # 0.0.0.0 domain.tld
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
-# Definitions total: 163 
+# Definitions total: 169
 
 # advertisement
 0.0.0.0 3632.tm.zedo.com
@@ -110,21 +110,27 @@
 
 # Spam/Phishing
 0.0.0.0 -mmfirmenkontakt.de
-0.0.0.0 att500.com
-0.0.0.0 brunga.at
-0.0.0.0 dater.website
-0.0.0.0 eaglefight.top
 0.0.0.0 1729-abfirmenkontakts.de
 0.0.0.0 1945-dbsonlinemarketing-de.de
+0.0.0.0 3757-mailkontaktms.de
 0.0.0.0 1bestone.pw
 0.0.0.0 1lineslots.ru
-0.0.0.0 3757-mailkontaktms.de
+0.0.0.0 analabuba.com
+0.0.0.0 att500.com
+0.0.0.0 bayern-apo.store
+0.0.0.0 brunga.at
 0.0.0.0 cardsexpert.ru
+0.0.0.0 dater.website
+0.0.0.0 eaglefight.top
 0.0.0.0 ftec.com
 0.0.0.0 hoffmann-sprezyny.pl
 0.0.0.0 host.ftec.com
+0.0.0.0 hss.servprocedar.com
 0.0.0.0 scottishstuff-online.com
+0.0.0.0 servprocedar.com
+0.0.0.0 viq.bayern-apo.store
 0.0.0.0 xelllwrite.com
+0.0.0.0 www.analabuba.com
 
 # Tracking
 0.0.0.0 1und1.ivwbox.de
