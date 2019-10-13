@@ -3,7 +3,7 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # Definitions total: 186
-
+#
 # advertisement
 0.0.0.0 3632.tm.zedo.com
 0.0.0.0 ad.lkqd.net
@@ -53,7 +53,7 @@
 0.0.0.0 www.lkqd.net
 0.0.0.0 www.ps7894.com
 0.0.0.0 zedo.com
-
+#
 # Fake Software
 0.0.0.0 adwarestriker.com
 0.0.0.0 expertantivirus.com
@@ -61,7 +61,7 @@
 0.0.0.0 spystriker.com
 0.0.0.0 virus-scanonline.com
 0.0.0.0 winantivirus.com
-
+#
 # Malware
 0.0.0.0 1drv.ms
 0.0.0.0 38zu.cn
@@ -111,7 +111,7 @@
 0.0.0.0 www.icracks.net
 0.0.0.0 www.mylike.co.uk
 0.0.0.0 www.proflashdata.com
-
+#
 # Spam/Phishing
 0.0.0.0 -mmfirmenkontakt.de
 0.0.0.0 1729-abfirmenkontakts.de
@@ -146,7 +146,7 @@
 0.0.0.0 www.ccener.com
 0.0.0.0 www.elie.jp
 0.0.0.0 zzz.Com.ua
-
+#
 # Tracking
 0.0.0.0 1und1.ivwbox.de
 0.0.0.0 bild.ivwbox.de
@@ -162,7 +162,7 @@
 0.0.0.0 t.signauxdeux.com
 0.0.0.0 www.ivwbox.de
 0.0.0.0 www.quantserve.com
-
+#
 # Windows/Microsoft reporting 
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 adnexus.net
@@ -198,8 +198,8 @@
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
-
-
+#
+#
 # Other
 0.0.0.0 blizzzrd-net.com
 0.0.0.0 keygen.name
