@@ -2,7 +2,7 @@
 # 0.0.0.0 domain.tld
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
-# Definitions total: 184
+# Definitions total: 186
 
 # advertisement
 0.0.0.0 3632.tm.zedo.com
@@ -201,4 +201,6 @@
 
 
 # Other
+0.0.0.0 blizzzrd-net.com
 0.0.0.0 keygen.name
+0.0.0.0 www.blizzzrd-net.com
