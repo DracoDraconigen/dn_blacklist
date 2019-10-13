@@ -2,7 +2,7 @@
 # 0.0.0.0 domain.tld
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
-# Definitions total: 169
+# Definitions total: 184
 
 # advertisement
 0.0.0.0 3632.tm.zedo.com
@@ -68,10 +68,12 @@
 0.0.0.0 adultan.com
 0.0.0.0 astalavista.box.sk
 0.0.0.0 biohazard.xz.cz
+0.0.0.0 bodelen.com
 0.0.0.0 cdn.uelllwrite.com
 0.0.0.0 cracks.thebugs.ws
 0.0.0.0 d99q.cn
 0.0.0.0 de.softonic.com
+0.0.0.0 deloplen.com
 0.0.0.0 easycracks.net
 0.0.0.0 en.softonic.com
 0.0.0.0 fevertube.com
@@ -104,6 +106,8 @@
 0.0.0.0 vx.netlux.org
 0.0.0.0 web-money.cn
 0.0.0.0 www.clickspring.net
+0.0.0.0 www.bodelen.com
+0.0.0.0 www.deloplen.com
 0.0.0.0 www.icracks.net
 0.0.0.0 www.mylike.co.uk
 0.0.0.0 www.proflashdata.com
@@ -115,22 +119,33 @@
 0.0.0.0 3757-mailkontaktms.de
 0.0.0.0 1bestone.pw
 0.0.0.0 1lineslots.ru
+0.0.0.0 elie.jp
 0.0.0.0 analabuba.com
 0.0.0.0 att500.com
 0.0.0.0 bayern-apo.store
 0.0.0.0 brunga.at
 0.0.0.0 cardsexpert.ru
+0.0.0.0 ccener.com
 0.0.0.0 dater.website
 0.0.0.0 eaglefight.top
 0.0.0.0 ftec.com
+0.0.0.0 fuamex.com
+0.0.0.0 ggob.ccener.com
 0.0.0.0 hoffmann-sprezyny.pl
 0.0.0.0 host.ftec.com
 0.0.0.0 hss.servprocedar.com
+0.0.0.0 imdbimax.ru
+0.0.0.0 lives.zzz.Com.ua
+0.0.0.0 modelsnettv.com
+0.0.0.0 proiphone.com.ua
 0.0.0.0 scottishstuff-online.com
 0.0.0.0 servprocedar.com
 0.0.0.0 viq.bayern-apo.store
 0.0.0.0 xelllwrite.com
 0.0.0.0 www.analabuba.com
+0.0.0.0 www.ccener.com
+0.0.0.0 www.elie.jp
+0.0.0.0 zzz.Com.ua
 
 # Tracking
 0.0.0.0 1und1.ivwbox.de
