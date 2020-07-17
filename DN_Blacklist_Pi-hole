@@ -3,9 +3,9 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # This list contains dangerous sites. These sites may contain spam, viruses, malware and other harmful content. Fake pages are also included.
-#Definitions total: 469
+#Definitions total: 519
 #
-# advertisement
+# suspicious domains
 0.0.0.0 -mmfirmenkontakt.de
 0.0.0.0 1729-abfirmenkontakts.de
 0.0.0.0 1945-dbsonlinemarketing-de.de
@@ -16,16 +16,13 @@
 0.0.0.0 3632.tm.zedo.com
 0.0.0.0 3757-mailkontaktms.de
 0.0.0.0 38zu.cn
+0.0.0.0 3aplus63.ru
 0.0.0.0 3mp3.ru
 0.0.0.0 918kiss.group
-0.0.0.0 Blakesector.scumvv.ca
-0.0.0.0 Bookie7.run
-0.0.0.0 GenericVersionViagra.com
-0.0.0.0 Gim7Rudasl.pl
-0.0.0.0 Iwilllendyoumoney.com
-0.0.0.0 Nowodworskirozklad.pl
+0.0.0.0 919islandcuisine.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 acama.asia
+0.0.0.0 accs.vn
 0.0.0.0 acedemysportsandoutdoors.com
 0.0.0.0 ad.lkqd.net
 0.0.0.0 adclient.uimserv.net
@@ -38,6 +35,7 @@
 0.0.0.0 advhub.org
 0.0.0.0 adwarestriker.com
 0.0.0.0 affariat.com
+0.0.0.0 agendomino99onlineterpercaya.blogspot.com
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 akroofwindows.co.uk
 0.0.0.0 aln-consulting.de
@@ -57,6 +55,8 @@
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b2c.com
 0.0.0.0 baijialuntan.net
+0.0.0.0 baronesa.xyz
+0.0.0.0 baunti.top
 0.0.0.0 bayern-apo.store
 0.0.0.0 bbs.joyhll.org
 0.0.0.0 beattienao.com
@@ -65,10 +65,14 @@
 0.0.0.0 bilgideposu.ra6.org
 0.0.0.0 biohazard.xz.cz
 0.0.0.0 bitcoinapedia.com
+0.0.0.0 bjyou4122.com
 0.0.0.0 blackshemaleclips.com										#guestbook and mailspam
+0.0.0.0 blakesector.scumvv.ca
 0.0.0.0 blizzzrd-net.com
 0.0.0.0 bo.jumptap.com
 0.0.0.0 bodelen.com
+0.0.0.0 bookbrouser.com
+0.0.0.0 bookie7.run
 0.0.0.0 bookie7.win
 0.0.0.0 bos-tapreq01.jumptap.com
 0.0.0.0 bos-tapreq02.jumptap.com
@@ -108,13 +112,14 @@
 0.0.0.0 cdn.uelllwrite.com
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 climatestrike.ch		#guestbook Spam several times
+0.0.0.0 clonevia.com
 0.0.0.0 connatix.com
 0.0.0.0 content.ad
 0.0.0.0 coralgablesroofing.info
 0.0.0.0 courseworkhelpxeg.com
 0.0.0.0 cr7fotbollsko.com
-0.0.0.0 cr7fotbollsko.com
 0.0.0.0 cracks.thebugs.ws
+0.0.0.0 creativevideoblog.yolasite.com
 0.0.0.0 cucoplan.com
 0.0.0.0 d99q.cn
 0.0.0.0 danmar.su
@@ -159,11 +164,13 @@
 0.0.0.0 g.msn.com
 0.0.0.0 gcskorea.org
 0.0.0.0 generic-Vaigra-Generic.com
+0.0.0.0 genericVersionViagra.com
 0.0.0.0 ggob.ccener.com
 0.0.0.0 gilservis.maglan.ru
 0.0.0.0 gim2Grodzisk.pl
 0.0.0.0 gim2ns.pl
 0.0.0.0 gim4zary.pl
+0.0.0.0 gim7Rudasl.pl
 0.0.0.0 gimklobuck.pl
 0.0.0.0 girls-Forever.com
 0.0.0.0 glc-ad.net
@@ -173,6 +180,7 @@
 0.0.0.0 h1.msn.com
 0.0.0.0 hoanganhmart.com
 0.0.0.0 hoffmann-sprezyny.pl
+0.0.0.0 hopewalk.net
 0.0.0.0 host.ftec.com
 0.0.0.0 house2style.nl
 0.0.0.0 hss.servprocedar.com
@@ -186,6 +194,7 @@
 0.0.0.0 itsfogo.com
 0.0.0.0 itxxlm.com
 0.0.0.0 ivancice.net
+0.0.0.0 iwilllendyoumoney.com
 0.0.0.0 japanulled.com
 0.0.0.0 jifenbao.geihui.com
 0.0.0.0 johnathan9inu5.pointblog.net
@@ -200,6 +209,7 @@
 0.0.0.0 lawchong.com
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 levinedamborg07.xtgem.com
+0.0.0.0 lienquansuamaygiatlg.blogspot.com
 0.0.0.0 likeportal.com
 0.0.0.0 likespike.com
 0.0.0.0 likethis.mbosoft.com
@@ -208,13 +218,17 @@
 0.0.0.0 lives.zzz.Com.ua
 0.0.0.0 lkqd.net
 0.0.0.0 localappliancerepairman.net
+0.0.0.0 lotus-cayyolu.com
 0.0.0.0 lousecn.cn
 0.0.0.0 lt.tai-chi-offenbach.de
 0.0.0.0 m.adnxs.com
 0.0.0.0 magicpornotube.net
+0.0.0.0 mangdichvu.net
 0.0.0.0 marquesas-inn.com
 0.0.0.0 martuz.cn
+0.0.0.0 mcsofswf.com
 0.0.0.0 medfarm.biz
+0.0.0.0 megabandar.pro
 0.0.0.0 miapharmer.com
 0.0.0.0 modelsnettv.com
 0.0.0.0 movieour.com
@@ -226,12 +240,15 @@
 0.0.0.0 mynetprotector.com
 0.0.0.0 mytotosure.com
 0.0.0.0 nameplatedepot.com
+0.0.0.0 nemashurrahimi.com
 0.0.0.0 netzmarkt.ivwbox.de
 0.0.0.0 norfolkpcfix.com
+0.0.0.0 nowodworskirozklad.pl
 0.0.0.0 ntv.ivwbox.de
 0.0.0.0 nudeteens.in
 0.0.0.0 nulledscriptt.com
 0.0.0.0 nxcta.org
+0.0.0.0 observatoire-pelagis.cnrs.fr
 0.0.0.0 onlineloansdhx.com
 0.0.0.0 onvis.ivwbox.de
 0.0.0.0 orgsite.cn
@@ -256,6 +273,7 @@
 0.0.0.0 raringelmd.com
 0.0.0.0 relic-mc.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 researchpapershrd.com
 0.0.0.0 rivneosvita.org.ua
 0.0.0.0 sO.2mdn.net
 0.0.0.0 schemas.microsoft.akadns.net
@@ -273,14 +291,17 @@
 0.0.0.0 shoppingfolder.com
 0.0.0.0 signauxdeux.com
 0.0.0.0 slotonlineandroid.casa
+0.0.0.0 slotpulsa77.xyz
 0.0.0.0 snapchathacksnapchat.wordpress.com
 0.0.0.0 sp18-kielce.pl
 0.0.0.0 spellsandpsychics.co.za
 0.0.0.0 spellsandpsychics.co.za
 0.0.0.0 spellsandpsychics.co.za
+0.0.0.0 spellsandpsychics.com
 0.0.0.0 spicyadz.com
 0.0.0.0 spiegel.ivwbox.de
 0.0.0.0 spystriker.com
+0.0.0.0 sraymax.co.uk
 0.0.0.0 ssp.lkqd.net
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 stepbystepbg.org
@@ -289,11 +310,13 @@
 0.0.0.0 synology.me
 0.0.0.0 szerokopasmowapolska.pl
 0.0.0.0 t.signauxdeux.com
+0.0.0.0 taikhoan.co
 0.0.0.0 tajcn.com
 0.0.0.0 tattooshaha.info
 0.0.0.0 teddybearmindsupport.com
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 thedatesafe.com
+0.0.0.0 thesissgj.com
 0.0.0.0 thetextdesk.com
 0.0.0.0 tomorrownewstoday.com
 0.0.0.0 torrentse.net
@@ -307,6 +330,7 @@
 0.0.0.0 vadaszapro.eu
 0.0.0.0 vapewatchforum.com
 0.0.0.0 viagra100mg-online.org
+0.0.0.0 viagradocker.com
 0.0.0.0 videos.twitter.secure-logins01.com
 0.0.0.0 vip-vylkan.com
 0.0.0.0 viq.bayern-apo.store
@@ -324,14 +348,18 @@
 0.0.0.0 wikihorne.dk												#guestbook and mailspam
 0.0.0.0 winantivirus.com
 0.0.0.0 womansmedik.ru
+0.0.0.0 www.3aplus63.ru
 0.0.0.0 www.3mp3.ru
 0.0.0.0 www.918kiss.group
+0.0.0.0 www.919islandcuisine.com
 0.0.0.0 www.Bookie7.run
 0.0.0.0 www.GenericVersionViagra.com
 0.0.0.0 www.Gim7Rudasl.pl
 0.0.0.0 www.Iwilllendyoumoney.com
+0.0.0.0 www.Megabandar.pro
 0.0.0.0 www.Nowodworskirozklad.pl
 0.0.0.0 www.acama.asia
+0.0.0.0 www.accs.vn
 0.0.0.0 www.acedemysportsandoutdoors.com
 0.0.0.0 www.adi2013.org
 0.0.0.0 www.aduayamsabung.com
@@ -344,12 +372,16 @@
 0.0.0.0 www.avapharmyj.com
 0.0.0.0 www.ayamlagafilipina.com
 0.0.0.0 www.baijialuntan.net
+0.0.0.0 www.baronesa.xyz
+0.0.0.0 www.baunti.top
 0.0.0.0 www.beattienao.com
 0.0.0.0 www.biglobe.ne.jp
 0.0.0.0 www.bitcoinapedia.com
+0.0.0.0 www.bjyou4122.com
 0.0.0.0 www.blackshemaleclips.com									#guestbook and mailspam
 0.0.0.0 www.blizzzrd-net.com
 0.0.0.0 www.bodelen.com
+0.0.0.0 www.bookbrouser.com
 0.0.0.0 www.bookie7.win
 0.0.0.0 www.btcoinz.com
 0.0.0.0 www.bulksteroid.com
@@ -360,6 +392,7 @@
 0.0.0.0 www.ccener.com
 0.0.0.0 www.clickspring.net
 0.0.0.0 www.climatestrike.ch		#guestbook Spam several times
+0.0.0.0 www.clonevia.com
 0.0.0.0 www.courseworkhelpxeg.com
 0.0.0.0 www.cr7fotbollsko.com
 0.0.0.0 www.cr7fotbollsko.com
@@ -392,6 +425,7 @@
 0.0.0.0 www.gncedstore.com
 0.0.0.0 www.goodttsure.com
 0.0.0.0 www.hoanganhmart.com
+0.0.0.0 www.hopewalk.net
 0.0.0.0 www.house2style.nl
 0.0.0.0 www.icracks.net
 0.0.0.0 www.ihatecarmaxtoyota.net
@@ -407,7 +441,10 @@
 0.0.0.0 www.lawchong.com
 0.0.0.0 www.lkqd.net
 0.0.0.0 www.localappliancerepairman.net
+0.0.0.0 www.lotus-cayyolu.com
+0.0.0.0 www.mangdichvu.net
 0.0.0.0 www.marquesas-inn.com
+0.0.0.0 www.mcsofswf.com
 0.0.0.0 www.medfarm.biz
 0.0.0.0 www.miapharmer.com
 0.0.0.0 www.mt1b.net
@@ -415,9 +452,11 @@
 0.0.0.0 www.mylike.co.uk
 0.0.0.0 www.mytotosure.com
 0.0.0.0 www.nameplatedepot.com
+0.0.0.0 www.nemashurrahimi.com
 0.0.0.0 www.norfolkpcfix.com
 0.0.0.0 www.nulledscriptt.com
 0.0.0.0 www.nxcta.org
+0.0.0.0 www.observatoire-pelagis.cnrs.fr
 0.0.0.0 www.onlineloansdhx.com
 0.0.0.0 www.papersonlinesgo.com
 0.0.0.0 www.payday4myway.com
@@ -430,26 +469,33 @@
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.quickloansrgl.com
 0.0.0.0 www.raringelmd.com
+0.0.0.0 www.researchpapershrd.com
 0.0.0.0 www.scumvv.ca
 0.0.0.0 www.sellatease.com
 0.0.0.0 www.seomaniac.co.uk
 0.0.0.0 www.shoppingfolder.com
 0.0.0.0 www.slotonlineandroid.casa
+0.0.0.0 www.slotpulsa77.xyz
 0.0.0.0 www.sp18-kielce.pl
 0.0.0.0 www.spellsandpsychics.co.za
 0.0.0.0 www.spellsandpsychics.co.za
 0.0.0.0 www.spellsandpsychics.co.za
+0.0.0.0 www.spellsandpsychics.com
 0.0.0.0 www.spicyadz.com
+0.0.0.0 www.sraymax.co.uk
 0.0.0.0 www.steroids-king.com
 0.0.0.0 www.synology.me
 0.0.0.0 www.szerokopasmowapolska.pl
+0.0.0.0 www.taikhoan.co
 0.0.0.0 www.tajcn.com
 0.0.0.0 www.teddybearmindsupport.com
+0.0.0.0 www.thesissgj.com
 0.0.0.0 www.torrentse.net
 0.0.0.0 www.txexla.fraserphysics.com
 0.0.0.0 www.vadaszapro.eu
 0.0.0.0 www.vapewatchforum.com
 0.0.0.0 www.viagra100mg-online.org
+0.0.0.0 www.viagradocker.com
 0.0.0.0 www.vip-vylkan.com
 0.0.0.0 www.vtservices85.fr
 0.0.0.0 www.waplam.host
@@ -458,20 +504,24 @@
 0.0.0.0 www.womansmedik.ru
 0.0.0.0 www.xtand.net
 0.0.0.0 www.y1024.me
+0.0.0.0 www.ydfoundation.org
 0.0.0.0 www.yllychina.com
 0.0.0.0 www.youwin2015.com
 0.0.0.0 www.zdrava.org.ua
 0.0.0.0 www.zizl.ru
 0.0.0.0 www.znaniabsolwenci.pl
+0.0.0.0 www.zss-sypniewo.pl
 0.0.0.0 www2c.biglobe.ne.jp
 0.0.0.0 www5f.biglobe.ne.jp
 0.0.0.0 xelllwrite.com
 0.0.0.0 xtand.net
 0.0.0.0 y1024.me
+0.0.0.0 ydfoundation.org
 0.0.0.0 yllychina.com
 0.0.0.0 youwin2015.com
 0.0.0.0 zdrava.org.ua
 0.0.0.0 zedo.com
 0.0.0.0 zizl.ru
 0.0.0.0 znaniabsolwenci.pl
+0.0.0.0 zss-sypniewo.pl
 0.0.0.0 zzz.Com.ua
