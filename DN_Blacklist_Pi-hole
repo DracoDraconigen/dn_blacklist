@@ -3,7 +3,7 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # This list contains dangerous sites. These sites may contain spam, viruses, malware and other harmful content. Fake pages are also included.
-#Definitions total: 519
+#Definitions total: 552
 #
 # suspicious domains
 0.0.0.0 -mmfirmenkontakt.de
@@ -18,6 +18,7 @@
 0.0.0.0 38zu.cn
 0.0.0.0 3aplus63.ru
 0.0.0.0 3mp3.ru
+0.0.0.0 72Hwebsite.com
 0.0.0.0 918kiss.group
 0.0.0.0 919islandcuisine.com
 0.0.0.0 a.ads2.msads.net
@@ -38,6 +39,8 @@
 0.0.0.0 agendomino99onlineterpercaya.blogspot.com
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 akroofwindows.co.uk
+0.0.0.0 akwaibomnewsonline.com
+0.0.0.0 allcashreviews.blogspot.com
 0.0.0.0 aln-consulting.de
 0.0.0.0 amindo.freehostia.com
 0.0.0.0 amitriptylineelavilgha.com
@@ -47,6 +50,7 @@
 0.0.0.0 assuremoving.in
 0.0.0.0 astalavista.box.sk
 0.0.0.0 att500.com
+0.0.0.0 aumento-mamario-2020.eu
 0.0.0.0 avapharmyj.com
 0.0.0.0 ayamlagafilipina.com
 0.0.0.0 az361816.vo.msecnd.net
@@ -54,6 +58,7 @@
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b2c.com
+0.0.0.0 backlinkhocvienquany1.blogspot.com
 0.0.0.0 baijialuntan.net
 0.0.0.0 baronesa.xyz
 0.0.0.0 baunti.top
@@ -119,6 +124,7 @@
 0.0.0.0 courseworkhelpxeg.com
 0.0.0.0 cr7fotbollsko.com
 0.0.0.0 cracks.thebugs.ws
+0.0.0.0 craksracing.com
 0.0.0.0 creativevideoblog.yolasite.com
 0.0.0.0 cucoplan.com
 0.0.0.0 d99q.cn
@@ -140,6 +146,7 @@
 0.0.0.0 easycracks.net
 0.0.0.0 ec.atdmt.com
 0.0.0.0 elie.jp
+0.0.0.0 en.iranhormone.ir
 0.0.0.0 en.softonic.com
 0.0.0.0 epic7wiki.com
 0.0.0.0 essayonlinethx.com
@@ -150,6 +157,7 @@
 0.0.0.0 fevertube.com
 0.0.0.0 filekat.com
 0.0.0.0 findermt.com
+0.0.0.0 fioredoriente.live
 0.0.0.0 fitcentercr.com
 0.0.0.0 fiverr.com
 0.0.0.0 flex.msn.com
@@ -161,6 +169,7 @@
 0.0.0.0 freeads-solihull.co.uk
 0.0.0.0 ftec.com
 0.0.0.0 fuamex.com
+0.0.0.0 fxjxm.com
 0.0.0.0 g.msn.com
 0.0.0.0 gcskorea.org
 0.0.0.0 generic-Vaigra-Generic.com
@@ -179,18 +188,22 @@
 0.0.0.0 googleanalytlcs.net
 0.0.0.0 h1.msn.com
 0.0.0.0 hoanganhmart.com
+0.0.0.0 hoanganhmart.com 
 0.0.0.0 hoffmann-sprezyny.pl
 0.0.0.0 hopewalk.net
 0.0.0.0 host.ftec.com
 0.0.0.0 house2style.nl
 0.0.0.0 hss.servprocedar.com
 0.0.0.0 hu.lug-mueritz.de
+0.0.0.0 hvqy1.com
 0.0.0.0 i.jumptap.com
 0.0.0.0 iate89.ru
 0.0.0.0 icracks.net
 0.0.0.0 ihatecarmaxtoyota.net
+0.0.0.0 imailsupport.com
 0.0.0.0 imdbimax.ru
 0.0.0.0 internetsextoy.com
+0.0.0.0 iranhormone.ir
 0.0.0.0 itsfogo.com
 0.0.0.0 itxxlm.com
 0.0.0.0 ivancice.net
@@ -205,10 +218,12 @@
 0.0.0.0 keyslic.com
 0.0.0.0 khubera.com
 0.0.0.0 kicker.ivwbox.de
+0.0.0.0 kiraobolensky.com
 0.0.0.0 landcro.com
 0.0.0.0 lawchong.com
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 levinedamborg07.xtgem.com
+0.0.0.0 lienquansuamaygiatelectrolux.blogspot.com
 0.0.0.0 lienquansuamaygiatlg.blogspot.com
 0.0.0.0 likeportal.com
 0.0.0.0 likespike.com
@@ -218,10 +233,12 @@
 0.0.0.0 lives.zzz.Com.ua
 0.0.0.0 lkqd.net
 0.0.0.0 localappliancerepairman.net
+0.0.0.0 locate.ae
 0.0.0.0 lotus-cayyolu.com
 0.0.0.0 lousecn.cn
 0.0.0.0 lt.tai-chi-offenbach.de
 0.0.0.0 m.adnxs.com
+0.0.0.0 magcloud.com
 0.0.0.0 magicpornotube.net
 0.0.0.0 mangdichvu.net
 0.0.0.0 marquesas-inn.com
@@ -294,6 +311,7 @@
 0.0.0.0 slotpulsa77.xyz
 0.0.0.0 snapchathacksnapchat.wordpress.com
 0.0.0.0 sp18-kielce.pl
+0.0.0.0 spacershandbook.com
 0.0.0.0 spellsandpsychics.co.za
 0.0.0.0 spellsandpsychics.co.za
 0.0.0.0 spellsandpsychics.co.za
@@ -306,6 +324,7 @@
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 stepbystepbg.org
 0.0.0.0 steroids-king.com
+0.0.0.0 suadieuhoagiare247.com
 0.0.0.0 superhealthguide.wordpress.com
 0.0.0.0 synology.me
 0.0.0.0 szerokopasmowapolska.pl
@@ -350,6 +369,7 @@
 0.0.0.0 womansmedik.ru
 0.0.0.0 www.3aplus63.ru
 0.0.0.0 www.3mp3.ru
+0.0.0.0 www.72Hwebsite.com
 0.0.0.0 www.918kiss.group
 0.0.0.0 www.919islandcuisine.com
 0.0.0.0 www.Bookie7.run
@@ -365,10 +385,12 @@
 0.0.0.0 www.aduayamsabung.com
 0.0.0.0 www.advhub.org
 0.0.0.0 www.affariat.com
+0.0.0.0 www.akwaibomnewsonline.com
 0.0.0.0 www.aln-consulting.de
 0.0.0.0 www.amitriptylineelavilgha.com
 0.0.0.0 www.analabuba.com
 0.0.0.0 www.assuremoving.in
+0.0.0.0 www.aumento-mamario-2020.eu
 0.0.0.0 www.avapharmyj.com
 0.0.0.0 www.ayamlagafilipina.com
 0.0.0.0 www.baijialuntan.net
@@ -396,6 +418,7 @@
 0.0.0.0 www.courseworkhelpxeg.com
 0.0.0.0 www.cr7fotbollsko.com
 0.0.0.0 www.cr7fotbollsko.com
+0.0.0.0 www.craksracing.com
 0.0.0.0 www.cucoplan.com
 0.0.0.0 www.danmar.su
 0.0.0.0 www.deloplen.com
@@ -411,12 +434,14 @@
 0.0.0.0 www.essayonlinethx.com
 0.0.0.0 www.filekat.com
 0.0.0.0 www.findermt.com
+0.0.0.0 www.fioredoriente.live
 0.0.0.0 www.fitcentercr.com
 0.0.0.0 www.fiverr.com
 0.0.0.0 www.flodaonlinestore.com
 0.0.0.0 www.foxy1004.com
 0.0.0.0 www.foxybeauty.co.za
 0.0.0.0 www.freeads-solihull.co.uk
+0.0.0.0 www.fxjxm.com
 0.0.0.0 www.generic-Vaigra-Generic.com
 0.0.0.0 www.gim2Grodzisk.pl
 0.0.0.0 www.gim2ns.pl
@@ -425,10 +450,13 @@
 0.0.0.0 www.gncedstore.com
 0.0.0.0 www.goodttsure.com
 0.0.0.0 www.hoanganhmart.com
+0.0.0.0 www.hoanganhmart.com 
 0.0.0.0 www.hopewalk.net
 0.0.0.0 www.house2style.nl
+0.0.0.0 www.hvqy1.com
 0.0.0.0 www.icracks.net
 0.0.0.0 www.ihatecarmaxtoyota.net
+0.0.0.0 www.imailsupport.com
 0.0.0.0 www.internetsextoy.com
 0.0.0.0 www.itxxlm.com
 0.0.0.0 www.ivancice.net
@@ -437,11 +465,14 @@
 0.0.0.0 www.kenh14.vn
 0.0.0.0 www.keyslic.com
 0.0.0.0 www.khubera.com
+0.0.0.0 www.kiraobolensky.com
 0.0.0.0 www.landcro.com
 0.0.0.0 www.lawchong.com
 0.0.0.0 www.lkqd.net
 0.0.0.0 www.localappliancerepairman.net
+0.0.0.0 www.locate.ae
 0.0.0.0 www.lotus-cayyolu.com
+0.0.0.0 www.magcloud.com
 0.0.0.0 www.mangdichvu.net
 0.0.0.0 www.marquesas-inn.com
 0.0.0.0 www.mcsofswf.com
@@ -477,6 +508,7 @@
 0.0.0.0 www.slotonlineandroid.casa
 0.0.0.0 www.slotpulsa77.xyz
 0.0.0.0 www.sp18-kielce.pl
+0.0.0.0 www.spacershandbook.com
 0.0.0.0 www.spellsandpsychics.co.za
 0.0.0.0 www.spellsandpsychics.co.za
 0.0.0.0 www.spellsandpsychics.co.za
@@ -484,6 +516,7 @@
 0.0.0.0 www.spicyadz.com
 0.0.0.0 www.sraymax.co.uk
 0.0.0.0 www.steroids-king.com
+0.0.0.0 www.suadieuhoagiare247.com
 0.0.0.0 www.synology.me
 0.0.0.0 www.szerokopasmowapolska.pl
 0.0.0.0 www.taikhoan.co
