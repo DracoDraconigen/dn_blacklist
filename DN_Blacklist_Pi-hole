@@ -3,10 +3,9 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # This list contains dangerous sites. These sites may contain spam, viruses, malware and other harmful content. Fake pages are also included.
-#Definitions total: 881
+#Definitions total: 908
 #
 # suspicious domains
-0.0.0.0 airmaxschuheoutlet.com
 0.0.0.0 -mmfirmenkontakt.de
 0.0.0.0 123hjemmeside.no
 0.0.0.0 1729-abfirmenkontakts.de
@@ -84,6 +83,7 @@
 0.0.0.0 affariat.com
 0.0.0.0 agendomino99onlineterpercaya.blogspot.com
 0.0.0.0 aidps.atdmt.com
+0.0.0.0 airmaxschuheoutlet.com
 0.0.0.0 akaqa.com
 0.0.0.0 akroofwindows.co.uk
 0.0.0.0 akwaibomnewsonline.com
@@ -109,6 +109,7 @@
 0.0.0.0 austein.com
 0.0.0.0 avapharmyj.com
 0.0.0.0 ayamlagafilipina.com
+0.0.0.0 ayamlive.org
 0.0.0.0 ayamonline.org
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
@@ -189,6 +190,7 @@
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cdn.buysellads.com 
 0.0.0.0 cdn.connatix.com
+0.0.0.0 cdn.mama-ads.com
 0.0.0.0 cdn.stroeerdigitalgroup.de
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.uelllwrite.com
@@ -199,6 +201,7 @@
 0.0.0.0 ciaonlinebuyntx.com
 0.0.0.0 climatestrike.ch		#guestbook Spam several times
 0.0.0.0 clonevia.com
+0.0.0.0 cocoro.in
 0.0.0.0 colorado100.com
 0.0.0.0 conduit.com
 0.0.0.0 connatix.com
@@ -225,6 +228,7 @@
 0.0.0.0 de.climatestrike.ch		#guestbook Spam several times
 0.0.0.0 de.softonic.com
 0.0.0.0 deloplen.com
+0.0.0.0 demo2.younetco.com
 0.0.0.0 demosite.center
 0.0.0.0 diagnostics.support.microsoft.com				#microsoft tracking
 0.0.0.0 dimeadozen.org
@@ -238,6 +242,7 @@
 0.0.0.0 download-sofort.com
 0.0.0.0 drusilladesigns.co.uk
 0.0.0.0 drwmohouse88.club
+0.0.0.0 drwmohouse95.club
 0.0.0.0 dslesskazka.ru
 0.0.0.0 dsp.adfarm1.adition.com 
 0.0.0.0 dspcluster.adfarm1.adition.com 
@@ -349,7 +354,9 @@
 0.0.0.0 kicker.ivwbox.de
 0.0.0.0 kiraobolensky.com
 0.0.0.0 kritih.com
+0.0.0.0 kuliner-indo.com
 0.0.0.0 landcro.com
+0.0.0.0 lavaggio.com.vn
 0.0.0.0 lawchong.com
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 ldkueekaderrnau.com
@@ -377,9 +384,12 @@
 0.0.0.0 magcloud.com
 0.0.0.0 magicpornotube.net
 0.0.0.0 mainstoreonline.com
+0.0.0.0 mama-ads.com
 0.0.0.0 mangdichvu.net
+0.0.0.0 marengi.org
 0.0.0.0 marquesas-inn.com
 0.0.0.0 martuz.cn
+0.0.0.0 mauta.or.tz
 0.0.0.0 mcsofswf.com
 0.0.0.0 medfarm.biz
 0.0.0.0 mediazioniapec.it
@@ -421,6 +431,7 @@
 0.0.0.0 observatoire-pelagis.cnrs.fr
 0.0.0.0 ocsp.pki.goog
 0.0.0.0 ohmygodnews.site
+0.0.0.0 onlinedoctorrsale.com
 0.0.0.0 onlineloansdhx.com
 0.0.0.0 onvis.ivwbox.de
 0.0.0.0 orgsite.cn
@@ -446,6 +457,7 @@
 0.0.0.0 proper.io
 0.0.0.0 ps7894.com
 0.0.0.0 q.admob.com 
+0.0.0.0 qes.co.kr
 0.0.0.0 quality-channel.de
 0.0.0.0 quantrilienket.blogspot.com
 0.0.0.0 quantserve.com
@@ -514,6 +526,7 @@
 0.0.0.0 ss.servedby-buysellads.com 
 0.0.0.0 ssl.google-analytics.com 
 0.0.0.0 ssp.lkqd.net
+0.0.0.0 stanokpo.ru
 0.0.0.0 static.adfarm1.adition.com 
 0.0.0.0 static.servedby-buysellads.com 
 0.0.0.0 statsfe2.ws.microsoft.com
@@ -583,9 +596,11 @@
 0.0.0.0 wikigrottaglie.org
 0.0.0.0 wikihorne.dk												#guestbook and mailspam
 0.0.0.0 winantivirus.com
+0.0.0.0 wingsofglory.pl
 0.0.0.0 wm-box.ru
 0.0.0.0 womansmedik.ru
 0.0.0.0 ws.addthis.com 
+0.0.0.0 ww2.telechat.info
 0.0.0.0 www.123hjemmeside.no
 0.0.0.0 www.3aplus63.ru
 0.0.0.0 www.3mp3.ru
@@ -626,6 +641,7 @@
 0.0.0.0 www.austein.com
 0.0.0.0 www.avapharmyj.com
 0.0.0.0 www.ayamlagafilipina.com
+0.0.0.0 www.ayamlive.org
 0.0.0.0 www.ayamonline.org
 0.0.0.0 www.baijialuntan.net
 0.0.0.0 www.baomoi365.net
@@ -658,6 +674,7 @@
 0.0.0.0 www.clickspring.net
 0.0.0.0 www.climatestrike.ch		#guestbook Spam several times
 0.0.0.0 www.clonevia.com
+0.0.0.0 www.cocoro.in
 0.0.0.0 www.colorado100.com
 0.0.0.0 www.conduit.com
 0.0.0.0 www.courseworkhelpxeg.com
@@ -680,6 +697,7 @@
 0.0.0.0 www.download-sofort.com
 0.0.0.0 www.drusilladesigns.co.uk
 0.0.0.0 www.drwmohouse88.club
+0.0.0.0 www.drwmohouse95.club
 0.0.0.0 www.dslesskazka.ru
 0.0.0.0 www.dubaidesigncircle.com
 0.0.0.0 www.easycracks.net
@@ -744,7 +762,9 @@
 0.0.0.0 www.khubera.com
 0.0.0.0 www.kiraobolensky.com
 0.0.0.0 www.kritih.com
+0.0.0.0 www.kuliner-indo.com
 0.0.0.0 www.landcro.com
+0.0.0.0 www.lavaggio.com.vn
 0.0.0.0 www.lawchong.com
 0.0.0.0 www.ldkueekaderrnau.com
 0.0.0.0 www.livegroupbreaks.com
@@ -755,8 +775,11 @@
 0.0.0.0 www.madbid.com
 0.0.0.0 www.magcloud.com
 0.0.0.0 www.mainstoreonline.com
+0.0.0.0 www.mama-ads.com
 0.0.0.0 www.mangdichvu.net
+0.0.0.0 www.marengi.org
 0.0.0.0 www.marquesas-inn.com
+0.0.0.0 www.mauta.or.tz
 0.0.0.0 www.mcsofswf.com
 0.0.0.0 www.medfarm.biz
 0.0.0.0 www.mediazioniapec.it
@@ -783,6 +806,7 @@
 0.0.0.0 www.nxcta.org
 0.0.0.0 www.observatoire-pelagis.cnrs.fr
 0.0.0.0 www.ohmygodnews.site
+0.0.0.0 www.onlinedoctorrsale.com
 0.0.0.0 www.onlineloansdhx.com
 0.0.0.0 www.overture.com
 0.0.0.0 www.oxygen-warez.com
@@ -795,6 +819,7 @@
 0.0.0.0 www.proflashdata.com
 0.0.0.0 www.promoslots.ru
 0.0.0.0 www.ps7894.com
+0.0.0.0 www.qes.co.kr
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.quibids.com
 0.0.0.0 www.quickloansrgl.com
@@ -825,6 +850,7 @@
 0.0.0.0 www.spicyadz.com
 0.0.0.0 www.spystriker.com
 0.0.0.0 www.sraymax.co.uk
+0.0.0.0 www.stanokpo.ru
 0.0.0.0 www.steroids-king.com
 0.0.0.0 www.suadieuhoagiare247.com
 0.0.0.0 www.swoggi.de
@@ -855,6 +881,7 @@
 0.0.0.0 www.wikigrottaglie.org
 0.0.0.0 www.wikihorne.dk											#guestbook and mailspam
 0.0.0.0 www.winantivirus.com
+0.0.0.0 www.wingsofglory.pl
 0.0.0.0 www.wm-box.ru
 0.0.0.0 www.womansmedik.ru
 0.0.0.0 www.xtand.net
