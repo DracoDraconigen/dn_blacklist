@@ -3,9 +3,10 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # This list contains dangerous sites. These sites may contain spam, viruses, malware and other harmful content. Fake pages are also included.
-#Definitions total: 833
+#Definitions total: 881
 #
 # suspicious domains
+0.0.0.0 airmaxschuheoutlet.com
 0.0.0.0 -mmfirmenkontakt.de
 0.0.0.0 123hjemmeside.no
 0.0.0.0 1729-abfirmenkontakts.de
@@ -93,6 +94,7 @@
 0.0.0.0 analabuba.com
 0.0.0.0 analytics.admob.com 
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 anycracks.com
 0.0.0.0 api-public.addthis.com 
 0.0.0.0 api.addthis.com 
 0.0.0.0 api.admob.com 
@@ -121,6 +123,7 @@
 0.0.0.0 baronesa.xyz
 0.0.0.0 baunti.top
 0.0.0.0 bayern-apo.store
+0.0.0.0 bbjacke.de
 0.0.0.0 bbs.joyhll.org
 0.0.0.0 beattienao.com
 0.0.0.0 bettyoj94.123hjemmeside.no
@@ -190,6 +193,7 @@
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.uelllwrite.com
 0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 centgebote.tv
 0.0.0.0 cf.addthis.com 
 0.0.0.0 cheapbestoemonline.net
 0.0.0.0 ciaonlinebuyntx.com
@@ -230,6 +234,8 @@
 0.0.0.0 docparhomenko.kiev.ua
 0.0.0.0 domainedesmauves.com
 0.0.0.0 doubleclick.com 
+0.0.0.0 download-service.de
+0.0.0.0 download-sofort.com
 0.0.0.0 drusilladesigns.co.uk
 0.0.0.0 drwmohouse88.club
 0.0.0.0 dslesskazka.ru
@@ -268,11 +274,13 @@
 0.0.0.0 forum.profitserver.in.ua
 0.0.0.0 foxy1004.com
 0.0.0.0 foxybeauty.co.za
+0.0.0.0 franzis-sportswear.de
 0.0.0.0 freeads-solihull.co.uk
 0.0.0.0 ftec.com
 0.0.0.0 fuamex.com
 0.0.0.0 fxjxm.com
 0.0.0.0 g.msn.com
+0.0.0.0 g4u.me
 0.0.0.0 gcskorea.org
 0.0.0.0 generic-Vaigra-Generic.com
 0.0.0.0 genericVersionViagra.com
@@ -317,6 +325,7 @@
 0.0.0.0 imdbimax.ru
 0.0.0.0 indramat.ru
 0.0.0.0 internetsextoy.com
+0.0.0.0 iomoio.com
 0.0.0.0 iranhormone.ir
 0.0.0.0 itsfogo.com
 0.0.0.0 itxxlm.com
@@ -324,6 +333,7 @@
 0.0.0.0 iwilllendyoumoney.com
 0.0.0.0 japanulled.com
 0.0.0.0 jifenbao.geihui.com
+0.0.0.0 jjhouse.com
 0.0.0.0 johnathan9inu5.pointblog.net
 0.0.0.0 jokermerah.top
 0.0.0.0 kassperskylabs.cn #fake site with malicious software!
@@ -331,6 +341,9 @@
 0.0.0.0 kenh14.vn
 0.0.0.0 keto-actives-review.eu 
 0.0.0.0 keygen.name
+0.0.0.0 keygen.us
+0.0.0.0 keygenguru.com
+0.0.0.0 keygens.pro
 0.0.0.0 keyslic.com
 0.0.0.0 khubera.com
 0.0.0.0 kicker.ivwbox.de
@@ -360,6 +373,7 @@
 0.0.0.0 lt.tai-chi-offenbach.de
 0.0.0.0 m.addthis.com 
 0.0.0.0 m.adnxs.com
+0.0.0.0 madbid.com
 0.0.0.0 magcloud.com
 0.0.0.0 magicpornotube.net
 0.0.0.0 mainstoreonline.com
@@ -369,6 +383,7 @@
 0.0.0.0 mcsofswf.com
 0.0.0.0 medfarm.biz
 0.0.0.0 mediazioniapec.it
+0.0.0.0 mega-einkaufsquellen.de
 0.0.0.0 megabandar.pro
 0.0.0.0 megatogel.com
 0.0.0.0 megatongkol.com
@@ -377,11 +392,15 @@
 0.0.0.0 mobile.adfarm1.adition.com 
 0.0.0.0 modelsnettv.com
 0.0.0.0 movieour.com
+0.0.0.0 mp3fiesta.com
+0.0.0.0 mp3sugar.com
+0.0.0.0 mp3va.com
 0.0.0.0 msnbot-207-46-194-33.search.msn.com				#microsoft tracking
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 mt1b.net
 0.0.0.0 muktwioutt.com
+0.0.0.0 musicmp3.ru
 0.0.0.0 mxz96.com
 0.0.0.0 mylike.co.uk
 0.0.0.0 mynetprotector.com
@@ -430,6 +449,7 @@
 0.0.0.0 quality-channel.de
 0.0.0.0 quantrilienket.blogspot.com
 0.0.0.0 quantserve.com
+0.0.0.0 quibids.com
 0.0.0.0 quickloansrgl.com
 0.0.0.0 r.admob.com 
 0.0.0.0 r.dlx.addthis.com 
@@ -469,6 +489,7 @@
 0.0.0.0 seosanaac.com
 0.0.0.0 serenescreen-marine-aquarium.en.softonic.com
 0.0.0.0 seriall.com
+0.0.0.0 serials.ws
 0.0.0.0 serialz.to
 0.0.0.0 server.adform.net 
 0.0.0.0 servprocedar.com
@@ -504,6 +525,7 @@
 0.0.0.0 suadieuhoagiare247.com
 0.0.0.0 suadieuhoagiare247.comrisaleforum.net
 0.0.0.0 superhealthguide.wordpress.com
+0.0.0.0 swoggi.de
 0.0.0.0 synology.me
 0.0.0.0 szerokopasmowapolska.pl
 0.0.0.0 t.admob.com 
@@ -551,6 +573,7 @@
 0.0.0.0 vt.adition.com 
 0.0.0.0 vtservices85.fr
 0.0.0.0 vx.netlux.org
+0.0.0.0 vx.org.ua
 0.0.0.0 waplam.host
 0.0.0.0 web-money.cn
 0.0.0.0 web63.jumptap.com
@@ -590,11 +613,13 @@
 0.0.0.0 www.aerialsbox.com
 0.0.0.0 www.aesofta.com
 0.0.0.0 www.affariat.com
+0.0.0.0 www.airmaxschuheoutlet.com
 0.0.0.0 www.akaqa.com
 0.0.0.0 www.akwaibomnewsonline.com
 0.0.0.0 www.aln-consulting.de
 0.0.0.0 www.amitriptylineelavilgha.com
 0.0.0.0 www.analabuba.com
+0.0.0.0 www.anycracks.com
 0.0.0.0 www.ask.leadr.msu.edu
 0.0.0.0 www.assuremoving.in
 0.0.0.0 www.aumento-mamario-2020.eu
@@ -606,9 +631,11 @@
 0.0.0.0 www.baomoi365.net
 0.0.0.0 www.baronesa.xyz
 0.0.0.0 www.baunti.top
+0.0.0.0 www.bbjacke.de
 0.0.0.0 www.beattienao.com
 0.0.0.0 www.betwin88.co
 0.0.0.0 www.biglobe.ne.jp
+0.0.0.0 www.biohazard.xz.cz
 0.0.0.0 www.bitcoinapedia.com
 0.0.0.0 www.bjyou4122.com
 0.0.0.0 www.blackdiamond-casino.com 					#guestbookspam
@@ -625,6 +652,7 @@
 0.0.0.0 www.cbdoilusd.com
 0.0.0.0 www.cbdoilusd.com
 0.0.0.0 www.ccener.com
+0.0.0.0 www.centgebote.tv
 0.0.0.0 www.cheapbestoemonline.net
 0.0.0.0 www.ciaonlinebuyntx.com
 0.0.0.0 www.clickspring.net
@@ -648,10 +676,13 @@
 0.0.0.0 www.docparhomenko.kiev.ua
 0.0.0.0 www.domainedesmauves.com
 0.0.0.0 www.doubleclick.com
+0.0.0.0 www.download-service.de
+0.0.0.0 www.download-sofort.com
 0.0.0.0 www.drusilladesigns.co.uk
 0.0.0.0 www.drwmohouse88.club
 0.0.0.0 www.dslesskazka.ru
 0.0.0.0 www.dubaidesigncircle.com
+0.0.0.0 www.easycracks.net
 0.0.0.0 www.eazy-money.online
 0.0.0.0 www.eclecticwisdomandwellness.com
 0.0.0.0 www.elie.jp
@@ -669,8 +700,10 @@
 0.0.0.0 www.flodaonlinestore.com
 0.0.0.0 www.foxy1004.com
 0.0.0.0 www.foxybeauty.co.za
+0.0.0.0 www.franzis-sportswear.de
 0.0.0.0 www.freeads-solihull.co.uk
 0.0.0.0 www.fxjxm.com
+0.0.0.0 www.g4u.me
 0.0.0.0 www.generic-Vaigra-Generic.com
 0.0.0.0 www.gim2Grodzisk.pl
 0.0.0.0 www.gim2ns.pl
@@ -695,13 +728,18 @@
 0.0.0.0 www.imailsupport.com
 0.0.0.0 www.indramat.ru
 0.0.0.0 www.internetsextoy.com
+0.0.0.0 www.iomoio.com
 0.0.0.0 www.itxxlm.com
 0.0.0.0 www.ivancice.net
 0.0.0.0 www.ivwbox.de
 0.0.0.0 www.japanulled.com
+0.0.0.0 www.jjhouse.com
 0.0.0.0 www.jokermerah.top
 0.0.0.0 www.kdbadmin.com
 0.0.0.0 www.kenh14.vn
+0.0.0.0 www.keygen.us
+0.0.0.0 www.keygenguru.com
+0.0.0.0 www.keygens.pro
 0.0.0.0 www.keyslic.com
 0.0.0.0 www.khubera.com
 0.0.0.0 www.kiraobolensky.com
@@ -714,6 +752,7 @@
 0.0.0.0 www.localappliancerepairman.net
 0.0.0.0 www.locate.ae
 0.0.0.0 www.lotus-cayyolu.com
+0.0.0.0 www.madbid.com
 0.0.0.0 www.magcloud.com
 0.0.0.0 www.mainstoreonline.com
 0.0.0.0 www.mangdichvu.net
@@ -721,12 +760,17 @@
 0.0.0.0 www.mcsofswf.com
 0.0.0.0 www.medfarm.biz
 0.0.0.0 www.mediazioniapec.it
+0.0.0.0 www.mega-einkaufsquellen.de
 0.0.0.0 www.megatogel.com
 0.0.0.0 www.megatongkol.com
 0.0.0.0 www.miapharmer.com
 0.0.0.0 www.mininova.org
+0.0.0.0 www.mp3fiesta.com
+0.0.0.0 www.mp3sugar.com
+0.0.0.0 www.mp3va.com
 0.0.0.0 www.mt1b.net
 0.0.0.0 www.muktwioutt.com
+0.0.0.0 www.musicmp3.ru
 0.0.0.0 www.mxz96.com
 0.0.0.0 www.mylike.co.uk
 0.0.0.0 www.mynetprotector.com
@@ -752,6 +796,7 @@
 0.0.0.0 www.promoslots.ru
 0.0.0.0 www.ps7894.com
 0.0.0.0 www.quantserve.com
+0.0.0.0 www.quibids.com
 0.0.0.0 www.quickloansrgl.com
 0.0.0.0 www.raringelmd.com
 0.0.0.0 www.researchpapershrd.com
@@ -766,6 +811,7 @@
 0.0.0.0 www.seomaniac.co.uk
 0.0.0.0 www.seosanaac.com
 0.0.0.0 www.seriall.com
+0.0.0.0 www.serials.ws
 0.0.0.0 www.shoppingfolder.com
 0.0.0.0 www.slotonlineandroid.casa
 0.0.0.0 www.slotpulsa77.xyz
@@ -781,6 +827,7 @@
 0.0.0.0 www.sraymax.co.uk
 0.0.0.0 www.steroids-king.com
 0.0.0.0 www.suadieuhoagiare247.com
+0.0.0.0 www.swoggi.de
 0.0.0.0 www.synology.me
 0.0.0.0 www.szerokopasmowapolska.pl
 0.0.0.0 www.taikhoan.co
@@ -802,6 +849,7 @@
 0.0.0.0 www.vip-vylkan.com
 0.0.0.0 www.virus-scanonline.com
 0.0.0.0 www.vtservices85.fr
+0.0.0.0 www.vx.org.ua
 0.0.0.0 www.waplam.host
 0.0.0.0 www.web-money.cn
 0.0.0.0 www.wikigrottaglie.org
