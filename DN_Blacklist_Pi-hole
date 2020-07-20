@@ -3,7 +3,7 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # This list contains dangerous sites. These sites may contain spam, viruses, malware and other harmful content. Fake pages are also included.
-#Definitions total: 723
+#Definitions total: 833
 #
 # suspicious domains
 0.0.0.0 -mmfirmenkontakt.de
@@ -32,25 +32,52 @@
 0.0.0.0 a-0008.a-msedge.net								#microsoft tracking
 0.0.0.0 a-0009.a-msedge.net								#microsoft tracking
 0.0.0.0 a-msedge.net									#microsoft tracking
+0.0.0.0 a.admob.com 
 0.0.0.0 a.ads1.msn.com									#microsoft tracking
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com									#microsoft tracking
+0.0.0.0 a2.adform.net 
+0.0.0.0 aa.adfarm1.adition.com 
 0.0.0.0 acama.asia
 0.0.0.0 accs.vn
 0.0.0.0 acedemysportsandoutdoors.com
 0.0.0.0 acousticsworkshop.com
 0.0.0.0 ad.lkqd.net
+0.0.0.0 ad1.adfarm1.adition.com 
+0.0.0.0 ad11.adfarm1.adition.com 
+0.0.0.0 ad11p.adfarm1.adition.com 
+0.0.0.0 ad13.adfarm1.adition.com 
+0.0.0.0 ad2.adfarm1.adition.com 
+0.0.0.0 ad3.adfarm1.adition.com 
+0.0.0.0 ad4.adfarm1.adition.com 
+0.0.0.0 ad8.adfarm1.adition.com 
 0.0.0.0 adclient.uimserv.net
+0.0.0.0 addthis.com 
+0.0.0.0 adfarm1.adition.com 
 0.0.0.0 adi2013.org
 0.0.0.0 adisfy.com
+0.0.0.0 adition.com
+0.0.0.0 admention.adspirit.de 
 0.0.0.0 adnexus.net
 0.0.0.0 adobemasters.com
+0.0.0.0 adpacks.com
 0.0.0.0 ads.mininova.org
+0.0.0.0 ads.sitemeter.com 
+0.0.0.0 ads.yahoo.com 
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
+0.0.0.0 adsdk.adfarm1.adition.com 
+0.0.0.0 adserv.quality-channel.de
+0.0.0.0 adserver.softonic.com 
+0.0.0.0 adserver.yahoo.com
+0.0.0.0 adspirit.de
 0.0.0.0 aduayamsabung.com
 0.0.0.0 adultan.com
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 advhub.org
 0.0.0.0 adwarestriker.com
+0.0.0.0 adx.adform.net 
+0.0.0.0 adzmob.com
 0.0.0.0 aerialsbox.com
 0.0.0.0 aesofta.com
 0.0.0.0 affariat.com
@@ -64,9 +91,15 @@
 0.0.0.0 amindo.freehostia.com
 0.0.0.0 amitriptylineelavilgha.com
 0.0.0.0 analabuba.com
+0.0.0.0 analytics.admob.com 
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 api-public.addthis.com 
+0.0.0.0 api.addthis.com 
+0.0.0.0 api.admob.com 
 0.0.0.0 api.b2c.com
 0.0.0.0 api.content.ad
+0.0.0.0 appdev.addthis.com 
+0.0.0.0 assets.buysellads.com 
 0.0.0.0 assuremoving.in
 0.0.0.0 astalavista.box.sk
 0.0.0.0 att500.com
@@ -77,6 +110,7 @@
 0.0.0.0 ayamonline.org
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 b.admob.com 
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b2c.com
@@ -101,6 +135,7 @@
 0.0.0.0 blackshemaleclips.com										#guestbook and mailspam
 0.0.0.0 blakesector.scumvv.ca
 0.0.0.0 blizzzrd-net.com
+0.0.0.0 blog.addthis.com 
 0.0.0.0 bo.jumptap.com
 0.0.0.0 bodelen.com
 0.0.0.0 bookbrouser.com
@@ -131,40 +166,56 @@
 0.0.0.0 btcoinz.com
 0.0.0.0 bulksteroid.com
 0.0.0.0 buymodafinilntx.com
+0.0.0.0 buysellads.com
 0.0.0.0 buyviagaraonline.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.dedikuoti.lt
 0.0.0.0 c.msn.com
+0.0.0.0 c1.adform.net 
+0.0.0.0 cache-dev.addthis.com 
+0.0.0.0 cache.addthis.com 
 0.0.0.0 cache.datamart.windows.com						#microsoft tracking
 0.0.0.0 canadianpharmacyneo.com
 0.0.0.0 cardsexpert.ru
 0.0.0.0 cbdoilusd.com
 0.0.0.0 cbdoilusd.com
 0.0.0.0 ccener.com
+0.0.0.0 cd.adition.com 
+0.0.0.0 cdn.adspirit.de 
+0.0.0.0 cdn.adzmob.com
 0.0.0.0 cdn.atdmt.com
+0.0.0.0 cdn.buysellads.com 
 0.0.0.0 cdn.connatix.com
 0.0.0.0 cdn.stroeerdigitalgroup.de
+0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.uelllwrite.com
 0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 cf.addthis.com 
 0.0.0.0 cheapbestoemonline.net
 0.0.0.0 ciaonlinebuyntx.com
 0.0.0.0 climatestrike.ch		#guestbook Spam several times
 0.0.0.0 clonevia.com
 0.0.0.0 colorado100.com
+0.0.0.0 conduit.com
 0.0.0.0 connatix.com
 0.0.0.0 content.ad
 0.0.0.0 coralgablesroofing.info
 0.0.0.0 courseworkhelpxeg.com
+0.0.0.0 cpm.admob.com 
+0.0.0.0 cpm2.admob.com 
 0.0.0.0 cr7fotbollsko.com
 0.0.0.0 cracks.thebugs.ws
 0.0.0.0 craksracing.com
 0.0.0.0 creativevideoblog.yolasite.com
 0.0.0.0 cs1.wpc.v0cdn.net								#microsoft tracking
+0.0.0.0 ct1.addthis.com 
 0.0.0.0 cucoplan.com
+0.0.0.0 d.admob.com 
 0.0.0.0 d99q.cn
 0.0.0.0 danmar.su
 0.0.0.0 dater.website
 0.0.0.0 db3aqu.atdmt.com
+0.0.0.0 dbt.adition.com 
 0.0.0.0 ddl-search.com
 0.0.0.0 ddl-warez.org
 0.0.0.0 de.climatestrike.ch		#guestbook Spam several times
@@ -175,13 +226,19 @@
 0.0.0.0 dimeadozen.org
 0.0.0.0 djpugwash.com
 0.0.0.0 dm67.xyz
+0.0.0.0 dmp.adform.net 
 0.0.0.0 docparhomenko.kiev.ua
 0.0.0.0 domainedesmauves.com
+0.0.0.0 doubleclick.com 
 0.0.0.0 drusilladesigns.co.uk
 0.0.0.0 drwmohouse88.club
 0.0.0.0 dslesskazka.ru
+0.0.0.0 dsp.adfarm1.adition.com 
+0.0.0.0 dspcluster.adfarm1.adition.com 
 0.0.0.0 dubaidesigncircle.com
 0.0.0.0 duo-games.com												#guestbook and mailspam
+0.0.0.0 e.admob.com 
+0.0.0.0 e1.addthis.com 
 0.0.0.0 eaglefight.top
 0.0.0.0 easycracks.net
 0.0.0.0 eazy-money.online
@@ -232,7 +289,9 @@
 0.0.0.0 gncedstore.com
 0.0.0.0 goldesel.6x.to
 0.0.0.0 goodttsure.com
+0.0.0.0 google-analytics.com 
 0.0.0.0 googleanalytlcs.net
+0.0.0.0 gsf-cf.softonic.com 
 0.0.0.0 h1.msn.com
 0.0.0.0 hacker-spider.at.nr
 0.0.0.0 hackingstore.de
@@ -253,6 +312,7 @@
 0.0.0.0 icracks.net
 0.0.0.0 ihatecarmaxtoyota.net
 0.0.0.0 iket.c.dedikuoti.lt
+0.0.0.0 imagesrv.adition.com 
 0.0.0.0 imailsupport.com
 0.0.0.0 imdbimax.ru
 0.0.0.0 indramat.ru
@@ -288,6 +348,7 @@
 0.0.0.0 likespike.com
 0.0.0.0 likethis.mbosoft.com
 0.0.0.0 likethislist.biz
+0.0.0.0 limg.adspirit.de 
 0.0.0.0 live.rads.msn.com
 0.0.0.0 livegroupbreaks.com
 0.0.0.0 lives.zzz.Com.ua
@@ -297,6 +358,7 @@
 0.0.0.0 lotus-cayyolu.com
 0.0.0.0 lousecn.cn
 0.0.0.0 lt.tai-chi-offenbach.de
+0.0.0.0 m.addthis.com 
 0.0.0.0 m.adnxs.com
 0.0.0.0 magcloud.com
 0.0.0.0 magicpornotube.net
@@ -312,6 +374,7 @@
 0.0.0.0 megatongkol.com
 0.0.0.0 miapharmer.com
 0.0.0.0 mininova.org
+0.0.0.0 mobile.adfarm1.adition.com 
 0.0.0.0 modelsnettv.com
 0.0.0.0 movieour.com
 0.0.0.0 msnbot-207-46-194-33.search.msn.com				#microsoft tracking
@@ -323,6 +386,7 @@
 0.0.0.0 mylike.co.uk
 0.0.0.0 mynetprotector.com
 0.0.0.0 mytotosure.com
+0.0.0.0 na.ads.yahoo.com 
 0.0.0.0 najiur.com
 0.0.0.0 nameplatedepot.com
 0.0.0.0 nemashurrahimi.com
@@ -333,13 +397,19 @@
 0.0.0.0 nudeteens.in
 0.0.0.0 nulledscriptt.com
 0.0.0.0 nxcta.org
+0.0.0.0 o.addthis.com 
+0.0.0.0 o.admob.com 
 0.0.0.0 observatoire-pelagis.cnrs.fr
 0.0.0.0 ocsp.pki.goog
 0.0.0.0 ohmygodnews.site
 0.0.0.0 onlineloansdhx.com
 0.0.0.0 onvis.ivwbox.de
 0.0.0.0 orgsite.cn
+0.0.0.0 overture.com
 0.0.0.0 oxygen-warez.com
+0.0.0.0 p.addthis.com 
+0.0.0.0 p.admob.com 
+0.0.0.0 paix1.sc1.admob.com 
 0.0.0.0 papersonlinesgo.com
 0.0.0.0 payday4myway.com
 0.0.0.0 paydayloanvdu.com
@@ -356,36 +426,56 @@
 0.0.0.0 promoslots.ru
 0.0.0.0 proper.io
 0.0.0.0 ps7894.com
+0.0.0.0 q.admob.com 
+0.0.0.0 quality-channel.de
 0.0.0.0 quantrilienket.blogspot.com
 0.0.0.0 quantserve.com
 0.0.0.0 quickloansrgl.com
+0.0.0.0 r.admob.com 
+0.0.0.0 r.dlx.addthis.com 
 0.0.0.0 raringelmd.com
 0.0.0.0 relic-mc.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 researchpapershrd.com
+0.0.0.0 revcontent.com
+0.0.0.0 revivedadtag.com
 0.0.0.0 rivneosvita.org.ua
 0.0.0.0 royal-2.com
+0.0.0.0 s.admob.com 
+0.0.0.0 s.servedby-buysellads.com 
+0.0.0.0 s1.adform.net 
+0.0.0.0 s3.buysellads.com 
+0.0.0.0 s5.addthis.com 
+0.0.0.0 s7.addthis.com 
+0.0.0.0 s9.addthis.com 
 0.0.0.0 sO.2mdn.net
 0.0.0.0 saugstube-torrent.to
+0.0.0.0 sc1.admob.com 
+0.0.0.0 sc9.admob.com 
 0.0.0.0 sceneload.to
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 schooldemo.remembertheunborn.org
 0.0.0.0 scottishstuff-online.com
 0.0.0.0 scumvv.ca
 0.0.0.0 sdk.rethinkrobotics.com
+0.0.0.0 search.addthis.com 
 0.0.0.0 secure-logins01.com
+0.0.0.0 secure.addthis.com 
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 sellatease.com
 0.0.0.0 seomaniac.co.uk
 0.0.0.0 seosanaac.com
+0.0.0.0 serenescreen-marine-aquarium.en.softonic.com
 0.0.0.0 seriall.com
 0.0.0.0 serialz.to
+0.0.0.0 server.adform.net 
 0.0.0.0 servprocedar.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 shoppingfolder.com
 0.0.0.0 signauxdeux.com
+0.0.0.0 sitemeter.com
 0.0.0.0 slotonlineandroid.casa
 0.0.0.0 slotpulsa77.xyz
 0.0.0.0 snapchathacksnapchat.wordpress.com
@@ -400,20 +490,28 @@
 0.0.0.0 spiegel.ivwbox.de
 0.0.0.0 spystriker.com
 0.0.0.0 sraymax.co.uk
+0.0.0.0 ss.servedby-buysellads.com 
+0.0.0.0 ssl.google-analytics.com 
 0.0.0.0 ssp.lkqd.net
+0.0.0.0 static.adfarm1.adition.com 
+0.0.0.0 static.servedby-buysellads.com 
 0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 status.addthis.com 
 0.0.0.0 stepbystepbg.org
 0.0.0.0 steroids-king.com
 0.0.0.0 stmikgici.ac.id
+0.0.0.0 su.addthis.com 
 0.0.0.0 suadieuhoagiare247.com
 0.0.0.0 suadieuhoagiare247.comrisaleforum.net
 0.0.0.0 superhealthguide.wordpress.com
 0.0.0.0 synology.me
 0.0.0.0 szerokopasmowapolska.pl
+0.0.0.0 t.admob.com 
 0.0.0.0 t.signauxdeux.com
 0.0.0.0 taikhoan.co
 0.0.0.0 tajcn.com
 0.0.0.0 tattooshaha.info
+0.0.0.0 taz.adspirit.de 
 0.0.0.0 teddybearmindsupport.com
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.malwarebytes.com
@@ -422,14 +520,20 @@
 0.0.0.0 thetextdesk.com
 0.0.0.0 tomorrownewstoday.com
 0.0.0.0 torrentse.net
+0.0.0.0 track.adform.net 
+0.0.0.0 track.adition.com 
 0.0.0.0 tracking.applift.com
+0.0.0.0 trafficholder.com
 0.0.0.0 trashbox.ru
 0.0.0.0 twitter.secure-logins01.com
+0.0.0.0 u.admob.com 
 0.0.0.0 uelllwrite.com
 0.0.0.0 ultrahdindir.com
 0.0.0.0 umzugsfirmen365.ch.g3.kz
+0.0.0.0 urban.adspirit.de 
 0.0.0.0 us.softonic.com
 0.0.0.0 usenext.de
+0.0.0.0 ut.addthis.com 
 0.0.0.0 uvedifuciq.host
 0.0.0.0 v.lkqd.net
 0.0.0.0 v10.vortex-win.data.microsoft.com
@@ -444,6 +548,7 @@
 0.0.0.0 viq.bayern-apo.store
 0.0.0.0 virus-scanonline.com
 0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 vt.adition.com 
 0.0.0.0 vtservices85.fr
 0.0.0.0 vx.netlux.org
 0.0.0.0 waplam.host
@@ -457,6 +562,7 @@
 0.0.0.0 winantivirus.com
 0.0.0.0 wm-box.ru
 0.0.0.0 womansmedik.ru
+0.0.0.0 ws.addthis.com 
 0.0.0.0 www.123hjemmeside.no
 0.0.0.0 www.3aplus63.ru
 0.0.0.0 www.3mp3.ru
@@ -473,11 +579,14 @@
 0.0.0.0 www.accs.vn
 0.0.0.0 www.acedemysportsandoutdoors.com
 0.0.0.0 www.acousticsworkshop.com
+0.0.0.0 www.addthis.com 
 0.0.0.0 www.adi2013.org
 0.0.0.0 www.adobemasters.com
+0.0.0.0 www.adpacks.com
 0.0.0.0 www.aduayamsabung.com
 0.0.0.0 www.advhub.org
 0.0.0.0 www.adwarestriker.com
+0.0.0.0 www.adzmob.com
 0.0.0.0 www.aerialsbox.com
 0.0.0.0 www.aesofta.com
 0.0.0.0 www.affariat.com
@@ -522,6 +631,7 @@
 0.0.0.0 www.climatestrike.ch		#guestbook Spam several times
 0.0.0.0 www.clonevia.com
 0.0.0.0 www.colorado100.com
+0.0.0.0 www.conduit.com
 0.0.0.0 www.courseworkhelpxeg.com
 0.0.0.0 www.cr7fotbollsko.com
 0.0.0.0 www.cr7fotbollsko.com
@@ -537,6 +647,7 @@
 0.0.0.0 www.dm67.xyz
 0.0.0.0 www.docparhomenko.kiev.ua
 0.0.0.0 www.domainedesmauves.com
+0.0.0.0 www.doubleclick.com
 0.0.0.0 www.drusilladesigns.co.uk
 0.0.0.0 www.drwmohouse88.club
 0.0.0.0 www.dslesskazka.ru
@@ -568,6 +679,7 @@
 0.0.0.0 www.gncedstore.com
 0.0.0.0 www.goldesel.6x.to
 0.0.0.0 www.goodttsure.com
+0.0.0.0 www.google-analytics.com
 0.0.0.0 www.hacker-spider.at.nr
 0.0.0.0 www.hackingstore.de
 0.0.0.0 www.hackpalace.com
@@ -628,6 +740,7 @@
 0.0.0.0 www.observatoire-pelagis.cnrs.fr
 0.0.0.0 www.ohmygodnews.site
 0.0.0.0 www.onlineloansdhx.com
+0.0.0.0 www.overture.com
 0.0.0.0 www.oxygen-warez.com
 0.0.0.0 www.papersonlinesgo.com
 0.0.0.0 www.payday4myway.com
@@ -642,6 +755,8 @@
 0.0.0.0 www.quickloansrgl.com
 0.0.0.0 www.raringelmd.com
 0.0.0.0 www.researchpapershrd.com
+0.0.0.0 www.revcontent.com
+0.0.0.0 www.revivedadtag.com
 0.0.0.0 www.risaleforum.net
 0.0.0.0 www.royal-2.com
 0.0.0.0 www.saugstube-torrent.to
@@ -705,7 +820,10 @@
 0.0.0.0 www.znaniabsolwenci.pl
 0.0.0.0 www.zoomerart.net
 0.0.0.0 www.zss-sypniewo.pl
+0.0.0.0 www2.doubleclick.com 
 0.0.0.0 www2c.biglobe.ne.jp
+0.0.0.0 www3.addthis.com
+0.0.0.0 www3.doubleclick.com 
 0.0.0.0 www5f.biglobe.ne.jp
 0.0.0.0 xelllwrite.com
 0.0.0.0 xtand.net
