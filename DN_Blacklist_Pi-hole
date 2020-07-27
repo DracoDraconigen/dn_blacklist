@@ -3,11 +3,54 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # This list contains dangerous sites. These sites may contain spam, viruses, malware and other harmful content. Fake pages are also included.
-#Definitions total: 908
+#Definitions total: 1029
+#
+#
 #
 # suspicious domains
 0.0.0.0 -mmfirmenkontakt.de
+0.0.0.0 07stees.online
+0.0.0.0 0815.su
+0.0.0.0 09stees.online
+0.0.0.0 0box.eu
+0.0.0.0 0hiolce.com
+0.0.0.0 0n0ak.com
+0.0.0.0 0nes.org
+0.0.0.0 0rdering.com
+0.0.0.0 1-3-3-7.net
+0.0.0.0 1-best.ru
+0.0.0.0 1000xbetslots.xyz
+0.0.0.0 1001onlinegames.com
+0.0.0.0 100female.ru
+0.0.0.0 100guanya.com
+0.0.0.0 100tb-porno.ru
+0.0.0.0 1010le.com
+0.0.0.0 101peoplesearches.com
+0.0.0.0 102pinbahis.com
+0.0.0.0 10379.com
+0.0.0.0 10bet881088.com
+0.0.0.0 10host.top
+0.0.0.0 10mail.org
+0.0.0.0 10minutemail.nl
+0.0.0.0 10star.casino
+0.0.0.0 10vpn.info
+0.0.0.0 10xsuperstar.com
+0.0.0.0 110202.com
+0.0.0.0 1111.ru
+0.0.0.0 11277hd.com
+0.0.0.0 11a-klass-tube.info
+0.0.0.0 11himchistka.ru
+0.0.0.0 11mojoportal.nl
+0.0.0.0 12-znakov.ru
+0.0.0.0 120mail.com
+0.0.0.0 123anddone.com
+0.0.0.0 123gmail.com
 0.0.0.0 123hjemmeside.no
+0.0.0.0 12499cc.com
+0.0.0.0 125hour.online
+0.0.0.0 126.com.com
+0.0.0.0 126.com.net
+0.0.0.0 1281984.com
 0.0.0.0 1729-abfirmenkontakts.de
 0.0.0.0 1945-dbsonlinemarketing-de.de
 0.0.0.0 1bestone.pw
@@ -126,6 +169,7 @@
 0.0.0.0 bayern-apo.store
 0.0.0.0 bbjacke.de
 0.0.0.0 bbs.joyhll.org
+0.0.0.0 bbs.vrcore.org
 0.0.0.0 beattienao.com
 0.0.0.0 bettyoj94.123hjemmeside.no
 0.0.0.0 betwin88.co
@@ -179,6 +223,7 @@
 0.0.0.0 cache-dev.addthis.com 
 0.0.0.0 cache.addthis.com 
 0.0.0.0 cache.datamart.windows.com						#microsoft tracking
+0.0.0.0 calebrupp.com
 0.0.0.0 canadianpharmacyneo.com
 0.0.0.0 cardsexpert.ru
 0.0.0.0 cbdoilusd.com
@@ -215,6 +260,7 @@
 0.0.0.0 craksracing.com
 0.0.0.0 creativevideoblog.yolasite.com
 0.0.0.0 cs1.wpc.v0cdn.net								#microsoft tracking
+0.0.0.0 csvrxviagra.com
 0.0.0.0 ct1.addthis.com 
 0.0.0.0 cucoplan.com
 0.0.0.0 d.admob.com 
@@ -398,9 +444,14 @@
 0.0.0.0 megatogel.com
 0.0.0.0 megatongkol.com
 0.0.0.0 miapharmer.com
+0.0.0.0 micropaleontologies453wm.online
+0.0.0.0 microsoftopedia.com
+0.0.0.0 microsotft.org
 0.0.0.0 mininova.org
 0.0.0.0 mobile.adfarm1.adition.com 
 0.0.0.0 modelsnettv.com
+0.0.0.0 movie-ru-film.ru
+0.0.0.0 movie-ru-girls.ru
 0.0.0.0 movieour.com
 0.0.0.0 mp3fiesta.com
 0.0.0.0 mp3sugar.com
@@ -420,11 +471,21 @@
 0.0.0.0 nameplatedepot.com
 0.0.0.0 nemashurrahimi.com
 0.0.0.0 netzmarkt.ivwbox.de
+0.0.0.0 nomcom.co.uk
+0.0.0.0 nomtool.info
+0.0.0.0 nongzaa.cf
+0.0.0.0 nongzaa.gq
+0.0.0.0 nongzaa.tk
+0.0.0.0 nonspam.eu
+0.0.0.0 nonspammer.de
+0.0.0.0 nooklan.org
+0.0.0.0 noor54.newfishingaccessories.com
 0.0.0.0 norfolkpcfix.com
 0.0.0.0 nowodworskirozklad.pl
 0.0.0.0 ntv.ivwbox.de
 0.0.0.0 nudeteens.in
 0.0.0.0 nulledscriptt.com
+0.0.0.0 nuttall95.softtoiletpaper.com
 0.0.0.0 nxcta.org
 0.0.0.0 o.addthis.com 
 0.0.0.0 o.admob.com 
@@ -435,6 +496,7 @@
 0.0.0.0 onlineloansdhx.com
 0.0.0.0 onvis.ivwbox.de
 0.0.0.0 orgsite.cn
+0.0.0.0 outlls.calebrupp.com
 0.0.0.0 overture.com
 0.0.0.0 oxygen-warez.com
 0.0.0.0 p.addthis.com 
@@ -543,6 +605,7 @@
 0.0.0.0 szerokopasmowapolska.pl
 0.0.0.0 t.admob.com 
 0.0.0.0 t.signauxdeux.com
+0.0.0.0 taggert36.refurbishedlaserscanners.com
 0.0.0.0 taikhoan.co
 0.0.0.0 tajcn.com
 0.0.0.0 tattooshaha.info
@@ -588,6 +651,7 @@
 0.0.0.0 vx.netlux.org
 0.0.0.0 vx.org.ua
 0.0.0.0 waplam.host
+0.0.0.0 waskamena.ru
 0.0.0.0 web-money.cn
 0.0.0.0 web63.jumptap.com
 0.0.0.0 web64.jumptap.com
@@ -601,7 +665,48 @@
 0.0.0.0 womansmedik.ru
 0.0.0.0 ws.addthis.com 
 0.0.0.0 ww2.telechat.info
+0.0.0.0 www.07stees.online
+0.0.0.0 www.0815.su
+0.0.0.0 www.09stees.online
+0.0.0.0 www.0box.eu
+0.0.0.0 www.0hiolce.com
+0.0.0.0 www.0n0ak.com
+0.0.0.0 www.0nes.org
+0.0.0.0 www.0rdering.com
+0.0.0.0 www.1-3-3-7.net
+0.0.0.0 www.1-best.ru
+0.0.0.0 www.1000xbetslots.xyz
+0.0.0.0 www.1001onlinegames.com
+0.0.0.0 www.100female.ru
+0.0.0.0 www.100guanya.com
+0.0.0.0 www.100tb-porno.ru
+0.0.0.0 www.1010le.com
+0.0.0.0 www.101peoplesearches.com
+0.0.0.0 www.102pinbahis.com
+0.0.0.0 www.10379.com
+0.0.0.0 www.10bet881088.com
+0.0.0.0 www.10host.top
+0.0.0.0 www.10mail.org
+0.0.0.0 www.10minutemail.nl
+0.0.0.0 www.10star.casino
+0.0.0.0 www.10vpn.info
+0.0.0.0 www.10xsuperstar.com
+0.0.0.0 www.110202.com
+0.0.0.0 www.1111.ru
+0.0.0.0 www.11277hd.com
+0.0.0.0 www.11a-klass-tube.info
+0.0.0.0 www.11himchistka.ru
+0.0.0.0 www.11mojoportal.nl
+0.0.0.0 www.12-znakov.ru
+0.0.0.0 www.120mail.com
+0.0.0.0 www.123anddone.com
+0.0.0.0 www.123gmail.com
 0.0.0.0 www.123hjemmeside.no
+0.0.0.0 www.12499cc.com
+0.0.0.0 www.125hour.online
+0.0.0.0 www.126.com.com
+0.0.0.0 www.126.com.net
+0.0.0.0 www.1281984.com
 0.0.0.0 www.3aplus63.ru
 0.0.0.0 www.3mp3.ru
 0.0.0.0 www.72Hwebsite.com
@@ -664,6 +769,7 @@
 0.0.0.0 www.bulksteroid.com
 0.0.0.0 www.buymodafinilntx.com
 0.0.0.0 www.buyviagaraonline.com
+0.0.0.0 www.calebrupp.com
 0.0.0.0 www.canadianpharmacyneo.com
 0.0.0.0 www.cbdoilusd.com
 0.0.0.0 www.cbdoilusd.com
@@ -681,6 +787,7 @@
 0.0.0.0 www.cr7fotbollsko.com
 0.0.0.0 www.cr7fotbollsko.com
 0.0.0.0 www.craksracing.com
+0.0.0.0 www.csvrxviagra.com
 0.0.0.0 www.cucoplan.com
 0.0.0.0 www.danmar.su
 0.0.0.0 www.ddl-search.com
@@ -787,7 +894,12 @@
 0.0.0.0 www.megatogel.com
 0.0.0.0 www.megatongkol.com
 0.0.0.0 www.miapharmer.com
+0.0.0.0 www.micropaleontologies453wm.online
+0.0.0.0 www.microsoftopedia.com
+0.0.0.0 www.microsotft.org
 0.0.0.0 www.mininova.org
+0.0.0.0 www.movie-ru-film.ru
+0.0.0.0 www.movie-ru-girls.ru
 0.0.0.0 www.mp3fiesta.com
 0.0.0.0 www.mp3sugar.com
 0.0.0.0 www.mp3va.com
@@ -801,6 +913,14 @@
 0.0.0.0 www.najiur.com
 0.0.0.0 www.nameplatedepot.com
 0.0.0.0 www.nemashurrahimi.com
+0.0.0.0 www.nomcom.co.uk
+0.0.0.0 www.nomtool.info
+0.0.0.0 www.nongzaa.cf
+0.0.0.0 www.nongzaa.gq
+0.0.0.0 www.nongzaa.tk
+0.0.0.0 www.nonspam.eu
+0.0.0.0 www.nonspammer.de
+0.0.0.0 www.nooklan.org
 0.0.0.0 www.norfolkpcfix.com
 0.0.0.0 www.nulledscriptt.com
 0.0.0.0 www.nxcta.org
@@ -877,6 +997,7 @@
 0.0.0.0 www.vtservices85.fr
 0.0.0.0 www.vx.org.ua
 0.0.0.0 www.waplam.host
+0.0.0.0 www.waskamena.ru
 0.0.0.0 www.web-money.cn
 0.0.0.0 www.wikigrottaglie.org
 0.0.0.0 www.wikihorne.dk											#guestbook and mailspam
@@ -895,6 +1016,7 @@
 0.0.0.0 www.znaniabsolwenci.pl
 0.0.0.0 www.zoomerart.net
 0.0.0.0 www.zss-sypniewo.pl
+0.0.0.0 www.zzzzzzzzzzzzz.com
 0.0.0.0 www2.doubleclick.com 
 0.0.0.0 www2c.biglobe.ne.jp
 0.0.0.0 www3.addthis.com
@@ -914,3 +1036,4 @@
 0.0.0.0 zoomerart.net
 0.0.0.0 zss-sypniewo.pl
 0.0.0.0 zzz.Com.ua
+0.0.0.0 zzzzzzzzzzzzz.com
