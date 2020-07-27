@@ -3,7 +3,7 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # This list contains dangerous sites. These sites may contain spam, viruses, malware and other harmful content. Fake pages are also included.
-#Definitions total: 1029
+#Definitions total: 1126
 #
 #
 #
@@ -130,8 +130,11 @@
 0.0.0.0 akaqa.com
 0.0.0.0 akroofwindows.co.uk
 0.0.0.0 akwaibomnewsonline.com
+0.0.0.0 albina.universallightkeys.com
 0.0.0.0 allcashreviews.blogspot.com
+0.0.0.0 almira93.universallightkeys.com
 0.0.0.0 aln-consulting.de
+0.0.0.0 alsbrooks.universallightkeys.com
 0.0.0.0 amindo.freehostia.com
 0.0.0.0 amitriptylineelavilgha.com
 0.0.0.0 analabuba.com
@@ -144,12 +147,15 @@
 0.0.0.0 api.b2c.com
 0.0.0.0 api.content.ad
 0.0.0.0 appdev.addthis.com 
+0.0.0.0 arakaki48.universallightkeys.com
+0.0.0.0 arden48.universallightkeys.com
 0.0.0.0 assets.buysellads.com 
 0.0.0.0 assuremoving.in
 0.0.0.0 astalavista.box.sk
 0.0.0.0 att500.com
 0.0.0.0 aumento-mamario-2020.eu
 0.0.0.0 austein.com
+0.0.0.0 autin5.universallightkeys.com
 0.0.0.0 avapharmyj.com
 0.0.0.0 ayamlagafilipina.com
 0.0.0.0 ayamlive.org
@@ -164,6 +170,7 @@
 0.0.0.0 baijialuntan.net
 0.0.0.0 balaski.webflow.io
 0.0.0.0 baomoi365.net
+0.0.0.0 barberian62.universallightkeys.com
 0.0.0.0 baronesa.xyz
 0.0.0.0 baunti.top
 0.0.0.0 bayern-apo.store
@@ -186,6 +193,7 @@
 0.0.0.0 blog.addthis.com 
 0.0.0.0 bo.jumptap.com
 0.0.0.0 bodelen.com
+0.0.0.0 bodyjewelrydepot.universallightkeys.com
 0.0.0.0 bookbrouser.com
 0.0.0.0 bookie7.run
 0.0.0.0 bookie7.win
@@ -213,6 +221,7 @@
 0.0.0.0 brunga.at
 0.0.0.0 btcoinz.com
 0.0.0.0 bulksteroid.com
+0.0.0.0 burbridge.universallightkeys.com
 0.0.0.0 buymodafinilntx.com
 0.0.0.0 buysellads.com
 0.0.0.0 buyviagaraonline.com
@@ -242,30 +251,38 @@
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 centgebote.tv
 0.0.0.0 cf.addthis.com 
+0.0.0.0 chareunrath.universallightkeys.com
 0.0.0.0 cheapbestoemonline.net
+0.0.0.0 cholewa37.universallightkeys.com
 0.0.0.0 ciaonlinebuyntx.com
 0.0.0.0 climatestrike.ch		#guestbook Spam several times
 0.0.0.0 clonevia.com
+0.0.0.0 cm69.club
 0.0.0.0 cocoro.in
 0.0.0.0 colorado100.com
 0.0.0.0 conduit.com
 0.0.0.0 connatix.com
 0.0.0.0 content.ad
+0.0.0.0 contopoulos.universallightkeys.com
+0.0.0.0 coons.universallightkeys.com
 0.0.0.0 coralgablesroofing.info
 0.0.0.0 courseworkhelpxeg.com
 0.0.0.0 cpm.admob.com 
 0.0.0.0 cpm2.admob.com 
 0.0.0.0 cr7fotbollsko.com
 0.0.0.0 cracks.thebugs.ws
+0.0.0.0 cragavpivo.tk
 0.0.0.0 craksracing.com
 0.0.0.0 creativevideoblog.yolasite.com
 0.0.0.0 cs1.wpc.v0cdn.net								#microsoft tracking
 0.0.0.0 csvrxviagra.com
 0.0.0.0 ct1.addthis.com 
 0.0.0.0 cucoplan.com
+0.0.0.0 cuyler.universallightkeys.com
 0.0.0.0 d.admob.com 
 0.0.0.0 d99q.cn
 0.0.0.0 danmar.su
+0.0.0.0 dant.universallightkeys.com
 0.0.0.0 dater.website
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 dbt.adition.com 
@@ -276,13 +293,20 @@
 0.0.0.0 deloplen.com
 0.0.0.0 demo2.younetco.com
 0.0.0.0 demosite.center
+0.0.0.0 derden.universallightkeys.com
+0.0.0.0 deryck35.universallightkeys.com
 0.0.0.0 diagnostics.support.microsoft.com				#microsoft tracking
+0.0.0.0 dielman75.universallightkeys.com
+0.0.0.0 dill.universallightkeys.com
 0.0.0.0 dimeadozen.org
+0.0.0.0 dirienzo.universallightkeys.com
+0.0.0.0 discipio16.universallightkeys.com
 0.0.0.0 djpugwash.com
 0.0.0.0 dm67.xyz
 0.0.0.0 dmp.adform.net 
 0.0.0.0 docparhomenko.kiev.ua
 0.0.0.0 domainedesmauves.com
+0.0.0.0 dottin16.universallightkeys.com
 0.0.0.0 doubleclick.com 
 0.0.0.0 download-service.de
 0.0.0.0 download-sofort.com
@@ -301,11 +325,16 @@
 0.0.0.0 eazy-money.online
 0.0.0.0 ec.atdmt.com
 0.0.0.0 eclecticwisdomandwellness.com
+0.0.0.0 edu.universallightkeys.com
+0.0.0.0 edu10023.universallightkeys.com
 0.0.0.0 elie.jp
+0.0.0.0 empayna.tk
 0.0.0.0 en.iranhormone.ir
 0.0.0.0 en.softonic.com
 0.0.0.0 epic7wiki.com
 0.0.0.0 escargoterie.fr
+0.0.0.0 eskelson.universallightkeys.com
+0.0.0.0 esquirel.universallightkeys.com
 0.0.0.0 essayonlinethx.com
 0.0.0.0 expertantivirus.com
 0.0.0.0 faz.ivwbox.de
@@ -332,6 +361,7 @@
 0.0.0.0 fxjxm.com
 0.0.0.0 g.msn.com
 0.0.0.0 g4u.me
+0.0.0.0 games.universallightkeys.com
 0.0.0.0 gcskorea.org
 0.0.0.0 generic-Vaigra-Generic.com
 0.0.0.0 genericVersionViagra.com
@@ -347,6 +377,8 @@
 0.0.0.0 glc-ad.net
 0.0.0.0 gncedstore.com
 0.0.0.0 goldesel.6x.to
+0.0.0.0 goodell45.universallightkeys.com
+0.0.0.0 goodfellow73.universallightkeys.com
 0.0.0.0 goodttsure.com
 0.0.0.0 google-analytics.com 
 0.0.0.0 googleanalytlcs.net
@@ -355,12 +387,18 @@
 0.0.0.0 hacker-spider.at.nr
 0.0.0.0 hackingstore.de
 0.0.0.0 hackpalace.com
+0.0.0.0 herms.universallightkeys.com
+0.0.0.0 hielilis.tk
 0.0.0.0 hoanganhmart.com
 0.0.0.0 hoanganhmart.com 
 0.0.0.0 hoerspiele.to
 0.0.0.0 hoffmann-sprezyny.pl
+0.0.0.0 honeywii.spicysallads.com
+0.0.0.0 honeywii.universallightkeys.com
 0.0.0.0 hopewalk.net
+0.0.0.0 hossack.universallightkeys.com
 0.0.0.0 host.ftec.com
+0.0.0.0 hotels.universallightkeys.com
 0.0.0.0 house2style.nl
 0.0.0.0 hqticket.com
 0.0.0.0 hss.servprocedar.com
@@ -383,33 +421,43 @@
 0.0.0.0 ivancice.net
 0.0.0.0 iwilllendyoumoney.com
 0.0.0.0 japanulled.com
+0.0.0.0 jarry20.universallightkeys.com
+0.0.0.0 javaux52.universallightkeys.com
 0.0.0.0 jifenbao.geihui.com
 0.0.0.0 jjhouse.com
 0.0.0.0 johnathan9inu5.pointblog.net
 0.0.0.0 jokermerah.top
+0.0.0.0 kalama.universallightkeys.com
 0.0.0.0 kassperskylabs.cn #fake site with malicious software!
 0.0.0.0 kdbadmin.com
+0.0.0.0 keanken.universallightkeys.com
 0.0.0.0 kenh14.vn
+0.0.0.0 kennerson42.universallightkeys.com
 0.0.0.0 keto-actives-review.eu 
 0.0.0.0 keygen.name
 0.0.0.0 keygen.us
 0.0.0.0 keygenguru.com
 0.0.0.0 keygens.pro
+0.0.0.0 keys.universallightkeys.com
 0.0.0.0 keyslic.com
 0.0.0.0 khubera.com
 0.0.0.0 kicker.ivwbox.de
 0.0.0.0 kiraobolensky.com
 0.0.0.0 kritih.com
 0.0.0.0 kuliner-indo.com
+0.0.0.0 kutzner5.universallightkeys.com
 0.0.0.0 landcro.com
+0.0.0.0 lapuerta.universallightkeys.com
 0.0.0.0 lavaggio.com.vn
 0.0.0.0 lawchong.com
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 ldkueekaderrnau.com
 0.0.0.0 letsfish2.fansite.xaa.pl
 0.0.0.0 levinedamborg07.xtgem.com
+0.0.0.0 lhpa.com
 0.0.0.0 lienquansuamaygiatelectrolux.blogspot.com
 0.0.0.0 lienquansuamaygiatlg.blogspot.com
+0.0.0.0 lieurance98.universallightkeys.com
 0.0.0.0 likeportal.com
 0.0.0.0 likespike.com
 0.0.0.0 likethis.mbosoft.com
@@ -421,9 +469,13 @@
 0.0.0.0 lkqd.net
 0.0.0.0 localappliancerepairman.net
 0.0.0.0 locate.ae
+0.0.0.0 login.universallightkeys.com
 0.0.0.0 lotus-cayyolu.com
 0.0.0.0 lousecn.cn
+0.0.0.0 loux5.universallightkeys.com
 0.0.0.0 lt.tai-chi-offenbach.de
+0.0.0.0 lucore32.universallightkeys.com
+0.0.0.0 lynette.universallightkeys.com
 0.0.0.0 m.addthis.com 
 0.0.0.0 m.adnxs.com
 0.0.0.0 madbid.com
@@ -432,10 +484,15 @@
 0.0.0.0 mainstoreonline.com
 0.0.0.0 mama-ads.com
 0.0.0.0 mangdichvu.net
+0.0.0.0 mansanares33.universallightkeys.com
 0.0.0.0 marengi.org
+0.0.0.0 mariano.universallightkeys.com
 0.0.0.0 marquesas-inn.com
 0.0.0.0 martuz.cn
+0.0.0.0 matayoshi.universallightkeys.com
 0.0.0.0 mauta.or.tz
+0.0.0.0 mcconahay.universallightkeys.com
+0.0.0.0 mcfarlen28.universallightkeys.com
 0.0.0.0 mcsofswf.com
 0.0.0.0 medfarm.biz
 0.0.0.0 mediazioniapec.it
@@ -443,10 +500,13 @@
 0.0.0.0 megabandar.pro
 0.0.0.0 megatogel.com
 0.0.0.0 megatongkol.com
+0.0.0.0 menoni27.universallightkeys.com
+0.0.0.0 merkle72.universallightkeys.com
 0.0.0.0 miapharmer.com
 0.0.0.0 micropaleontologies453wm.online
 0.0.0.0 microsoftopedia.com
 0.0.0.0 microsotft.org
+0.0.0.0 mikki78.universallightkeys.com
 0.0.0.0 mininova.org
 0.0.0.0 mobile.adfarm1.adition.com 
 0.0.0.0 modelsnettv.com
@@ -461,6 +521,8 @@
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 mt1b.net
 0.0.0.0 muktwioutt.com
+0.0.0.0 mullinax.universallightkeys.com
+0.0.0.0 munzell91.universallightkeys.com
 0.0.0.0 musicmp3.ru
 0.0.0.0 mxz96.com
 0.0.0.0 mylike.co.uk
@@ -491,13 +553,17 @@
 0.0.0.0 o.admob.com 
 0.0.0.0 observatoire-pelagis.cnrs.fr
 0.0.0.0 ocsp.pki.goog
+0.0.0.0 oestmann86.universallightkeys.com
+0.0.0.0 office.universallightkeys.com
 0.0.0.0 ohmygodnews.site
 0.0.0.0 onlinedoctorrsale.com
 0.0.0.0 onlineloansdhx.com
 0.0.0.0 onvis.ivwbox.de
 0.0.0.0 orgsite.cn
+0.0.0.0 ornstein67.universallightkeys.com
 0.0.0.0 outlls.calebrupp.com
 0.0.0.0 overture.com
+0.0.0.0 owner.universallightkeys.com
 0.0.0.0 oxygen-warez.com
 0.0.0.0 p.addthis.com 
 0.0.0.0 p.admob.com 
@@ -527,8 +593,12 @@
 0.0.0.0 quickloansrgl.com
 0.0.0.0 r.admob.com 
 0.0.0.0 r.dlx.addthis.com 
+0.0.0.0 rahming37.universallightkeys.com
 0.0.0.0 raringelmd.com
+0.0.0.0 refsal92.universallightkeys.com
+0.0.0.0 reinmann.universallightkeys.com
 0.0.0.0 relic-mc.com
+0.0.0.0 rema49.universallightkeys.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 researchpapershrd.com
@@ -549,7 +619,9 @@
 0.0.0.0 sc9.admob.com 
 0.0.0.0 sceneload.to
 0.0.0.0 schemas.microsoft.akadns.net
+0.0.0.0 scherler.universallightkeys.com
 0.0.0.0 schooldemo.remembertheunborn.org
+0.0.0.0 scoby55.universallightkeys.com
 0.0.0.0 scottishstuff-online.com
 0.0.0.0 scumvv.ca
 0.0.0.0 sdk.rethinkrobotics.com
@@ -559,6 +631,7 @@
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 sellatease.com
+0.0.0.0 selvera.universallightkeys.com
 0.0.0.0 seomaniac.co.uk
 0.0.0.0 seosanaac.com
 0.0.0.0 serenescreen-marine-aquarium.en.softonic.com
@@ -570,6 +643,7 @@
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 shoppingfolder.com
 0.0.0.0 signauxdeux.com
+0.0.0.0 singo.universallightkeys.com
 0.0.0.0 sitemeter.com
 0.0.0.0 slotonlineandroid.casa
 0.0.0.0 slotpulsa77.xyz
@@ -596,10 +670,13 @@
 0.0.0.0 stepbystepbg.org
 0.0.0.0 steroids-king.com
 0.0.0.0 stmikgici.ac.id
+0.0.0.0 strow1.universallightkeys.com
 0.0.0.0 su.addthis.com 
 0.0.0.0 suadieuhoagiare247.com
 0.0.0.0 suadieuhoagiare247.comrisaleforum.net
 0.0.0.0 superhealthguide.wordpress.com
+0.0.0.0 support.universallightkeys.com
+0.0.0.0 swaisgood.universallightkeys.com
 0.0.0.0 swoggi.de
 0.0.0.0 synology.me
 0.0.0.0 szerokopasmowapolska.pl
@@ -608,6 +685,7 @@
 0.0.0.0 taggert36.refurbishedlaserscanners.com
 0.0.0.0 taikhoan.co
 0.0.0.0 tajcn.com
+0.0.0.0 tam.universallightkeys.com
 0.0.0.0 tattooshaha.info
 0.0.0.0 taz.adspirit.de 
 0.0.0.0 teddybearmindsupport.com
@@ -616,6 +694,7 @@
 0.0.0.0 thedatesafe.com
 0.0.0.0 thesissgj.com
 0.0.0.0 thetextdesk.com
+0.0.0.0 thoele.universallightkeys.com
 0.0.0.0 tomorrownewstoday.com
 0.0.0.0 torrentse.net
 0.0.0.0 track.adform.net 
@@ -628,6 +707,7 @@
 0.0.0.0 uelllwrite.com
 0.0.0.0 ultrahdindir.com
 0.0.0.0 umzugsfirmen365.ch.g3.kz
+0.0.0.0 universallightkeys.com
 0.0.0.0 urban.adspirit.de 
 0.0.0.0 us.softonic.com
 0.0.0.0 usenext.de
@@ -650,6 +730,7 @@
 0.0.0.0 vtservices85.fr
 0.0.0.0 vx.netlux.org
 0.0.0.0 vx.org.ua
+0.0.0.0 wallingford.universallightkeys.com
 0.0.0.0 waplam.host
 0.0.0.0 waskamena.ru
 0.0.0.0 web-money.cn
@@ -657,6 +738,7 @@
 0.0.0.0 web64.jumptap.com
 0.0.0.0 web65.jumptap.com
 0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 widmar98.universallightkeys.com
 0.0.0.0 wikigrottaglie.org
 0.0.0.0 wikihorne.dk												#guestbook and mailspam
 0.0.0.0 winantivirus.com
@@ -780,12 +862,14 @@
 0.0.0.0 www.clickspring.net
 0.0.0.0 www.climatestrike.ch		#guestbook Spam several times
 0.0.0.0 www.clonevia.com
+0.0.0.0 www.cm69.club
 0.0.0.0 www.cocoro.in
 0.0.0.0 www.colorado100.com
 0.0.0.0 www.conduit.com
 0.0.0.0 www.courseworkhelpxeg.com
 0.0.0.0 www.cr7fotbollsko.com
 0.0.0.0 www.cr7fotbollsko.com
+0.0.0.0 www.cragavpivo.tk
 0.0.0.0 www.craksracing.com
 0.0.0.0 www.csvrxviagra.com
 0.0.0.0 www.cucoplan.com
@@ -811,6 +895,7 @@
 0.0.0.0 www.eazy-money.online
 0.0.0.0 www.eclecticwisdomandwellness.com
 0.0.0.0 www.elie.jp
+0.0.0.0 www.empayna.tk
 0.0.0.0 www.epic7wiki.com
 0.0.0.0 www.escargoterie.fr
 0.0.0.0 www.essayonlinethx.com
@@ -841,6 +926,7 @@
 0.0.0.0 www.hacker-spider.at.nr
 0.0.0.0 www.hackingstore.de
 0.0.0.0 www.hackpalace.com
+0.0.0.0 www.hielilis.tk
 0.0.0.0 www.hoanganhmart.com
 0.0.0.0 www.hoanganhmart.com 
 0.0.0.0 www.hoerspiele.to
@@ -874,6 +960,7 @@
 0.0.0.0 www.lavaggio.com.vn
 0.0.0.0 www.lawchong.com
 0.0.0.0 www.ldkueekaderrnau.com
+0.0.0.0 www.lhpa.com
 0.0.0.0 www.livegroupbreaks.com
 0.0.0.0 www.lkqd.net
 0.0.0.0 www.localappliancerepairman.net
@@ -984,6 +1071,7 @@
 0.0.0.0 www.trashbox.ru
 0.0.0.0 www.txexla.fraserphysics.com
 0.0.0.0 www.ultrahdindir.com
+0.0.0.0 www.universallightkeys.com
 0.0.0.0 www.usenext.de
 0.0.0.0 www.uvedifuciq.host
 0.0.0.0 www.vadaszapro.eu
@@ -1007,9 +1095,11 @@
 0.0.0.0 www.womansmedik.ru
 0.0.0.0 www.xtand.net
 0.0.0.0 www.y1024.me
+0.0.0.0 www.yaho.com
 0.0.0.0 www.ydfoundation.org
 0.0.0.0 www.yllychina.com
 0.0.0.0 www.youwin2015.com
+0.0.0.0 www.zaszalej-na-zakupach.pw
 0.0.0.0 www.zdrava.org.ua
 0.0.0.0 www.zizl.ru
 0.0.0.0 www.zm91.com
@@ -1025,15 +1115,22 @@
 0.0.0.0 xelllwrite.com
 0.0.0.0 xtand.net
 0.0.0.0 y1024.me
+0.0.0.0 yaho.com
+0.0.0.0 yamkosumpa83.universallightkeys.com
+0.0.0.0 yantzer.universallightkeys.com
+0.0.0.0 yard43.universallightkeys.com
 0.0.0.0 ydfoundation.org
 0.0.0.0 yllychina.com
 0.0.0.0 youwin2015.com
+0.0.0.0 zaszalej-na-zakupach.pw
 0.0.0.0 zdrava.org.ua
 0.0.0.0 zedo.com
+0.0.0.0 zenobia71.universallightkeys.com
 0.0.0.0 zizl.ru
 0.0.0.0 zm91.com
 0.0.0.0 znaniabsolwenci.pl
 0.0.0.0 zoomerart.net
 0.0.0.0 zss-sypniewo.pl
+0.0.0.0 zubiate.universallightkeys.com
 0.0.0.0 zzz.Com.ua
 0.0.0.0 zzzzzzzzzzzzz.com
