@@ -3,7 +3,7 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # This list contains dangerous sites. These sites may contain spam, viruses, malware and other harmful content. Fake pages are also included.
-#Definitions total: 1343
+#Definitions total: 1540
 #
 # You want to add or remove a entry? Please write a Mail to: blacklist@dranet.33mail.com
 #
@@ -153,9 +153,11 @@
 0.0.0.0 allcashreviews.blogspot.com
 0.0.0.0 allcbdstores.com
 0.0.0.0 allmon.biz
+0.0.0.0 allvapebrands.com
 0.0.0.0 almira93.universallightkeys.com
 0.0.0.0 aln-consulting.de
 0.0.0.0 alsbrooks.universallightkeys.com
+0.0.0.0 alturl.com
 0.0.0.0 alvodireto.com
 0.0.0.0 amanda-videos.xyz
 0.0.0.0 amindo.freehostia.com
@@ -185,6 +187,7 @@
 0.0.0.0 att500.com
 0.0.0.0 aumento-mamario-2020.eu
 0.0.0.0 austein.com
+0.0.0.0 authorstream.com
 0.0.0.0 autin5.universallightkeys.com
 0.0.0.0 avapharmyj.com
 0.0.0.0 ayamlagafilipina.com
@@ -223,8 +226,10 @@
 0.0.0.0 blackdiamond-casino.com							#guestbookspam
 0.0.0.0 blackshemaleclips.com										#guestbook and mailspam
 0.0.0.0 blakesector.scumvv.ca
+0.0.0.0 blip.fm
 0.0.0.0 blizzzrd-net.com
 0.0.0.0 blog.addthis.com 
+0.0.0.0 blog.asksunday.com
 0.0.0.0 bo.jumptap.com
 0.0.0.0 bodelen.com
 0.0.0.0 bodyjewelrydepot.universallightkeys.com
@@ -275,6 +280,8 @@
 0.0.0.0 canadian-drugqmrp.com
 0.0.0.0 canadianhpharmacy.com
 0.0.0.0 canadianlpharmacy.com
+0.0.0.0 canadiannpharmacy.com
+0.0.0.0 canadianopharmacy.com
 0.0.0.0 canadianorderpharmacy.com
 0.0.0.0 canadianpharmacyneo.com
 0.0.0.0 canadianpharmacyonl.com
@@ -314,6 +321,7 @@
 0.0.0.0 climatestrike.ch		#guestbook Spam several times
 0.0.0.0 clonevia.com
 0.0.0.0 cm69.club
+0.0.0.0 coastalwiki.piratelab.org
 0.0.0.0 cocoro.in
 0.0.0.0 codesevenhack.net
 0.0.0.0 coinmaz.com
@@ -337,11 +345,13 @@
 0.0.0.0 csvrxviagra.com
 0.0.0.0 ct1.addthis.com 
 0.0.0.0 cucoplan.com
+0.0.0.0 cults3d.com
 0.0.0.0 cutmaster.blog81.fc2.com
 0.0.0.0 cuyler.universallightkeys.com
 0.0.0.0 d.admob.com 
 0.0.0.0 d99q.cn
 0.0.0.0 daf.csulb.edu
+0.0.0.0 dakotahighsmith.wordpress.com
 0.0.0.0 danmar.su
 0.0.0.0 dant.universallightkeys.com
 0.0.0.0 dater.website
@@ -357,10 +367,12 @@
 0.0.0.0 demosite.center
 0.0.0.0 derden.universallightkeys.com
 0.0.0.0 deryck35.universallightkeys.com
+0.0.0.0 devpost.com
 0.0.0.0 diagnostics.support.microsoft.com				#microsoft tracking
 0.0.0.0 dielman75.universallightkeys.com
 0.0.0.0 dill.universallightkeys.com
 0.0.0.0 dimeadozen.org
+0.0.0.0 dipris-studio.ru
 0.0.0.0 dirienzo.universallightkeys.com
 0.0.0.0 discipio16.universallightkeys.com
 0.0.0.0 djpugwash.com
@@ -382,6 +394,7 @@
 0.0.0.0 dubaidesigncircle.com
 0.0.0.0 duilawyerlink.com
 0.0.0.0 duo-games.com												#guestbook and mailspam
+0.0.0.0 dvk-centr.ru
 0.0.0.0 dvmagic.net
 0.0.0.0 e.admob.com 
 0.0.0.0 e1.addthis.com 
@@ -394,6 +407,7 @@
 0.0.0.0 edrugvastore.com
 0.0.0.0 edu.universallightkeys.com
 0.0.0.0 edu10023.universallightkeys.com
+0.0.0.0 elegra.ph
 0.0.0.0 elie.jp
 0.0.0.0 elrenofuneralhome.com
 0.0.0.0 empayna.tk
@@ -408,9 +422,11 @@
 0.0.0.0 essaybuyhtd.com
 0.0.0.0 essayonlinethx.com
 0.0.0.0 essaywritingcrew.com
+0.0.0.0 eurekaenv.com
 0.0.0.0 eurodate.fun
 0.0.0.0 expertantivirus.com
 0.0.0.0 ezproxy.cityu.edu.hk
+0.0.0.0 facteditor46.nation2.com
 0.0.0.0 faz.ivwbox.de
 0.0.0.0 faz.ivwbox.de
 0.0.0.0 fblor2020.xsl.pt
@@ -482,6 +498,7 @@
 0.0.0.0 hacker-spider.at.nr
 0.0.0.0 hackingstore.de
 0.0.0.0 hackpalace.com
+0.0.0.0 hearthis.at
 0.0.0.0 hemes1800.xyz
 0.0.0.0 hemplifemag.com
 0.0.0.0 herms.universallightkeys.com
@@ -502,6 +519,7 @@
 0.0.0.0 hotels.universallightkeys.com
 0.0.0.0 house2style.nl
 0.0.0.0 hqticket.com
+0.0.0.0 hrusp2020.xsl.pt
 0.0.0.0 hss.servprocedar.com
 0.0.0.0 hu.lug-mueritz.de
 0.0.0.0 hvqy1.com
@@ -570,6 +588,7 @@
 0.0.0.0 leadclub.net
 0.0.0.0 letsfish2.fansite.xaa.pl
 0.0.0.0 levinedamborg07.xtgem.com
+0.0.0.0 lg2020.xsl.pt
 0.0.0.0 lhpa.com
 0.0.0.0 liderfmtocos.website.radio.br
 0.0.0.0 lienquansuamaygiatelectrolux.blogspot.com
@@ -644,6 +663,7 @@
 0.0.0.0 mobile-global-app-market1.life
 0.0.0.0 mobile.adfarm1.adition.com 
 0.0.0.0 modelsnettv.com
+0.0.0.0 momporn24.com
 0.0.0.0 movie-ru-film.ru
 0.0.0.0 movie-ru-girls.ru
 0.0.0.0 movieour.com
@@ -690,6 +710,7 @@
 0.0.0.0 nxcta.org
 0.0.0.0 o.addthis.com 
 0.0.0.0 o.admob.com 
+0.0.0.0 o5o5.ru
 0.0.0.0 obakeanthurium.braveblog.com
 0.0.0.0 observatoire-pelagis.cnrs.fr
 0.0.0.0 ocsp.pki.goog
@@ -712,6 +733,7 @@
 0.0.0.0 p.guail.es
 0.0.0.0 paix1.sc1.admob.com 
 0.0.0.0 panweeder58.webs.com
+0.0.0.0 papershreddersbyhsm.com
 0.0.0.0 papersonlinesgo.com
 0.0.0.0 pasteshr.com
 0.0.0.0 payday4myway.com
@@ -727,6 +749,7 @@
 0.0.0.0 polymoney.synology.me
 0.0.0.0 polymoney.synology.me
 0.0.0.0 porns-xxx.com
+0.0.0.0 presscbu.cbnu.ac.kr
 0.0.0.0 preview.msn.com
 0.0.0.0 pro-pharmaceuticals.com
 0.0.0.0 proflashdata.com
@@ -738,6 +761,7 @@
 0.0.0.0 pxco.me
 0.0.0.0 q.admob.com 
 0.0.0.0 qes.co.kr
+0.0.0.0 qiita.com
 0.0.0.0 quality-channel.de
 0.0.0.0 quantrilienket.blogspot.com
 0.0.0.0 quantserve.com
@@ -757,6 +781,7 @@
 0.0.0.0 researchpapershrd.com
 0.0.0.0 resolutionintllc.org
 0.0.0.0 revcontent.com
+0.0.0.0 reversesnob.com
 0.0.0.0 revivedadtag.com
 0.0.0.0 rivneosvita.org.ua
 0.0.0.0 roresdiecash.com
@@ -771,6 +796,7 @@
 0.0.0.0 s9.addthis.com 
 0.0.0.0 sO.2mdn.net
 0.0.0.0 safe-kim.com
+0.0.0.0 safecasino.xyz
 0.0.0.0 safeplayground.net
 0.0.0.0 sagame666.co
 0.0.0.0 saugstube-torrent.to
@@ -813,6 +839,8 @@
 0.0.0.0 sitemeter.com
 0.0.0.0 slotonlineandroid.casa
 0.0.0.0 slotpulsa77.xyz
+0.0.0.0 smart.lakemneadows.com
+0.0.0.0 smore.com
 0.0.0.0 snapchathacksnapchat.wordpress.com
 0.0.0.0 sp18-kielce.pl
 0.0.0.0 spacershandbook.com
@@ -820,8 +848,6 @@
 0.0.0.0 speakfimal.tk
 0.0.0.0 spearcastwinder.best
 0.0.0.0 specnondse.cf
-0.0.0.0 spellsandpsychics.co.za
-0.0.0.0 spellsandpsychics.co.za
 0.0.0.0 spellsandpsychics.co.za
 0.0.0.0 spellsandpsychics.com
 0.0.0.0 spicyadz.com
@@ -847,6 +873,7 @@
 0.0.0.0 suadieuhoagiare247.com
 0.0.0.0 suadieuhoagiare247.comrisaleforum.net
 0.0.0.0 sunguard.nz
+0.0.0.0 supergirls24.com
 0.0.0.0 superhealthguide.wordpress.com
 0.0.0.0 support.universallightkeys.com
 0.0.0.0 swaisgood.universallightkeys.com
@@ -929,6 +956,7 @@
 0.0.0.0 waxarm7.bravesites.com
 0.0.0.0 wddby.com
 0.0.0.0 web-money.cn
+0.0.0.0 web.jmjh.tn.edu.tw
 0.0.0.0 web63.jumptap.com
 0.0.0.0 web64.jumptap.com
 0.0.0.0 web65.jumptap.com
@@ -1033,7 +1061,9 @@
 0.0.0.0 www.alfaporno.top
 0.0.0.0 www.allcbdstores.com
 0.0.0.0 www.allmon.biz
+0.0.0.0 www.allvapebrands.com
 0.0.0.0 www.aln-consulting.de
+0.0.0.0 www.alturl.com
 0.0.0.0 www.alvodireto.com
 0.0.0.0 www.amanda-videos.xyz
 0.0.0.0 www.amitriptylineelavilgha.com
@@ -1047,6 +1077,7 @@
 0.0.0.0 www.assuremoving.in
 0.0.0.0 www.aumento-mamario-2020.eu
 0.0.0.0 www.austein.com
+0.0.0.0 www.authorstream.com
 0.0.0.0 www.avapharmyj.com
 0.0.0.0 www.ayamlagafilipina.com
 0.0.0.0 www.ayamlive.org
@@ -1067,6 +1098,7 @@
 0.0.0.0 www.bjyou4122.com
 0.0.0.0 www.blackdiamond-casino.com 					#guestbookspam
 0.0.0.0 www.blackshemaleclips.com									#guestbook and mailspam
+0.0.0.0 www.blip.fm
 0.0.0.0 www.blizzzrd-net.com
 0.0.0.0 www.bodelen.com
 0.0.0.0 www.bom.to
@@ -1084,6 +1116,8 @@
 0.0.0.0 www.canadian-drugqmrp.com
 0.0.0.0 www.canadianhpharmacy.com
 0.0.0.0 www.canadianlpharmacy.com
+0.0.0.0 www.canadiannpharmacy.com
+0.0.0.0 www.canadianopharmacy.com
 0.0.0.0 www.canadianorderpharmacy.com
 0.0.0.0 www.canadianpharmacyneo.com
 0.0.0.0 www.canadianpharmacyonl.com
@@ -1117,6 +1151,7 @@
 0.0.0.0 www.craksracing.com
 0.0.0.0 www.csvrxviagra.com
 0.0.0.0 www.cucoplan.com
+0.0.0.0 www.cults3d.com
 0.0.0.0 www.daf.csulb.edu
 0.0.0.0 www.danmar.su
 0.0.0.0 www.daylyporn.com
@@ -1124,7 +1159,9 @@
 0.0.0.0 www.ddl-warez.org
 0.0.0.0 www.deloplen.com
 0.0.0.0 www.demosite.center
+0.0.0.0 www.devpost.com
 0.0.0.0 www.dimeadozen.org
+0.0.0.0 www.dipris-studio.ru
 0.0.0.0 www.djpugwash.com
 0.0.0.0 www.dm67.xyz
 0.0.0.0 www.docparhomenko.kiev.ua
@@ -1139,12 +1176,14 @@
 0.0.0.0 www.dslesskazka.ru
 0.0.0.0 www.dubaidesigncircle.com
 0.0.0.0 www.duilawyerlink.com
+0.0.0.0 www.dvk-centr.ru
 0.0.0.0 www.dvmagic.net
 0.0.0.0 www.easternrayshisha.co.uk
 0.0.0.0 www.easycracks.net
 0.0.0.0 www.eazy-money.online
 0.0.0.0 www.eclecticwisdomandwellness.com
 0.0.0.0 www.edrugvastore.com
+0.0.0.0 www.elegra.ph
 0.0.0.0 www.elie.jp
 0.0.0.0 www.elrenofuneralhome.com
 0.0.0.0 www.empayna.tk
@@ -1155,6 +1194,7 @@
 0.0.0.0 www.essaybuyhtd.com
 0.0.0.0 www.essayonlinethx.com
 0.0.0.0 www.essaywritingcrew.com
+0.0.0.0 www.eurekaenv.com
 0.0.0.0 www.eurodate.fun
 0.0.0.0 www.expertantivirus.com
 0.0.0.0 www.fevertube.com
@@ -1196,6 +1236,7 @@
 0.0.0.0 www.hacker-spider.at.nr
 0.0.0.0 www.hackingstore.de
 0.0.0.0 www.hackpalace.com
+0.0.0.0 www.hearthis.at
 0.0.0.0 www.hemes1800.xyz
 0.0.0.0 www.hemplifemag.com
 0.0.0.0 www.hexincrement10.live
@@ -1287,6 +1328,7 @@
 0.0.0.0 www.microsotft.org
 0.0.0.0 www.mininova.org
 0.0.0.0 www.mobile-global-app-market1.life
+0.0.0.0 www.momporn24.com
 0.0.0.0 www.movie-ru-film.ru
 0.0.0.0 www.movie-ru-girls.ru
 0.0.0.0 www.mp3fiesta.com
@@ -1316,6 +1358,7 @@
 0.0.0.0 www.ntviagrausa.com
 0.0.0.0 www.nulledscriptt.com
 0.0.0.0 www.nxcta.org
+0.0.0.0 www.o5o5.ru
 0.0.0.0 www.observatoire-pelagis.cnrs.fr
 0.0.0.0 www.ohmygodnews.site
 0.0.0.0 www.onlinedoctorrsale.com
@@ -1324,6 +1367,7 @@
 0.0.0.0 www.overture.com
 0.0.0.0 www.oxygen-warez.com
 0.0.0.0 www.panweeder58.webs.com
+0.0.0.0 www.papershreddersbyhsm.com
 0.0.0.0 www.papersonlinesgo.com
 0.0.0.0 www.pasteshr.com
 0.0.0.0 www.payday4myway.com
@@ -1341,6 +1385,7 @@
 0.0.0.0 www.ps7894.com
 0.0.0.0 www.pxco.me
 0.0.0.0 www.qes.co.kr
+0.0.0.0 www.qiita.com
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.quibids.com
 0.0.0.0 www.quickloansrgl.com
@@ -1349,12 +1394,14 @@
 0.0.0.0 www.researchpapershrd.com
 0.0.0.0 www.resolutionintllc.org
 0.0.0.0 www.revcontent.com
+0.0.0.0 www.reversesnob.com
 0.0.0.0 www.revivedadtag.com
 0.0.0.0 www.risaleforum.net
 0.0.0.0 www.roresdiecash.com
 0.0.0.0 www.royal-2.com
 0.0.0.0 www.rxpharmacymsn.com
 0.0.0.0 www.safe-kim.com
+0.0.0.0 www.safecasino.xyz
 0.0.0.0 www.safeplayground.net
 0.0.0.0 www.sagame666.co
 0.0.0.0 www.saugstube-torrent.to
@@ -1375,14 +1422,13 @@
 0.0.0.0 www.sitejot.com
 0.0.0.0 www.slotonlineandroid.casa
 0.0.0.0 www.slotpulsa77.xyz
+0.0.0.0 www.smore.com
 0.0.0.0 www.sp18-kielce.pl
 0.0.0.0 www.spacershandbook.com
 0.0.0.0 www.spblt.ru
 0.0.0.0 www.speakfimal.tk
 0.0.0.0 www.spearcastwinder.best
 0.0.0.0 www.specnondse.cf
-0.0.0.0 www.spellsandpsychics.co.za
-0.0.0.0 www.spellsandpsychics.co.za
 0.0.0.0 www.spellsandpsychics.co.za
 0.0.0.0 www.spellsandpsychics.com
 0.0.0.0 www.spicyadz.com
@@ -1393,6 +1439,7 @@
 0.0.0.0 www.steroids-king.com
 0.0.0.0 www.suadieuhoagiare247.com
 0.0.0.0 www.sunguard.nz
+0.0.0.0 www.supergirls24.com
 0.0.0.0 www.swoggi.de
 0.0.0.0 www.synology.me
 0.0.0.0 www.szerokopasmowapolska.pl
@@ -1464,6 +1511,7 @@
 0.0.0.0 www.zm91.com
 0.0.0.0 www.znaniabsolwenci.pl
 0.0.0.0 www.zoomerart.net
+0.0.0.0 www.zoroastrianonline.com
 0.0.0.0 www.zss-sypniewo.pl
 0.0.0.0 www.zucord.com
 0.0.0.0 www.zzzzzzzzzzzzz.com
@@ -1494,6 +1542,7 @@
 0.0.0.0 zm91.com
 0.0.0.0 znaniabsolwenci.pl
 0.0.0.0 zoomerart.net
+0.0.0.0 zoroastrianonline.com
 0.0.0.0 zss-sypniewo.pl
 0.0.0.0 zubiate.universallightkeys.com
 0.0.0.0 zucord.com
