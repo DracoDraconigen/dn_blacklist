@@ -3,8 +3,8 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # This list contains dangerous sites. These sites may contain spam, viruses, malware and other harmful content. Fake pages are also included.
-#Definitions total: 1606
-#
+#Definitions total: 1801
+# 
 # You want to add or remove a entry? Please write a Mail to: blacklist@dranet.33mail.com
 #
 # suspicious domains
@@ -66,14 +66,18 @@
 0.0.0.0 3632.tm.zedo.com
 0.0.0.0 365bet365.info
 0.0.0.0 3757-mailkontaktms.de
+0.0.0.0 388-bet.com
 0.0.0.0 38zu.cn
 0.0.0.0 3aplus63.ru
 0.0.0.0 3mp3.ru
+0.0.0.0 3sgogbwiev.com
 0.0.0.0 45439360.xyz
 0.0.0.0 47789194.xyz
+0.0.0.0 56012.info
 0.0.0.0 72Hwebsite.com
 0.0.0.0 899pic.com
 0.0.0.0 918kiss.group
+0.0.0.0 918kiss.ninja
 0.0.0.0 919islandcuisine.com
 0.0.0.0 999megausa.com
 0.0.0.0 Belajarinternetmarketing.co.id
@@ -90,15 +94,18 @@
 0.0.0.0 a-0009.a-msedge.net
 0.0.0.0 a-msedge.net
 0.0.0.0 a.admob.com 
-0.0.0.0 a.ads1.msn.com									#microsoft tracking
+0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
-0.0.0.0 a.ads2.msn.com									#microsoft tracking
+0.0.0.0 a.ads2.msn.com
 0.0.0.0 a2.adform.net 
 0.0.0.0 aa.adfarm1.adition.com 
+0.0.0.0 abm.nowlovestory.com
 0.0.0.0 abortion-info-wayne-county.com
+0.0.0.0 abudhabiartfair.ae
 0.0.0.0 acama.asia
 0.0.0.0 accs.vn
 0.0.0.0 accsmarket.net
+0.0.0.0 accstores.com
 0.0.0.0 acedemysportsandoutdoors.com
 0.0.0.0 acousticsworkshop.com
 0.0.0.0 activities.chase0nline.argo-abs.com.au
@@ -166,6 +173,7 @@
 0.0.0.0 alturl.com
 0.0.0.0 alvodireto.com
 0.0.0.0 amanda-videos.xyz
+0.0.0.0 amazinggoodwillcareers.net
 0.0.0.0 amindo.freehostia.com
 0.0.0.0 amitriptylineelavilgha.com
 0.0.0.0 amoxicillinc.com
@@ -183,6 +191,7 @@
 0.0.0.0 api.content.ad
 0.0.0.0 appdev.addthis.com 
 0.0.0.0 april.okajils2021.access.ly
+0.0.0.0 arabamericandirectory.org
 0.0.0.0 arakaki48.universallightkeys.com
 0.0.0.0 arden48.universallightkeys.com
 0.0.0.0 argenteinternational.com
@@ -195,10 +204,12 @@
 0.0.0.0 austein.com
 0.0.0.0 authorstream.com
 0.0.0.0 autin5.universallightkeys.com
+0.0.0.0 av-hhee.com
 0.0.0.0 avapharmyj.com
 0.0.0.0 ayamlagafilipina.com
 0.0.0.0 ayamlive.org
 0.0.0.0 ayamonline.org
+0.0.0.0 ayettevillerestaurants.com
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 b.admob.com 
@@ -207,6 +218,7 @@
 0.0.0.0 b2c.com
 0.0.0.0 baccarat99th.com
 0.0.0.0 backlinkhocvienquany1.blogspot.com
+0.0.0.0 badmintonlocker.com
 0.0.0.0 baijialuntan.net
 0.0.0.0 balaski.webflow.io
 0.0.0.0 baomoi365.net
@@ -217,8 +229,10 @@
 0.0.0.0 bayern-apo.store
 0.0.0.0 bbjacke.de
 0.0.0.0 bbs.joyhll.org
+0.0.0.0 bbs.pinyou.tw
 0.0.0.0 bbs.vrcore.org
 0.0.0.0 beattienao.com
+0.0.0.0 benttreecounseling.org
 0.0.0.0 bepick.net
 0.0.0.0 bettyoj94.123hjemmeside.no
 0.0.0.0 betwin88.co
@@ -231,8 +245,8 @@
 0.0.0.0 bitcoinapedia.com
 0.0.0.0 bitcoinaussiesystem.org
 0.0.0.0 bjyou4122.com
-0.0.0.0 blackdiamond-casino.com							#guestbookspam
-0.0.0.0 blackshemaleclips.com										#guestbook and mailspam
+0.0.0.0 blackdiamond-casino.com
+0.0.0.0 blackshemaleclips.com
 0.0.0.0 blakesector.scumvv.ca
 0.0.0.0 blip.fm
 0.0.0.0 blizzzrd-net.com
@@ -267,13 +281,16 @@
 0.0.0.0 bos-tapreq19.jumptap.com
 0.0.0.0 bos-tapreq20.jumptap.com
 0.0.0.0 brandyburma82.iktogo.com
+0.0.0.0 breast-bondage.com
 0.0.0.0 brickwallbusters.com
+0.0.0.0 brooklynne.net
 0.0.0.0 brunga.at
 0.0.0.0 brushcreekcandles.com
 0.0.0.0 bsaa.edu.ru
 0.0.0.0 btcoinz.com
 0.0.0.0 bulksteroid.com
 0.0.0.0 burbridge.universallightkeys.com
+0.0.0.0 burstend5.webgarden.at
 0.0.0.0 buya2z.net
 0.0.0.0 buymodafinilntx.com
 0.0.0.0 buysellads.com
@@ -284,9 +301,10 @@
 0.0.0.0 c1.adform.net 
 0.0.0.0 cache-dev.addthis.com 
 0.0.0.0 cache.addthis.com 
-0.0.0.0 cache.datamart.windows.com						#microsoft tracking
+0.0.0.0 cache.datamart.windows.com
 0.0.0.0 calebrupp.com
 0.0.0.0 callmemassage.com
+0.0.0.0 calzaturificiomarcos.it
 0.0.0.0 canadian-drugqmrp.com
 0.0.0.0 canadianhpharmacy.com
 0.0.0.0 canadianjpharmacy.com
@@ -298,8 +316,10 @@
 0.0.0.0 canadianpharmacyneo.com
 0.0.0.0 canadianpharmacyonl.com
 0.0.0.0 canadiantousapharmacy.com
+0.0.0.0 candlekorean6.bladejournal.com
 0.0.0.0 carabisnisonline.co.id
 0.0.0.0 cardsexpert.ru
+0.0.0.0 cashforjunkcars500.com
 0.0.0.0 casino-114.com
 0.0.0.0 casino365.site
 0.0.0.0 casinokim.net
@@ -331,12 +351,13 @@
 0.0.0.0 ck2020.xsl.pt
 0.0.0.0 cl2020.xsl.pt
 0.0.0.0 click.app4mobile-services.biz
-0.0.0.0 climatestrike.ch		#guestbook Spam several times
+0.0.0.0 climatestrike.ch
 0.0.0.0 clonevia.com
 0.0.0.0 cm69.club
 0.0.0.0 coastalwiki.piratelab.org
 0.0.0.0 cocoro.in
 0.0.0.0 codesevenhack.net
+0.0.0.0 codigodeltrabajo.com
 0.0.0.0 coinmaz.com
 0.0.0.0 colorado100.com
 0.0.0.0 comics.vanilaworld.com
@@ -345,6 +366,7 @@
 0.0.0.0 content.ad
 0.0.0.0 contopoulos.universallightkeys.com
 0.0.0.0 coons.universallightkeys.com
+0.0.0.0 coppercoin68.webgarden.at
 0.0.0.0 coralgablesroofing.info
 0.0.0.0 courseworkhelpxeg.com
 0.0.0.0 cpm.admob.com 
@@ -354,13 +376,16 @@
 0.0.0.0 cragavpivo.tk
 0.0.0.0 craksracing.com
 0.0.0.0 creativevideoblog.yolasite.com
-0.0.0.0 cs1.wpc.v0cdn.net								#microsoft tracking
+0.0.0.0 crying-porn.com
+0.0.0.0 cs1.wpc.v0cdn.net
+0.0.0.0 csrworld.cn
 0.0.0.0 csvrxviagra.com
 0.0.0.0 ct1.addthis.com 
 0.0.0.0 cucoplan.com
 0.0.0.0 cults3d.com
 0.0.0.0 cutmaster.blog81.fc2.com
 0.0.0.0 cuyler.universallightkeys.com
+0.0.0.0 cyprus-sir.com
 0.0.0.0 d.admob.com 
 0.0.0.0 d99q.cn
 0.0.0.0 daf.csulb.edu
@@ -371,17 +396,20 @@
 0.0.0.0 daylyporn.com
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 dbt.adition.com 
+0.0.0.0 dcdjfotografie.nl
 0.0.0.0 ddl-search.com
 0.0.0.0 ddl-warez.org
-0.0.0.0 de.climatestrike.ch		#guestbook Spam several times
+0.0.0.0 de.climatestrike.ch
 0.0.0.0 de.softonic.com
 0.0.0.0 deloplen.com
 0.0.0.0 demo2.younetco.com
 0.0.0.0 demosite.center
 0.0.0.0 derden.universallightkeys.com
 0.0.0.0 deryck35.universallightkeys.com
+0.0.0.0 desipussyx.com
 0.0.0.0 devpost.com
-0.0.0.0 diagnostics.support.microsoft.com				#microsoft tracking
+0.0.0.0 dewiqiu.vip
+0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 dielman75.universallightkeys.com
 0.0.0.0 dill.universallightkeys.com
 0.0.0.0 dimeadozen.org
@@ -392,6 +420,7 @@
 0.0.0.0 dm67.xyz
 0.0.0.0 dmp.adform.net 
 0.0.0.0 docparhomenko.kiev.ua
+0.0.0.0 docvup.org
 0.0.0.0 domainedesmauves.com
 0.0.0.0 domotor.pl
 0.0.0.0 donniesmithbikeshow.com
@@ -399,6 +428,7 @@
 0.0.0.0 doubleclick.com 
 0.0.0.0 download-service.de
 0.0.0.0 download-sofort.com
+0.0.0.0 doyleasia.com
 0.0.0.0 drusilladesigns.co.uk
 0.0.0.0 drwmohouse88.club
 0.0.0.0 drwmohouse95.club
@@ -407,7 +437,7 @@
 0.0.0.0 dspcluster.adfarm1.adition.com 
 0.0.0.0 dubaidesigncircle.com
 0.0.0.0 duilawyerlink.com
-0.0.0.0 duo-games.com												#guestbook and mailspam
+0.0.0.0 duo-games.com
 0.0.0.0 dvk-centr.ru
 0.0.0.0 dvmagic.net
 0.0.0.0 e.admob.com 
@@ -416,11 +446,13 @@
 0.0.0.0 easternrayshisha.co.uk
 0.0.0.0 easycracks.net
 0.0.0.0 eazy-money.online
+0.0.0.0 ebonytube4u.com
 0.0.0.0 ec.atdmt.com
 0.0.0.0 eclecticwisdomandwellness.com
 0.0.0.0 edrugvastore.com
 0.0.0.0 edu.universallightkeys.com
 0.0.0.0 edu10023.universallightkeys.com
+0.0.0.0 ejphotos.com
 0.0.0.0 elegra.ph
 0.0.0.0 elie.jp
 0.0.0.0 elrenofuneralhome.com
@@ -438,14 +470,19 @@
 0.0.0.0 essaywritingcrew.com
 0.0.0.0 eurekaenv.com
 0.0.0.0 eurodate.fun
+0.0.0.0 excellent.tnfsh.tn.edu.tw
 0.0.0.0 exom-kmb.com
 0.0.0.0 expertantivirus.com
+0.0.0.0 extremefistingvids.com
 0.0.0.0 ezproxy.cityu.edu.hk
 0.0.0.0 facteditor46.nation2.com
 0.0.0.0 faz.ivwbox.de
 0.0.0.0 faz.ivwbox.de
 0.0.0.0 fblor2020.xsl.pt
+0.0.0.0 fcialisya.com
+0.0.0.0 fdabanmenthol.net
 0.0.0.0 feedback.microsoft-hohm.com
+0.0.0.0 fengyunmud.cn
 0.0.0.0 fevertube.com
 0.0.0.0 fevertube.com
 0.0.0.0 filekat.com
@@ -461,10 +498,12 @@
 0.0.0.0 forum.pkbmalfattah.com
 0.0.0.0 forum.profitserver.in.ua
 0.0.0.0 forum.wyneemyanmar.com
+0.0.0.0 forum.yu1exy.org.rs
 0.0.0.0 foxy1004.com
 0.0.0.0 foxybeauty.co.za
 0.0.0.0 franzis-sportswear.de
 0.0.0.0 freeads-solihull.co.uk
+0.0.0.0 freedatingste.com
 0.0.0.0 ftec.com
 0.0.0.0 fuamex.com
 0.0.0.0 fun88officialsite.com
@@ -474,6 +513,8 @@
 0.0.0.0 g4u.me
 0.0.0.0 game-bai.com
 0.0.0.0 games.universallightkeys.com
+0.0.0.0 garant.in
+0.0.0.0 gay0day.com
 0.0.0.0 gcskorea.org
 0.0.0.0 geegram.net
 0.0.0.0 geekzwetsloot.com
@@ -495,6 +536,7 @@
 0.0.0.0 glamourescorts69.com
 0.0.0.0 glc-ad.net
 0.0.0.0 gncedstore.com
+0.0.0.0 gocyb.org
 0.0.0.0 goldesel.6x.to
 0.0.0.0 goldworm6.webgarden.cz
 0.0.0.0 goodell45.universallightkeys.com
@@ -504,6 +546,7 @@
 0.0.0.0 google-analytics.com 
 0.0.0.0 googleanalytlcs.net
 0.0.0.0 grayghostindustries.com
+0.0.0.0 grnrsenr.w3.uvm.edu
 0.0.0.0 groupbuyexpert.com
 0.0.0.0 grrr.woto.net
 0.0.0.0 gschiba10.cute.coocan.jp
@@ -520,6 +563,7 @@
 0.0.0.0 heetmassage.com
 0.0.0.0 hemes1800.xyz
 0.0.0.0 hemplifemag.com
+0.0.0.0 hensondrejer83.bloggersdelight.dk
 0.0.0.0 herms.universallightkeys.com
 0.0.0.0 hexincrement10.live
 0.0.0.0 hielilis.tk
@@ -557,14 +601,18 @@
 0.0.0.0 imdbimax.ru
 0.0.0.0 indianporntube.xyz
 0.0.0.0 indramat.ru
+0.0.0.0 inga-mywebsit.ru
+0.0.0.0 instafollowers.co
 0.0.0.0 instructables.com
 0.0.0.0 internetsextoy.com
 0.0.0.0 inthenowmag.com
 0.0.0.0 iomoio.com
 0.0.0.0 iranhormone.ir
+0.0.0.0 israelnightclub.com
 0.0.0.0 itsfogo.com
 0.0.0.0 itxxlm.com
 0.0.0.0 ivancice.net
+0.0.0.0 ivanleonardchevrolet.biz
 0.0.0.0 iwilllendyoumoney.com
 0.0.0.0 japanulled.com
 0.0.0.0 jarry20.universallightkeys.com
@@ -576,10 +624,11 @@
 0.0.0.0 jingshenxiaohuo2.xyz
 0.0.0.0 jjhouse.com
 0.0.0.0 johnathan9inu5.pointblog.net
+0.0.0.0 johnlarkin.emergucate.com
 0.0.0.0 jokermerah.top
 0.0.0.0 kaitlynn.jpepyxf2021.access.ly
 0.0.0.0 kalama.universallightkeys.com
-0.0.0.0 kassperskylabs.cn #fake site with malicious software!
+0.0.0.0 kassperskylabs.cn
 0.0.0.0 kdbadmin.com
 0.0.0.0 keanken.universallightkeys.com
 0.0.0.0 kenh14.vn
@@ -594,12 +643,17 @@
 0.0.0.0 khubera.com
 0.0.0.0 kicker.ivwbox.de
 0.0.0.0 king-wifi.win
+0.0.0.0 kingarthursdisasters.com
+0.0.0.0 kinogood.ru
 0.0.0.0 kiraobolensky.com
 0.0.0.0 kkdn2020.xsl.pt
 0.0.0.0 koees.com
+0.0.0.0 kolokolchik237.ru
+0.0.0.0 kolokolnikov.info
 0.0.0.0 komiwiki.syktsu.ru
 0.0.0.0 kritih.com
 0.0.0.0 kuliner-indo.com
+0.0.0.0 kurnoolclassifieds.com
 0.0.0.0 kutzner5.universallightkeys.com
 0.0.0.0 laboratoriodellessere.it
 0.0.0.0 landcro.com
@@ -607,8 +661,10 @@
 0.0.0.0 lavaggio.com.vn
 0.0.0.0 lawchong.com
 0.0.0.0 lb1.www.ms.akadns.net
+0.0.0.0 lcgclabs.blogspot.com
 0.0.0.0 ldkueekaderrnau.com
 0.0.0.0 leadclub.net
+0.0.0.0 lesbian-orgy.net
 0.0.0.0 letsfish2.fansite.xaa.pl
 0.0.0.0 levinedamborg07.xtgem.com
 0.0.0.0 lg2020.xsl.pt
@@ -617,11 +673,13 @@
 0.0.0.0 lienquansuamaygiatelectrolux.blogspot.com
 0.0.0.0 lienquansuamaygiatlg.blogspot.com
 0.0.0.0 lieurance98.universallightkeys.com
+0.0.0.0 likedatingus.com
 0.0.0.0 likeportal.com
 0.0.0.0 likespike.com
 0.0.0.0 likethis.mbosoft.com
 0.0.0.0 likethislist.biz
 0.0.0.0 limg.adspirit.de 
+0.0.0.0 lingerie-madame.com
 0.0.0.0 live.rads.msn.com
 0.0.0.0 livegroupbreaks.com
 0.0.0.0 lives.zzz.Com.ua
@@ -664,6 +722,7 @@
 0.0.0.0 medexpresspills.com
 0.0.0.0 medexpresssale.com
 0.0.0.0 medfarm.biz
+0.0.0.0 mediajx.com
 0.0.0.0 mediasrv.de
 0.0.0.0 mediazioniapec.it
 0.0.0.0 medstorrry.com
@@ -678,6 +737,9 @@
 0.0.0.0 menoni27.universallightkeys.com
 0.0.0.0 merkle72.universallightkeys.com
 0.0.0.0 meste.planetsoft.cl
+0.0.0.0 mexicaligrillmodesto.com
+0.0.0.0 mhes.tyc.edu.tw
+0.0.0.0 mi77b.cn
 0.0.0.0 miapharmer.com
 0.0.0.0 micropaleontologies453wm.online
 0.0.0.0 microsoftopedia.com
@@ -694,8 +756,9 @@
 0.0.0.0 movieour.com
 0.0.0.0 mp3fiesta.com
 0.0.0.0 mp3sugar.com
+0.0.0.0 mp3uz.uz
 0.0.0.0 mp3va.com
-0.0.0.0 msnbot-207-46-194-33.search.msn.com				#microsoft tracking
+0.0.0.0 msnbot-207-46-194-33.search.msn.com
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 mt1b.net
@@ -712,6 +775,7 @@
 0.0.0.0 mytotosure.com
 0.0.0.0 na.ads.yahoo.com 
 0.0.0.0 najiur.com
+0.0.0.0 naked-boobs.com
 0.0.0.0 nameplatedepot.com
 0.0.0.0 namiecafe.beautylife.hk
 0.0.0.0 nemashurrahimi.com
@@ -742,6 +806,7 @@
 0.0.0.0 ocsp.pki.goog
 0.0.0.0 oestmann86.universallightkeys.com
 0.0.0.0 office.universallightkeys.com
+0.0.0.0 ofofozone.com
 0.0.0.0 ohmygodnews.site
 0.0.0.0 okajils2021.access.ly
 0.0.0.0 onlinedoctorrsale.com
@@ -771,10 +836,12 @@
 0.0.0.0 pinkteam05.skyrock.com
 0.0.0.0 plastic-surgeon.ru
 0.0.0.0 pleszewskadwojka.pl
+0.0.0.0 pmp-kontakt.ru
 0.0.0.0 pokerfinds.com
 0.0.0.0 polymoney.synology.me
 0.0.0.0 polymoney.synology.me
 0.0.0.0 porns-xxx.com
+0.0.0.0 pp.lp4.io
 0.0.0.0 presscbu.cbnu.ac.kr
 0.0.0.0 preview.msn.com
 0.0.0.0 pro-pharmaceuticals.com
@@ -784,8 +851,10 @@
 0.0.0.0 proper.io
 0.0.0.0 ps7894.com
 0.0.0.0 public.sitejot.com
+0.0.0.0 pussyassandboobs.com
 0.0.0.0 pxco.me
 0.0.0.0 q.admob.com 
+0.0.0.0 q2a.sydt.com.tw
 0.0.0.0 qenwejatqsg.pw
 0.0.0.0 qes.co.kr
 0.0.0.0 qiita.com
@@ -799,10 +868,12 @@
 0.0.0.0 radmanovemlinice.com
 0.0.0.0 rahming37.universallightkeys.com
 0.0.0.0 raringelmd.com
+0.0.0.0 realamateurporntube.com
 0.0.0.0 refsal92.universallightkeys.com
 0.0.0.0 reinmann.universallightkeys.com
 0.0.0.0 relic-mc.com
 0.0.0.0 rema49.universallightkeys.com
+0.0.0.0 repairswan71.webgarden.at
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 researchpapershrd.com
@@ -814,6 +885,7 @@
 0.0.0.0 reversesnob.com
 0.0.0.0 revivedadtag.com
 0.0.0.0 rivneosvita.org.ua
+0.0.0.0 romanianescorts.club
 0.0.0.0 roresdiecash.com
 0.0.0.0 royal-2.com
 0.0.0.0 rxpharmacymsn.com
@@ -829,6 +901,7 @@
 0.0.0.0 safecasino.xyz
 0.0.0.0 safeplayground.net
 0.0.0.0 sagame666.co
+0.0.0.0 samuelegibson.qhub.com
 0.0.0.0 sanjivanihospitalandresearchcenter.org
 0.0.0.0 saugstube-torrent.to
 0.0.0.0 saytfamily.ru
@@ -839,6 +912,7 @@
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 scherler.universallightkeys.com
 0.0.0.0 schooldemo.remembertheunborn.org
+0.0.0.0 scientific-programs.science
 0.0.0.0 scoby55.universallightkeys.com
 0.0.0.0 scottishstuff-online.com
 0.0.0.0 scumvv.ca
@@ -861,20 +935,25 @@
 0.0.0.0 server.adform.net 
 0.0.0.0 servprocedar.com
 0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 sexfinder.co.il
 0.0.0.0 sexpoint.co.uk
 0.0.0.0 sexualcase.com
 0.0.0.0 shoppingfolder.com
+0.0.0.0 show-off-your-tits.com
 0.0.0.0 sickvpn.uk
 0.0.0.0 signauxdeux.com
 0.0.0.0 silacialisgets.com
 0.0.0.0 singo.universallightkeys.com
 0.0.0.0 sitejot.com
 0.0.0.0 sitemeter.com
+0.0.0.0 skin-biopsy.com
 0.0.0.0 slotonlineandroid.casa
 0.0.0.0 slotpulsa77.xyz
 0.0.0.0 smart.lakemneadows.com
 0.0.0.0 smore.com
 0.0.0.0 snapchathacksnapchat.wordpress.com
+0.0.0.0 socialmediainuk.com
+0.0.0.0 softcorehdtube.com
 0.0.0.0 sp18-kielce.pl
 0.0.0.0 spacershandbook.com
 0.0.0.0 spblt.ru
@@ -911,6 +990,8 @@
 0.0.0.0 superhealthguide.wordpress.com
 0.0.0.0 support.universallightkeys.com
 0.0.0.0 swaisgood.universallightkeys.com
+0.0.0.0 sweetbigboobstube.com
+0.0.0.0 swimming-pool.vitava.com.ua
 0.0.0.0 swoggi.de
 0.0.0.0 synology.me
 0.0.0.0 szerokopasmowapolska.pl
@@ -924,19 +1005,26 @@
 0.0.0.0 tam.universallightkeys.com
 0.0.0.0 taro-magic.ru
 0.0.0.0 tattooshaha.info
+0.0.0.0 taveesup.com
 0.0.0.0 taz.adspirit.de 
 0.0.0.0 teddybearmindsupport.com
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 thedatesafe.com
 0.0.0.0 theeliquidboutique.co.uk
+0.0.0.0 theloyalopposition.net
 0.0.0.0 thesissgj.com
 0.0.0.0 thetextdesk.com
+0.0.0.0 thetittyfuck.com
+0.0.0.0 thetranny.com
+0.0.0.0 thinfi.com
 0.0.0.0 thoele.universallightkeys.com
 0.0.0.0 threexvideo.com
 0.0.0.0 tier1businessplan.co.uk
+0.0.0.0 tinderdatingsiteus.com
 0.0.0.0 tomorrownewstoday.com
 0.0.0.0 top13.ro
+0.0.0.0 topscosmetics.uk
 0.0.0.0 toptoto.org
 0.0.0.0 torrentse.net
 0.0.0.0 toto.blue
@@ -946,15 +1034,19 @@
 0.0.0.0 tracking.applift.com
 0.0.0.0 trafficholder.com
 0.0.0.0 trashbox.ru
+0.0.0.0 tt49.info
 0.0.0.0 twitter.edge.twitpost.info
 0.0.0.0 twitter.secure-logins01.com
+0.0.0.0 u-pull-it.com
 0.0.0.0 u.admob.com 
 0.0.0.0 uelllwrite.com
 0.0.0.0 ukcanadianpharmacy.com
+0.0.0.0 ukimmigrationattorneynewjersey.us
 0.0.0.0 uklianjiang.com
 0.0.0.0 ultrahdindir.com
 0.0.0.0 umzugsfirmen365.ch.g3.kz
 0.0.0.0 unab.edu.ar
+0.0.0.0 undeadads.com
 0.0.0.0 universallightkeys.com
 0.0.0.0 urban.adspirit.de 
 0.0.0.0 urx7.com
@@ -969,7 +1061,9 @@
 0.0.0.0 v48100ec.bget.ru
 0.0.0.0 vadaszapro.eu
 0.0.0.0 vapewatchforum.com
+0.0.0.0 variabledrive.ru
 0.0.0.0 verify-365.com
+0.0.0.0 vet-up.ru
 0.0.0.0 viagra100mg-online.org
 0.0.0.0 viagradjango.com
 0.0.0.0 viagradocker.com
@@ -980,9 +1074,11 @@
 0.0.0.0 vipviasila.com
 0.0.0.0 viq.bayern-apo.store
 0.0.0.0 virus-scanonline.com
+0.0.0.0 vmidemo.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vt.adition.com 
 0.0.0.0 vtservices85.fr
+0.0.0.0 vv19mei.com
 0.0.0.0 vx.netlux.org
 0.0.0.0 vx.org.ua
 0.0.0.0 wallingford.universallightkeys.com
@@ -992,14 +1088,17 @@
 0.0.0.0 wddby.com
 0.0.0.0 web-money.cn
 0.0.0.0 web.jmjh.tn.edu.tw
+0.0.0.0 web.sfusd.edu
 0.0.0.0 web63.jumptap.com
 0.0.0.0 web64.jumptap.com
 0.0.0.0 web65.jumptap.com
 0.0.0.0 webemailverifier.com
 0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 wetzellawoffice.com
 0.0.0.0 widmar98.universallightkeys.com
 0.0.0.0 wikigrottaglie.org
-0.0.0.0 wikihorne.dk												#guestbook and mailspam
+0.0.0.0 wikihorne.dk
+0.0.0.0 wildbrain.com
 0.0.0.0 winantivirus.com
 0.0.0.0 wingsofglory.pl
 0.0.0.0 winmall.co.kr
@@ -1057,13 +1156,17 @@
 0.0.0.0 www.218enterprises.com
 0.0.0.0 www.24slotv.com
 0.0.0.0 www.365bet365.info
+0.0.0.0 www.388-bet.com
 0.0.0.0 www.3aplus63.ru
 0.0.0.0 www.3mp3.ru
+0.0.0.0 www.3sgogbwiev.com
 0.0.0.0 www.45439360.xyz
 0.0.0.0 www.47789194.xyz
+0.0.0.0 www.56012.info
 0.0.0.0 www.72Hwebsite.com
 0.0.0.0 www.899pic.com
 0.0.0.0 www.918kiss.group
+0.0.0.0 www.918kiss.ninja
 0.0.0.0 www.919islandcuisine.com
 0.0.0.0 www.999megausa.com
 0.0.0.0 www.Bookie7.run
@@ -1073,9 +1176,11 @@
 0.0.0.0 www.Megabandar.pro
 0.0.0.0 www.Nowodworskirozklad.pl
 0.0.0.0 www.abortion-info-wayne-county.com
+0.0.0.0 www.abudhabiartfair.ae
 0.0.0.0 www.acama.asia
 0.0.0.0 www.accs.vn
 0.0.0.0 www.accsmarket.net
+0.0.0.0 www.accstores.com
 0.0.0.0 www.acedemysportsandoutdoors.com
 0.0.0.0 www.acousticsworkshop.com
 0.0.0.0 www.addthis.com 
@@ -1104,11 +1209,13 @@
 0.0.0.0 www.alturl.com
 0.0.0.0 www.alvodireto.com
 0.0.0.0 www.amanda-videos.xyz
+0.0.0.0 www.amazinggoodwillcareers.net
 0.0.0.0 www.amitriptylineelavilgha.com
 0.0.0.0 www.amoxicillinc.com
 0.0.0.0 www.an-essay.com
 0.0.0.0 www.analabuba.com
 0.0.0.0 www.anycracks.com
+0.0.0.0 www.arabamericandirectory.org
 0.0.0.0 www.argenteinternational.com
 0.0.0.0 www.ask.leadr.msu.edu
 0.0.0.0 www.associazionehombre.it
@@ -1116,17 +1223,21 @@
 0.0.0.0 www.aumento-mamario-2020.eu
 0.0.0.0 www.austein.com
 0.0.0.0 www.authorstream.com
+0.0.0.0 www.av-hhee.com
 0.0.0.0 www.avapharmyj.com
 0.0.0.0 www.ayamlagafilipina.com
 0.0.0.0 www.ayamlive.org
 0.0.0.0 www.ayamonline.org
+0.0.0.0 www.ayettevillerestaurants.com
 0.0.0.0 www.baccarat99th.com
+0.0.0.0 www.badmintonlocker.com
 0.0.0.0 www.baijialuntan.net
 0.0.0.0 www.baomoi365.net
 0.0.0.0 www.baronesa.xyz
 0.0.0.0 www.baunti.top
 0.0.0.0 www.bbjacke.de
 0.0.0.0 www.beattienao.com
+0.0.0.0 www.benttreecounseling.org
 0.0.0.0 www.bepick.net
 0.0.0.0 www.betwin88.co
 0.0.0.0 www.biglesbiantits.org
@@ -1136,8 +1247,8 @@
 0.0.0.0 www.bitcoinapedia.com
 0.0.0.0 www.bitcoinaussiesystem.org
 0.0.0.0 www.bjyou4122.com
-0.0.0.0 www.blackdiamond-casino.com 					#guestbookspam
-0.0.0.0 www.blackshemaleclips.com									#guestbook and mailspam
+0.0.0.0 www.blackdiamond-casino.com
+0.0.0.0 www.blackshemaleclips.com
 0.0.0.0 www.blip.fm
 0.0.0.0 www.blizzzrd-net.com
 0.0.0.0 www.bodelen.com
@@ -1145,7 +1256,9 @@
 0.0.0.0 www.boohoo.com
 0.0.0.0 www.bookbrouser.com
 0.0.0.0 www.bookie7.win
+0.0.0.0 www.breast-bondage.com
 0.0.0.0 www.brickwallbusters.com
+0.0.0.0 www.brooklynne.net
 0.0.0.0 www.brushcreekcandles.com
 0.0.0.0 www.bsaa.edu.ru
 0.0.0.0 www.btcoinz.com
@@ -1155,6 +1268,7 @@
 0.0.0.0 www.buyviagaraonline.com
 0.0.0.0 www.calebrupp.com
 0.0.0.0 www.callmemassage.com
+0.0.0.0 www.calzaturificiomarcos.it
 0.0.0.0 www.canadian-drugqmrp.com
 0.0.0.0 www.canadianhpharmacy.com
 0.0.0.0 www.canadianjpharmacy.com
@@ -1167,6 +1281,7 @@
 0.0.0.0 www.canadianpharmacyonl.com
 0.0.0.0 www.canadiantousapharmacy.com
 0.0.0.0 www.carabisnisonline.co.id
+0.0.0.0 www.cashforjunkcars500.com
 0.0.0.0 www.casino-114.com
 0.0.0.0 www.casino365.site
 0.0.0.0 www.casinokim.net
@@ -1182,11 +1297,12 @@
 0.0.0.0 www.cialisya.com
 0.0.0.0 www.ciaonlinebuyntx.com
 0.0.0.0 www.clickspring.net
-0.0.0.0 www.climatestrike.ch		#guestbook Spam several times
+0.0.0.0 www.climatestrike.ch
 0.0.0.0 www.clonevia.com
 0.0.0.0 www.cm69.club
 0.0.0.0 www.cocoro.in
 0.0.0.0 www.codesevenhack.net
+0.0.0.0 www.codigodeltrabajo.com
 0.0.0.0 www.coinmaz.com
 0.0.0.0 www.colorado100.com
 0.0.0.0 www.conduit.com
@@ -1195,28 +1311,36 @@
 0.0.0.0 www.cr7fotbollsko.com
 0.0.0.0 www.cragavpivo.tk
 0.0.0.0 www.craksracing.com
+0.0.0.0 www.crying-porn.com
+0.0.0.0 www.csrworld.cn
 0.0.0.0 www.csvrxviagra.com
 0.0.0.0 www.cucoplan.com
 0.0.0.0 www.cults3d.com
+0.0.0.0 www.cyprus-sir.com
 0.0.0.0 www.daf.csulb.edu
 0.0.0.0 www.danmar.su
 0.0.0.0 www.daylyporn.com
+0.0.0.0 www.dcdjfotografie.nl
 0.0.0.0 www.ddl-search.com
 0.0.0.0 www.ddl-warez.org
 0.0.0.0 www.deloplen.com
 0.0.0.0 www.demosite.center
+0.0.0.0 www.desipussyx.com
 0.0.0.0 www.devpost.com
+0.0.0.0 www.dewiqiu.vip
 0.0.0.0 www.dimeadozen.org
 0.0.0.0 www.dipris-studio.ru
 0.0.0.0 www.djpugwash.com
 0.0.0.0 www.dm67.xyz
 0.0.0.0 www.docparhomenko.kiev.ua
+0.0.0.0 www.docvup.org
 0.0.0.0 www.domainedesmauves.com
 0.0.0.0 www.domotor.pl
 0.0.0.0 www.donniesmithbikeshow.com
 0.0.0.0 www.doubleclick.com
 0.0.0.0 www.download-service.de
 0.0.0.0 www.download-sofort.com
+0.0.0.0 www.doyleasia.com
 0.0.0.0 www.drusilladesigns.co.uk
 0.0.0.0 www.drwmohouse88.club
 0.0.0.0 www.drwmohouse95.club
@@ -1228,8 +1352,10 @@
 0.0.0.0 www.easternrayshisha.co.uk
 0.0.0.0 www.easycracks.net
 0.0.0.0 www.eazy-money.online
+0.0.0.0 www.ebonytube4u.com
 0.0.0.0 www.eclecticwisdomandwellness.com
 0.0.0.0 www.edrugvastore.com
+0.0.0.0 www.ejphotos.com
 0.0.0.0 www.elegra.ph
 0.0.0.0 www.elie.jp
 0.0.0.0 www.elrenofuneralhome.com
@@ -1245,6 +1371,10 @@
 0.0.0.0 www.eurodate.fun
 0.0.0.0 www.exom-kmb.com
 0.0.0.0 www.expertantivirus.com
+0.0.0.0 www.extremefistingvids.com
+0.0.0.0 www.fcialisya.com
+0.0.0.0 www.fdabanmenthol.net
+0.0.0.0 www.fengyunmud.cn
 0.0.0.0 www.fevertube.com
 0.0.0.0 www.filekat.com
 0.0.0.0 www.findermt.com
@@ -1258,11 +1388,14 @@
 0.0.0.0 www.foxybeauty.co.za
 0.0.0.0 www.franzis-sportswear.de
 0.0.0.0 www.freeads-solihull.co.uk
+0.0.0.0 www.freedatingste.com
 0.0.0.0 www.fun88officialsite.com
 0.0.0.0 www.futurethrive2020.info
 0.0.0.0 www.fxjxm.com
 0.0.0.0 www.g4u.me
 0.0.0.0 www.game-bai.com
+0.0.0.0 www.garant.in
+0.0.0.0 www.gay0day.com
 0.0.0.0 www.geegram.net
 0.0.0.0 www.geekzwetsloot.com
 0.0.0.0 www.generic-Vaigra-Generic.com
@@ -1274,6 +1407,7 @@
 0.0.0.0 www.gimklobuck.pl
 0.0.0.0 www.glamourescorts69.com
 0.0.0.0 www.gncedstore.com
+0.0.0.0 www.gocyb.org
 0.0.0.0 www.goldesel.6x.to
 0.0.0.0 www.goodttsure.com
 0.0.0.0 www.goodwillsewcareers.net
@@ -1312,12 +1446,16 @@
 0.0.0.0 www.imailsupport.com
 0.0.0.0 www.indianporntube.xyz
 0.0.0.0 www.indramat.ru
+0.0.0.0 www.inga-mywebsit.ru
+0.0.0.0 www.instafollowers.co
 0.0.0.0 www.instructables.com
 0.0.0.0 www.internetsextoy.com
 0.0.0.0 www.inthenowmag.com
 0.0.0.0 www.iomoio.com
+0.0.0.0 www.israelnightclub.com
 0.0.0.0 www.itxxlm.com
 0.0.0.0 www.ivancice.net
+0.0.0.0 www.ivanleonardchevrolet.biz
 0.0.0.0 www.ivwbox.de
 0.0.0.0 www.japanulled.com
 0.0.0.0 www.jdevans.net
@@ -1333,17 +1471,25 @@
 0.0.0.0 www.keyslic.com
 0.0.0.0 www.khubera.com
 0.0.0.0 www.king-wifi.win
+0.0.0.0 www.kingarthursdisasters.com
+0.0.0.0 www.kinogood.ru
 0.0.0.0 www.kiraobolensky.com
 0.0.0.0 www.koees.com
+0.0.0.0 www.kolokolchik237.ru
+0.0.0.0 www.kolokolnikov.info
 0.0.0.0 www.kritih.com
 0.0.0.0 www.kuliner-indo.com
+0.0.0.0 www.kurnoolclassifieds.com
 0.0.0.0 www.laboratoriodellessere.it
 0.0.0.0 www.landcro.com
 0.0.0.0 www.lavaggio.com.vn
 0.0.0.0 www.lawchong.com
 0.0.0.0 www.ldkueekaderrnau.com
 0.0.0.0 www.leadclub.net
+0.0.0.0 www.lesbian-orgy.net
 0.0.0.0 www.lhpa.com
+0.0.0.0 www.likedatingus.com
+0.0.0.0 www.lingerie-madame.com
 0.0.0.0 www.livegroupbreaks.com
 0.0.0.0 www.lkqd.net
 0.0.0.0 www.localappliancerepairman.net
@@ -1369,6 +1515,7 @@
 0.0.0.0 www.medexpresspills.com
 0.0.0.0 www.medexpresssale.com
 0.0.0.0 www.medfarm.biz
+0.0.0.0 www.mediajx.com
 0.0.0.0 www.mediasrv.de
 0.0.0.0 www.mediazioniapec.it
 0.0.0.0 www.medstorrry.com
@@ -1379,6 +1526,9 @@
 0.0.0.0 www.megatongkol.com 
 0.0.0.0 www.megatop4D.com
 0.0.0.0 www.mencialapvip.com
+0.0.0.0 www.mexicaligrillmodesto.com
+0.0.0.0 www.mhes.tyc.edu.tw
+0.0.0.0 www.mi77b.cn
 0.0.0.0 www.miapharmer.com
 0.0.0.0 www.micropaleontologies453wm.online
 0.0.0.0 www.microsoftopedia.com
@@ -1390,6 +1540,7 @@
 0.0.0.0 www.movie-ru-girls.ru
 0.0.0.0 www.mp3fiesta.com
 0.0.0.0 www.mp3sugar.com
+0.0.0.0 www.mp3uz.uz
 0.0.0.0 www.mp3va.com
 0.0.0.0 www.mt1b.net
 0.0.0.0 www.muktwioutt.com
@@ -1401,6 +1552,7 @@
 0.0.0.0 www.mynetprotector.com
 0.0.0.0 www.mytotosure.com
 0.0.0.0 www.najiur.com
+0.0.0.0 www.naked-boobs.com
 0.0.0.0 www.nameplatedepot.com
 0.0.0.0 www.namiecafe.beautylife.hk
 0.0.0.0 www.nemashurrahimi.com
@@ -1418,6 +1570,7 @@
 0.0.0.0 www.nxcta.org
 0.0.0.0 www.o5o5.ru
 0.0.0.0 www.observatoire-pelagis.cnrs.fr
+0.0.0.0 www.ofofozone.com
 0.0.0.0 www.ohmygodnews.site
 0.0.0.0 www.onlinedoctorrsale.com
 0.0.0.0 www.onlineloansdhx.com
@@ -1435,12 +1588,14 @@
 0.0.0.0 www.pharmahascist.com
 0.0.0.0 www.plastic-surgeon.ru
 0.0.0.0 www.pleszewskadwojka.pl
+0.0.0.0 www.pmp-kontakt.ru
 0.0.0.0 www.pokerfinds.com
 0.0.0.0 www.porns-xxx.com
-0.0.0.0 www.pro-pharmaceuticals.com									#spam
+0.0.0.0 www.pro-pharmaceuticals.com
 0.0.0.0 www.proflashdata.com
 0.0.0.0 www.promoslots.ru
 0.0.0.0 www.ps7894.com
+0.0.0.0 www.pussyassandboobs.com
 0.0.0.0 www.pxco.me
 0.0.0.0 www.qenwejatqsg.pw
 0.0.0.0 www.qes.co.kr
@@ -1450,6 +1605,7 @@
 0.0.0.0 www.quickloansrgl.com
 0.0.0.0 www.radmanovemlinice.com
 0.0.0.0 www.raringelmd.com
+0.0.0.0 www.realamateurporntube.com
 0.0.0.0 www.researchpapershrd.com
 0.0.0.0 www.resolutionintllc.org
 0.0.0.0 www.resolve-account-id-665.com
@@ -1459,6 +1615,7 @@
 0.0.0.0 www.reversesnob.com
 0.0.0.0 www.revivedadtag.com
 0.0.0.0 www.risaleforum.net
+0.0.0.0 www.romanianescorts.club
 0.0.0.0 www.roresdiecash.com
 0.0.0.0 www.royal-2.com
 0.0.0.0 www.rxpharmacymsn.com
@@ -1470,21 +1627,27 @@
 0.0.0.0 www.saytfamily.ru
 0.0.0.0 www.sbobet333.com
 0.0.0.0 www.sceneload.to
+0.0.0.0 www.scientific-programs.science
 0.0.0.0 www.scumvv.ca
 0.0.0.0 www.sellatease.com
 0.0.0.0 www.seomaniac.co.uk
 0.0.0.0 www.seosanaac.com
 0.0.0.0 www.seriall.com
 0.0.0.0 www.serials.ws
+0.0.0.0 www.sexfinder.co.il
 0.0.0.0 www.sexpoint.co.uk
 0.0.0.0 www.sexualcase.com
 0.0.0.0 www.shoppingfolder.com
+0.0.0.0 www.show-off-your-tits.com
 0.0.0.0 www.sickvpn.uk
 0.0.0.0 www.silacialisgets.com
 0.0.0.0 www.sitejot.com
+0.0.0.0 www.skin-biopsy.com
 0.0.0.0 www.slotonlineandroid.casa
 0.0.0.0 www.slotpulsa77.xyz
 0.0.0.0 www.smore.com
+0.0.0.0 www.socialmediainuk.com
+0.0.0.0 www.softcorehdtube.com
 0.0.0.0 www.sp18-kielce.pl
 0.0.0.0 www.spacershandbook.com
 0.0.0.0 www.spblt.ru
@@ -1503,6 +1666,8 @@
 0.0.0.0 www.suadieuhoagiare247.com
 0.0.0.0 www.sunguard.nz
 0.0.0.0 www.supergirls24.com
+0.0.0.0 www.sweetbigboobstube.com
+0.0.0.0 www.swimming-pool.vitava.com.ua
 0.0.0.0 www.swoggi.de
 0.0.0.0 www.synology.me
 0.0.0.0 www.szerokopasmowapolska.pl
@@ -1511,22 +1676,33 @@
 0.0.0.0 www.taikhoan.co
 0.0.0.0 www.tajcn.com
 0.0.0.0 www.taro-magic.ru
+0.0.0.0 www.taveesup.com
 0.0.0.0 www.teddybearmindsupport.com
 0.0.0.0 www.theeliquidboutique.co.uk
+0.0.0.0 www.theloyalopposition.net
 0.0.0.0 www.thesissgj.com
+0.0.0.0 www.thetittyfuck.com
+0.0.0.0 www.thetranny.com
+0.0.0.0 www.thinfi.com
 0.0.0.0 www.threexvideo.com
 0.0.0.0 www.tier1businessplan.co.uk
+0.0.0.0 www.tinderdatingsiteus.com
 0.0.0.0 www.top13.ro
+0.0.0.0 www.topscosmetics.uk
 0.0.0.0 www.toptoto.org
 0.0.0.0 www.torrentse.net
 0.0.0.0 www.toto.blue
 0.0.0.0 www.totosite.blog
 0.0.0.0 www.trashbox.ru
+0.0.0.0 www.tt49.info
 0.0.0.0 www.txexla.fraserphysics.com
+0.0.0.0 www.u-pull-it.com
 0.0.0.0 www.ukcanadianpharmacy.com
+0.0.0.0 www.ukimmigrationattorneynewjersey.us
 0.0.0.0 www.uklianjiang.com
 0.0.0.0 www.ultrahdindir.com
 0.0.0.0 www.unab.edu.ar
+0.0.0.0 www.undeadads.com
 0.0.0.0 www.universallightkeys.com
 0.0.0.0 www.urx7.com
 0.0.0.0 www.usatoddayy.com
@@ -1535,7 +1711,9 @@
 0.0.0.0 www.uvedifuciq.host
 0.0.0.0 www.vadaszapro.eu
 0.0.0.0 www.vapewatchforum.com
+0.0.0.0 www.variabledrive.ru
 0.0.0.0 www.verify-365.com
+0.0.0.0 www.vet-up.ru
 0.0.0.0 www.viagra100mg-online.org
 0.0.0.0 www.viagradjango.com
 0.0.0.0 www.viagradocker.com
@@ -1544,15 +1722,19 @@
 0.0.0.0 www.vip-vylkan.com
 0.0.0.0 www.vipviasila.com
 0.0.0.0 www.virus-scanonline.com
+0.0.0.0 www.vmidemo.com
 0.0.0.0 www.vtservices85.fr
+0.0.0.0 www.vv19mei.com
 0.0.0.0 www.vx.org.ua
 0.0.0.0 www.waplam.host
 0.0.0.0 www.waskamena.ru
 0.0.0.0 www.wddby.com
 0.0.0.0 www.web-money.cn
 0.0.0.0 www.webemailverifier.com
+0.0.0.0 www.wetzellawoffice.com
 0.0.0.0 www.wikigrottaglie.org
-0.0.0.0 www.wikihorne.dk											#guestbook and mailspam
+0.0.0.0 www.wikihorne.dk
+0.0.0.0 www.wildbrain.com
 0.0.0.0 www.winantivirus.com
 0.0.0.0 www.wingsofglory.pl
 0.0.0.0 www.winmall.co.kr
@@ -1560,6 +1742,7 @@
 0.0.0.0 www.wm-box.ru
 0.0.0.0 www.womansmedik.ru
 0.0.0.0 www.ww88thai.com
+0.0.0.0 www.xianlingjiaoyu.com
 0.0.0.0 www.xmovs.com
 0.0.0.0 www.xrzhuanqian.xyz
 0.0.0.0 www.xtand.net
@@ -1567,15 +1750,20 @@
 0.0.0.0 www.y1024.me
 0.0.0.0 www.yaho.com
 0.0.0.0 www.ydfoundation.org
+0.0.0.0 www.yjurtlvrqe.com
 0.0.0.0 www.yllychina.com
+0.0.0.0 www.youlike222.com
+0.0.0.0 www.youteenporn.net
 0.0.0.0 www.youwin2015.com
 0.0.0.0 www.zaszalej-na-zakupach.pw
 0.0.0.0 www.zdrava.org.ua
+0.0.0.0 www.zeenite.com
 0.0.0.0 www.zinzin.ru
 0.0.0.0 www.zizl.ru
 0.0.0.0 www.zm91.com
 0.0.0.0 www.znaniabsolwenci.pl
 0.0.0.0 www.zoomerart.net
+0.0.0.0 www.zoovector.ru
 0.0.0.0 www.zoroastrianonline.com
 0.0.0.0 www.zss-sypniewo.pl
 0.0.0.0 www.zucord.com
@@ -1583,9 +1771,11 @@
 0.0.0.0 www2.doubleclick.com 
 0.0.0.0 www2c.biglobe.ne.jp
 0.0.0.0 www3.addthis.com
+0.0.0.0 www3.crosstalk.or.jp
 0.0.0.0 www3.doubleclick.com 
 0.0.0.0 www5f.biglobe.ne.jp
 0.0.0.0 xelllwrite.com
+0.0.0.0 xianlingjiaoyu.com
 0.0.0.0 xmovs.com
 0.0.0.0 xrzhuanqian.xyz
 0.0.0.0 xtand.net
@@ -1596,11 +1786,15 @@
 0.0.0.0 yantzer.universallightkeys.com
 0.0.0.0 yard43.universallightkeys.com
 0.0.0.0 ydfoundation.org
+0.0.0.0 yjurtlvrqe.com
 0.0.0.0 yllychina.com
+0.0.0.0 youlike222.com
+0.0.0.0 youteenporn.net
 0.0.0.0 youwin2015.com
 0.0.0.0 zaszalej-na-zakupach.pw
 0.0.0.0 zdrava.org.ua
 0.0.0.0 zedo.com
+0.0.0.0 zeenite.com
 0.0.0.0 zenobia71.universallightkeys.com
 0.0.0.0 zinzin.ru
 0.0.0.0 zizl.ru
@@ -1608,6 +1802,7 @@
 0.0.0.0 zm91.com
 0.0.0.0 znaniabsolwenci.pl
 0.0.0.0 zoomerart.net
+0.0.0.0 zoovector.ru
 0.0.0.0 zoroastrianonline.com
 0.0.0.0 zss-sypniewo.pl
 0.0.0.0 zubiate.universallightkeys.com
