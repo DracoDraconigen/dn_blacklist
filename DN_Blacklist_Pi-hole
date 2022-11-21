@@ -3,11 +3,12 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # This list contains dangerous sites. These sites may contain spam, viruses, malware and other harmful content. Fake pages are also included.
-#Definitions total: 2521
+#Definitions total: 2571
 # 
 # You want to add or remove a entry? Please write a Mail to: blacklist@dranet.33mail.com
 #
 # suspicious domains
+
 
 0.0.0.0 -mmfirmenkontakt.de
 0.0.0.0 0.7ba.info
@@ -27,6 +28,7 @@
 0.0.0.0 1001onlinegames.com
 0.0.0.0 100female.ru
 0.0.0.0 100guanya.com
+0.0.0.0 100ras.ru
 0.0.0.0 100tb-porno.ru
 0.0.0.0 1010le.com
 0.0.0.0 101peoplesearches.com
@@ -92,6 +94,7 @@
 0.0.0.0 603288cb790e2.site123.me
 0.0.0.0 7.ly
 0.0.0.0 72Hwebsite.com
+0.0.0.0 77pro.org
 0.0.0.0 7ba.info
 0.0.0.0 899pic.com
 0.0.0.0 918kiss.group
@@ -213,6 +216,7 @@
 0.0.0.0 amindo.freehostia.com
 0.0.0.0 amitriptylineelavilgha.com
 0.0.0.0 amoxicillinc.com
+0.0.0.0 ams.ceu.edu
 0.0.0.0 amur.1gb.ua
 0.0.0.0 an-essay.com
 0.0.0.0 analabuba.com
@@ -236,6 +240,7 @@
 0.0.0.0 arabhelp.org
 0.0.0.0 arakaki48.universallightkeys.com
 0.0.0.0 arden48.universallightkeys.com
+0.0.0.0 arenda-trala-1.ru
 0.0.0.0 argenteinternational.com
 0.0.0.0 arlan0auh4mq8.medium.com
 0.0.0.0 arlo-setup.com
@@ -246,6 +251,7 @@
 0.0.0.0 associazionehombre.it
 0.0.0.0 assuremoving.in
 0.0.0.0 astalavista.box.sk
+0.0.0.0 atorvastatinexg.com
 0.0.0.0 att500.com
 0.0.0.0 attackskirt50.bloggersdelight.dk
 0.0.0.0 audacity.de
@@ -263,6 +269,7 @@
 0.0.0.0 ayettevillerestaurants.com
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 azithromycinmd.com
 0.0.0.0 b-g.by
 0.0.0.0 b.admob.com 
 0.0.0.0 b.ads1.msn.com
@@ -290,9 +297,11 @@
 0.0.0.0 benttreecounseling.org
 0.0.0.0 bepick.net
 0.0.0.0 bestbettingsitesreviews.com
+0.0.0.0 bestcrm.pro
 0.0.0.0 bestessayscloud.com
 0.0.0.0 bestessayseducationusa.com
 0.0.0.0 bestinfosite.tk
+0.0.0.0 betteraddictioncare.com
 0.0.0.0 bettyoj94.123hjemmeside.no
 0.0.0.0 betwin88.co
 0.0.0.0 bezvoprosa.ru
@@ -415,6 +424,7 @@
 0.0.0.0 cbdoilusd.com
 0.0.0.0 cbdoilusd.com
 0.0.0.0 cbdspectacle.com
+0.0.0.0 cbordsrvweb00.utep.edu
 0.0.0.0 ccener.com
 0.0.0.0 ccwin.cn
 0.0.0.0 cd.adition.com 
@@ -440,7 +450,9 @@
 0.0.0.0 cheapjerseyswholesalesite.com
 0.0.0.0 cheapskytickets.com
 0.0.0.0 chemcook.com
+0.0.0.0 chimmed.ru
 0.0.0.0 cholewa37.universallightkeys.com
+0.0.0.0 chosungreen.softedu.co.kr
 0.0.0.0 chothuelaptop.info
 0.0.0.0 cialisya.com
 0.0.0.0 ciaonlinebuyntx.com
@@ -735,6 +747,7 @@
 0.0.0.0 hexincrement10.live
 0.0.0.0 hielilis.tk
 0.0.0.0 hikvisiondb.webcam
+0.0.0.0 hirbodclinic.com
 0.0.0.0 histua.com
 0.0.0.0 hizemail.com
 0.0.0.0 hljhebeishanghui.com
@@ -783,6 +796,7 @@
 0.0.0.0 inga-mywebsit.ru
 0.0.0.0 ingener.by
 0.0.0.0 inlovequiz.com
+0.0.0.0 insanityflyff.com
 0.0.0.0 instafollowers.co
 0.0.0.0 instructables.com
 0.0.0.0 internetsextoy.com
@@ -804,12 +818,14 @@
 0.0.0.0 javaux52.universallightkeys.com
 0.0.0.0 jdevans.net
 0.0.0.0 jeanscello6.doodlekit.com
+0.0.0.0 jeepalabama.com
 0.0.0.0 jfkdebate.com
 0.0.0.0 jifenbao.geihui.com
 0.0.0.0 jingshenxiaohuo2.xyz
 0.0.0.0 jjhouse.com
 0.0.0.0 jobcons.co.kr
 0.0.0.0 jodas.enersets.com
+0.0.0.0 johannaparker.me
 0.0.0.0 johnathan9inu5.pointblog.net
 0.0.0.0 johnlarkin.emergucate.com
 0.0.0.0 jokermerah.top
@@ -875,6 +891,7 @@
 0.0.0.0 lesbian-tube.tv
 0.0.0.0 letsfish2.fansite.xaa.pl
 0.0.0.0 levinedamborg07.xtgem.com
+0.0.0.0 levothyroxineika.com
 0.0.0.0 lexsrv3.nlm.nih.gov
 0.0.0.0 lg2020.xsl.pt
 0.0.0.0 lhpa.com
@@ -966,6 +983,7 @@
 0.0.0.0 merkle72.universallightkeys.com
 0.0.0.0 mesmmdaten.com
 0.0.0.0 meste.planetsoft.cl
+0.0.0.0 metronidazoleecv.com
 0.0.0.0 mexicaligrillmodesto.com
 0.0.0.0 mhes.tyc.edu.tw
 0.0.0.0 mi77b.cn
@@ -1030,6 +1048,7 @@
 0.0.0.0 nepalcolon6.webgarden.at
 0.0.0.0 nerdgaming.science
 0.0.0.0 netzmarkt.ivwbox.de
+0.0.0.0 neurontindik.com
 0.0.0.0 news.savoya.su
 0.0.0.0 nomcom.co.uk
 0.0.0.0 nomtool.info
@@ -1065,6 +1084,7 @@
 0.0.0.0 ohmygodnews.site
 0.0.0.0 okajils2021.access.ly
 0.0.0.0 okwin22.com
+0.0.0.0 ompyuternyj-klub-ufa-23435.ru
 0.0.0.0 onajeallangumbs.com
 0.0.0.0 oncologychapter.or.ke
 0.0.0.0 onlayn-kredit.ru
@@ -1116,11 +1136,13 @@
 0.0.0.0 polymoney.synology.me
 0.0.0.0 popkino.pro
 0.0.0.0 pornocomicsi.pro
+0.0.0.0 pornozona.club
 0.0.0.0 porns-xxx.com
 0.0.0.0 portugalgoldenvisa.ru
 0.0.0.0 postheaven.net
 0.0.0.0 pp.lp4.io
 0.0.0.0 ppfcapital.com
+0.0.0.0 pregabalingcd.com
 0.0.0.0 presscbu.cbnu.ac.kr
 0.0.0.0 preview.msn.com
 0.0.0.0 pro-pharmaceuticals.com
@@ -1430,6 +1452,7 @@
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 v48100ec.bget.ru
 0.0.0.0 vadaszapro.eu
+0.0.0.0 validcvv.us
 0.0.0.0 vapewatchforum.com
 0.0.0.0 variabledrive.ru
 0.0.0.0 vavada.bitbucket.io
@@ -1490,6 +1513,7 @@
 0.0.0.0 winantivirus.com
 0.0.0.0 wingsofglory.pl
 0.0.0.0 winmall.co.kr
+0.0.0.0 wiringdream.com
 0.0.0.0 withoutadoctorsprescriptions.com
 0.0.0.0 wlhre.com
 0.0.0.0 wm-box.ru
@@ -1513,6 +1537,7 @@
 0.0.0.0 www.1001onlinegames.com
 0.0.0.0 www.100female.ru
 0.0.0.0 www.100guanya.com
+0.0.0.0 www.100ras.ru
 0.0.0.0 www.100tb-porno.ru
 0.0.0.0 www.1010le.com
 0.0.0.0 www.101peoplesearches.com
@@ -1566,6 +1591,7 @@
 0.0.0.0 www.56012.info
 0.0.0.0 www.7.ly
 0.0.0.0 www.72Hwebsite.com
+0.0.0.0 www.77pro.org
 0.0.0.0 www.7ba.info
 0.0.0.0 www.899pic.com
 0.0.0.0 www.918kiss.group
@@ -1636,6 +1662,7 @@
 0.0.0.0 www.anycracks.com
 0.0.0.0 www.arabamericandirectory.org
 0.0.0.0 www.arabhelp.org
+0.0.0.0 www.arenda-trala-1.ru
 0.0.0.0 www.argenteinternational.com
 0.0.0.0 www.arlo-setup.com
 0.0.0.0 www.aroadtrips.com
@@ -1644,6 +1671,7 @@
 0.0.0.0 www.ask.leadr.msu.edu
 0.0.0.0 www.associazionehombre.it
 0.0.0.0 www.assuremoving.in
+0.0.0.0 www.atorvastatinexg.com
 0.0.0.0 www.audacity.de
 0.0.0.0 www.aumento-mamario-2020.eu
 0.0.0.0 www.austein.com
@@ -1656,6 +1684,7 @@
 0.0.0.0 www.ayamlive.org
 0.0.0.0 www.ayamonline.org
 0.0.0.0 www.ayettevillerestaurants.com
+0.0.0.0 www.azithromycinmd.com
 0.0.0.0 www.b-g.by
 0.0.0.0 www.baccarat99th.com
 0.0.0.0 www.badmintonlocker.com
@@ -1671,9 +1700,11 @@
 0.0.0.0 www.benttreecounseling.org
 0.0.0.0 www.bepick.net
 0.0.0.0 www.bestbettingsitesreviews.com
+0.0.0.0 www.bestcrm.pro
 0.0.0.0 www.bestessayscloud.com
 0.0.0.0 www.bestessayseducationusa.com
 0.0.0.0 www.bestinfosite.tk
+0.0.0.0 www.betteraddictioncare.com
 0.0.0.0 www.betwin88.co
 0.0.0.0 www.bezvoprosa.ru
 0.0.0.0 www.biglesbiantits.org
@@ -1753,6 +1784,7 @@
 0.0.0.0 www.cheapjerseyswholesalesite.com
 0.0.0.0 www.cheapskytickets.com
 0.0.0.0 www.chemcook.com
+0.0.0.0 www.chimmed.ru
 0.0.0.0 www.chothuelaptop.info
 0.0.0.0 www.cialisya.com
 0.0.0.0 www.ciaonlinebuyntx.com
@@ -1945,6 +1977,7 @@
 0.0.0.0 www.hexincrement10.live
 0.0.0.0 www.hielilis.tk
 0.0.0.0 www.hikvisiondb.webcam
+0.0.0.0 www.hirbodclinic.com
 0.0.0.0 www.histua.com
 0.0.0.0 www.hizemail.com
 0.0.0.0 www.hljhebeishanghui.com
@@ -1975,6 +2008,7 @@
 0.0.0.0 www.inga-mywebsit.ru
 0.0.0.0 www.ingener.by
 0.0.0.0 www.inlovequiz.com
+0.0.0.0 www.insanityflyff.com
 0.0.0.0 www.instafollowers.co
 0.0.0.0 www.instructables.com
 0.0.0.0 www.internetsextoy.com
@@ -1988,10 +2022,12 @@
 0.0.0.0 www.ivwbox.de
 0.0.0.0 www.japanulled.com
 0.0.0.0 www.jdevans.net
+0.0.0.0 www.jeepalabama.com
 0.0.0.0 www.jfkdebate.com
 0.0.0.0 www.jingshenxiaohuo2.xyz
 0.0.0.0 www.jjhouse.com
 0.0.0.0 www.jobcons.co.kr
+0.0.0.0 www.johannaparker.me
 0.0.0.0 www.jokermerah.top
 0.0.0.0 www.jozz-casino.github.io
 0.0.0.0 www.kdbadmin.com
@@ -2030,6 +2066,7 @@
 0.0.0.0 www.leadclub.net
 0.0.0.0 www.lesbian-orgy.net
 0.0.0.0 www.lesbian-tube.tv
+0.0.0.0 www.levothyroxineika.com
 0.0.0.0 www.lhpa.com
 0.0.0.0 www.lifeshow.com.tw
 0.0.0.0 www.like191.co
@@ -2085,6 +2122,7 @@
 0.0.0.0 www.mel-assessment.com
 0.0.0.0 www.mencialapvip.com
 0.0.0.0 www.mesmmdaten.com
+0.0.0.0 www.metronidazoleecv.com
 0.0.0.0 www.mexicaligrillmodesto.com
 0.0.0.0 www.mhes.tyc.edu.tw
 0.0.0.0 www.mi77b.cn
@@ -2130,6 +2168,7 @@
 0.0.0.0 www.ncpcooperation.hu
 0.0.0.0 www.nemashurrahimi.com
 0.0.0.0 www.nerdgaming.science
+0.0.0.0 www.neurontindik.com
 0.0.0.0 www.nomcom.co.uk
 0.0.0.0 www.nomtool.info
 0.0.0.0 www.nongzaa.cf
@@ -2150,6 +2189,7 @@
 0.0.0.0 www.ofofozone.com
 0.0.0.0 www.ohmygodnews.site
 0.0.0.0 www.okwin22.com
+0.0.0.0 www.ompyuternyj-klub-ufa-23435.ru
 0.0.0.0 www.onajeallangumbs.com
 0.0.0.0 www.oncologychapter.or.ke
 0.0.0.0 www.onlayn-kredit.ru
@@ -2183,10 +2223,12 @@
 0.0.0.0 www.pokerfinds.com
 0.0.0.0 www.popkino.pro
 0.0.0.0 www.pornocomicsi.pro
+0.0.0.0 www.pornozona.club
 0.0.0.0 www.porns-xxx.com
 0.0.0.0 www.portugalgoldenvisa.ru
 0.0.0.0 www.postheaven.net
 0.0.0.0 www.ppfcapital.com
+0.0.0.0 www.pregabalingcd.com
 0.0.0.0 www.pro-pharmaceuticals.com
 0.0.0.0 www.proflashdata.com
 0.0.0.0 www.promokod4u.com
@@ -2374,6 +2416,7 @@
 0.0.0.0 www.uvedifuciq.host
 0.0.0.0 www.v-anal.info
 0.0.0.0 www.vadaszapro.eu
+0.0.0.0 www.validcvv.us
 0.0.0.0 www.vapewatchforum.com
 0.0.0.0 www.variabledrive.ru
 0.0.0.0 www.vendobarato.com
@@ -2414,6 +2457,7 @@
 0.0.0.0 www.winantivirus.com
 0.0.0.0 www.wingsofglory.pl
 0.0.0.0 www.winmall.co.kr
+0.0.0.0 www.wiringdream.com
 0.0.0.0 www.withoutadoctorsprescriptions.com
 0.0.0.0 www.wlhre.com
 0.0.0.0 www.wm-box.ru
@@ -2421,6 +2465,7 @@
 0.0.0.0 www.ww88thai.com
 0.0.0.0 www.xianlingjiaoyu.com
 0.0.0.0 www.xmovs.com
+0.0.0.0 www.xroxy.com
 0.0.0.0 www.xrzhuanqian.xyz
 0.0.0.0 www.xtand.net
 0.0.0.0 www.xxxextreme.org
@@ -2447,11 +2492,13 @@
 0.0.0.0 www.zdrava.org.ua
 0.0.0.0 www.zeenite.com
 0.0.0.0 www.zerobyweva.com
+0.0.0.0 www.zfilm-hd.org
 0.0.0.0 www.zinzin.ru
 0.0.0.0 www.zizl.ru
 0.0.0.0 www.zj-trade.com
 0.0.0.0 www.zm91.com
 0.0.0.0 www.znaniabsolwenci.pl
+0.0.0.0 www.zo7qsh1t1jmrpr3mst.com
 0.0.0.0 www.zoomerart.net
 0.0.0.0 www.zoovector.ru
 0.0.0.0 www.zoroastrianonline.com
@@ -2471,6 +2518,7 @@
 0.0.0.0 xelllwrite.com
 0.0.0.0 xianlingjiaoyu.com
 0.0.0.0 xmovs.com
+0.0.0.0 xroxy.com
 0.0.0.0 xrzhuanqian.xyz
 0.0.0.0 xtand.net
 0.0.0.0 xxxextreme.org
@@ -2502,12 +2550,14 @@
 0.0.0.0 zeenite.com
 0.0.0.0 zenobia71.universallightkeys.com
 0.0.0.0 zerobyweva.com
+0.0.0.0 zfilm-hd.org
 0.0.0.0 zinzin.ru
 0.0.0.0 zizl.ru
 0.0.0.0 zj-trade.com
 0.0.0.0 zjfi2020.xsl.pt
 0.0.0.0 zm91.com
 0.0.0.0 znaniabsolwenci.pl
+0.0.0.0 zo7qsh1t1jmrpr3mst.com
 0.0.0.0 zoomerart.net
 0.0.0.0 zoovector.ru
 0.0.0.0 zoroastrianonline.com
