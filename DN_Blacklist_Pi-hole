@@ -3,7 +3,7 @@
 # That Blacklist was Createt and updated by the Administrators of draconigen.net. You can use it for free in our Pi-Hole
 # Use this url to configure this list in our Pi-Hole: https://raw.githubusercontent.com/DracoDraconigen/dn_blacklist/master/DN_Blacklist_Pi-hole
 # This list contains dangerous sites. These sites may contain spam, viruses, malware and other harmful content. Fake pages are also included.
-#Definitions total: 2473
+#Definitions total: 2476
 # 
 # You want to add or remove a entry? Please write a Mail to: blacklist@dranet.33mail.com
 #
@@ -20,6 +20,7 @@
 0.0.0.0 0n0ak.com
 0.0.0.0 0nes.org
 0.0.0.0 0rdering.com
+0.0.0.0 1.fb.html-load.com
 0.0.0.0 1-3-3-7.net
 0.0.0.0 1-best.ru
 0.0.0.0 1-mecto.ru
@@ -625,6 +626,7 @@
 0.0.0.0 fashionlifemag.com
 0.0.0.0 faz.ivwbox.de
 0.0.0.0 faz.ivwbox.de
+0.0.0.0 fb.html-load.com
 0.0.0.0 fblor2020.xsl.pt
 0.0.0.0 fcialisya.com
 0.0.0.0 fdabanmenthol.net
@@ -770,6 +772,7 @@
 0.0.0.0 hqticket.com
 0.0.0.0 hrusp2020.xsl.pt
 0.0.0.0 hss.servprocedar.com
+0.0.0.0 html-load.com
 0.0.0.0 hu.lug-mueritz.de
 0.0.0.0 huthut.ru
 0.0.0.0 hvqy1.com
